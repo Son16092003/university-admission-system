@@ -1,0 +1,7162 @@
+[
+  {
+    "maTinh": "01",
+    "tenTinh": "Hà Nội",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Ba Vì",
+            "donViHanhChinh": [
+              "Ba Trại",
+              "Khánh Thượng",
+              "Minh Quang",
+              "Tản Lĩnh",
+              "Vân Hòa",
+              "Yên Bài"
+            ]
+          },
+          {
+            "huyen": "Thạch Thất",
+            "donViHanhChinh": [
+              "Tiến Xuân",
+              "Yên Bình",
+              "Yên Trung"
+            ]
+          },
+          {
+            "huyen": "Quốc Oai",
+            "donViHanhChinh": [
+              "Đông Xuân",
+              "Phú Mãn"
+            ]
+          },
+          {
+            "huyen": "Chương Mỹ",
+            "donViHanhChinh": [
+              "Trần Phú"
+            ]
+          },
+          {
+            "huyen": "Mỹ Đức",
+            "donViHanhChinh": [
+              "An Phú"
+            ]
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": [
+          {
+            "huyen": "Thị xã Sơn Tây",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thanh Trì",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Gia Lâm",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Đông Anh",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Sóc Sơn",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Ba Vì",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Phúc Thọ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thạch Thất",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quốc Oai",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Chương Mỹ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Đan Phượng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hoài Đức",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thanh Oai",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Mỹ Đức",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Ứng Hoà",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thường Tín",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Phú Xuyên",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Mê Linh",
+            "donViHanhChinh": []
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": [
+          {
+            "huyen": "Ba Đình",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hoàn Kiếm",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hai Bà Trưng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Đống Đa",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Tây Hồ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Cầu Giấy",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thanh Xuân",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hoàng Mai",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Long Biên",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bắc Từ Liêm",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hà Đông",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Nam Từ Liêm",
+            "donViHanhChinh": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "maTinh": "02",
+    "tenTinh": "TP. HCM",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": [
+          {
+            "huyen": "Bình Chánh",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Cần Giờ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Củ Chi",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hóc Môn",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Nhà Bè",
+            "donViHanhChinh": []
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": [
+          {
+            "huyen": "Quận 1",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 2",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 3",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 4",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 5",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 6",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 7",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 8",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 9",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 10",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 11",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận 12",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bình Thạnh",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Gò Vấp",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Phú Nhuận",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Tân Bình",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thủ Đức",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Tân Phú",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bình Tân",
+            "donViHanhChinh": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "maTinh": "03",
+    "tenTinh": "Hải Phòng",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Thủy Nguyên",
+            "donViHanhChinh": [
+              "Lại Xuân",
+              "Kỳ Sơn",
+              "An Sơn",
+              "Liên Khê",
+              "Lưu Kiếm",
+              "Lưu Kỳ",
+              "Minh Tân"
+            ]
+          },
+          {
+            "huyen": "Cát Hải",
+            "donViHanhChinh": [
+              "Thị trấn Cát Bà",
+              "Trân Châu",
+              "Xuân Đám"
+            ]
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": [
+          {
+            "huyen": "An Dương",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "An Lão",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bạch Long Vĩ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Cát Hải",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Kiến Thụy",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thủy Nguyên",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Tiên Lãng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Vĩnh Bảo",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hồng Bàng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Ngô Quyền",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Lê Chân",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hải An",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Dương Kinh",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Đồ Sơn",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Kiến An",
+            "donViHanhChinh": []
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": []
+      }
+    ]
+  },
+  {
+    "maTinh": "04",
+    "tenTinh": "Đà Nẵng",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Hoàng Sa",
+            "donViHanhChinh": []
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": [
+          {
+            "huyen": "Hòa Vang",
+            "donViHanhChinh": [
+              "Hòa Bắc",
+              "Hòa Châu",
+              "Hòa Khương",
+              "Hòa Liên",
+              "Hòa Nhơn",
+              "Hòa Ninh",
+              "Hòa Phong",
+              "Hòa Phú",
+              "Hòa Phước",
+              "Hòa Sơn",
+              "Hòa Tiến"
+            ]
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": [
+          {
+            "huyen": "Quận Hải Châu",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận Thanh Khê",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận Sơn Trà",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận Ngũ Hành Sơn",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận Cẩm Lệ",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quận Liên Chiểu",
+            "donViHanhChinh": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "maTinh": "05",
+    "tenTinh": "Hà Giang",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Hà Giang (thành phố)",
+            "donViHanhChinh": [
+              "Phường Minh Khai",
+              "Phường Ngọc Hà",
+              "Phường Nguyễn Trãi",
+              "Phường Quang Trung",
+              "Phường Trần Phú",
+              "Xã Ngọc Đường",
+              "Xã Phương Độ",
+              "Xã Phương Thiện"
+            ]
+          },
+          {
+            "huyen": "Bắc Mê",
+            "donViHanhChinh": [
+              "Thị trấn Yên Phú",
+              "Xã Đường Âm",
+              "Xã Đường Hồng",
+              "Xã Giáp Trung",
+              "Xã Lạc Nông",
+              "Xã Minh Ngọc",
+              "Xã Minh Sơn",
+              "Xã Phiêng Luông",
+              "Xã Phú Nam",
+              "Xã Thượng Tân",
+              "Xã Yên Cường",
+              "Xã Yên Định",
+              "Xã Yên Phong"
+            ]
+          },
+          {
+            "huyen": "Đồng Văn",
+            "donViHanhChinh": [
+              "Thị trấn Đồng Văn",
+              "Thị trấn Phố Bảng",
+              "Xã Hố Quáng Phìn",
+              "Xã Lũng Cú",
+              "Xã Lũng Phìn",
+              "Xã Lũng Táo",
+              "Xã Lũng Thầu",
+              "Xã Má Lé",
+              "Xã Phố Cáo",
+              "Xã Phố Là",
+              "Xã Sà Phìn",
+              "Xã Sảng Tủng",
+              "Xã Sính Lủng",
+              "Xã Sủng Trái",
+              "Xã Tả Lủng",
+              "Xã Tả Phìn",
+              "Xã Thài Phìn Tủng",
+              "Xã Vần Chải"
+            ]
+          },
+          {
+            "huyen": "Hoàng Su Phì",
+            "donViHanhChinh": [
+              "Thị trấn Vinh Quang",
+              "Xã Bản Luốc",
+              "Xã Bản Máy",
+              "Xã Bản Nhùng",
+              "Xã Bản Phùng",
+              "Xã Chiến Phố",
+              "Xã Đản Ván",
+              "Xã Hồ Thầu",
+              "Xã Nam Sơn",
+              "Xã Nàng Đôn",
+              "Xã Nậm Dịch",
+              "Xã Nậm Khòa",
+              "Xã Nậm Ty",
+              "Xã Ngàm Đăng Vai",
+              "Xã Pố Lồ",
+              "Xã Pờ Ly Ngài",
+              "Xã Sán Xả Hồ",
+              "Xã Tả Sử Chóng",
+              "Xã Tân Tiến",
+              "Xã Thàng Tín",
+              "Xã Thèn Chu Phìn",
+              "Xã Thông Nguyên",
+              "Xã Tụ Nhân",
+              "Xã Túng Sán"
+            ]
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": []
+      }
+    ]
+  },
+  {
+    "maTinh": "06",
+    "tenTinh": "Cao Bằng",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Thành phố Cao Bằng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bảo Lâm",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Bảo Lạc",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hà Quảng",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hạ Lang",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Hòa An",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Nguyên Bình",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Quảng Hòa",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Thạch An",
+            "donViHanhChinh": []
+          },
+          {
+            "huyen": "Trùng Khánh",
+            "donViHanhChinh": []
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": []
+      }
+    ]
+  },
+  {
+    "maTinh": "07",
+    "tenTinh": "Lai Châu",
+    "khuVuc": [
+      {
+        "loaiKhuVuc": "KV1",
+        "diemCongKV": 0.75,
+        "chiTietKV": [
+          {
+            "huyen": "Thành phố Lai Châu",
+            "donViHanhChinh": [
+              "Phường Quyết Thắng",
+              "Phường Tân Phong",
+              "Phường Quyết Tiến",
+              "Phường Đoàn Kết",
+              "Phường Đông Phong",
+              "Xã Nậm Loỏng",
+              "Xã San Thàng"
+            ]
+          },
+          {
+            "huyen": "Than Uyên",
+            "donViHanhChinh": [
+              "Xã Mường Kim",
+              "Xã Khoen On",
+              "Xã Mường Than",
+              "Xã Phúc Than",
+              "Xã Tà Gia",
+              "Xã Mường Mít",
+              "Xã Pha Mu",
+              "Xã Mường Cang",
+              "Xã Hua Nà"
+            ]
+          },
+          {
+            "huyen": "Tân Uyên",
+            "donViHanhChinh": [
+              "Xã Tân Uyên",
+              "Xã Mường Khoa",
+              "Xã Nậm Cần",
+              "Xã Nậm Sỏ",
+              "Xã Pắc Ta",
+              "Xã Phúc Khoa",
+              "Xã Trung Đồng",
+              "Xã Thân Thuộc"
+            ]
+          },
+          {
+            "huyen": "Mường Tè",
+            "donViHanhChinh": [
+              "Thị trấn Mường Tè",
+              "Xã Bum Tở",
+              "Xã Mường Tè",
+              "Xã Thu Lũm",
+              "Xã Pa Ủ",
+              "Xã Bum Nưa",
+              "Xã Hua Bum",
+              "Xã Pa Tần"
+            ]
+          }
+        ]
+      },
+      {
+        "loaiKhuVuc": "KV2-NT",
+        "diemCongKV": 0.5,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV2",
+        "diemCongKV": 0.25,
+        "chiTietKV": []
+      },
+      {
+        "loaiKhuVuc": "KV3",
+        "diemCongKV": 0,
+        "chiTietKV": []
+      }
+    ]
+  },
+  {
+  "maTinh": "08",
+  "tenTinh": "Lào Cai",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Lào Cai",
+          "donViHanhChinh": ["Bắc Cường","Bắc Lệnh","Bình Minh","Cốc Lếu","Duyên Hải","Kim Tân","Lào Cai","Nam Cường","Phố Mới","Pom Hán","Cam Đường","Cốc San","Đồng Tuyển","Hợp Thành","Tả Phời","Thống Nhất","Vạn Hoà","Xuân Tăng"]
+        },
+        {
+          "huyen": "Mường Khương",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bát Xát",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bắc Hà",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bảo Thắng",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bảo Yên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Si Ma Cai",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Sa Pa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Văn Bàn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    { "loaiKhuVuc": "KV2-NT", "diemCongKV": 0.5, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV2", "diemCongKV": 0.25, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV3", "diemCongKV": 0, "chiTietKV": [] }
+  ]
+},
+{
+  "maTinh": "09",
+  "tenTinh": "Tuyên Quang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Tuyên Quang",
+          "donViHanhChinh": ["Tràng Đà", "Lưỡng Vượng", "An Khang", "Thái Long", "Đội Cấn", "Hưng Thành", "Nông Tiến", "Ỷ La", "Minh Xuân", "Phan Thiết", "Tân Quang", "Tân Hà", "An Tường"]
+        },
+        {
+          "huyen": "Chiêm Hoá",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hàm Yên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Lâm Bình",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Na Hang",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Sơn Dương",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Yên Sơn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    { "loaiKhuVuc": "KV2-NT", "diemCongKV": 0.5, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV2", "diemCongKV": 0.25, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV3", "diemCongKV": 0, "chiTietKV": [] }
+  ]
+},
+{
+  "maTinh": "10",
+  "tenTinh": "Lạng Sơn",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Lạng Sơn",
+          "donViHanhChinh": ["Phường Đông Kinh", "Phường Hoàng Văn Thụ", "Phường Tam Thanh", "Phường Vĩnh Trại", "Phường Chi Lăng", "Xã Hoàng Đồng", "Xã Vĩnh Trại", "Xã Hợp Giang"]
+        },
+        {
+          "huyen": "Bắc Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bình Gia",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Cao Lộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Chi Lăng",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Đình Lập",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hữu Lũng",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Lộc Bình",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Tràng Định",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Văn Lãng",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Văn Quan",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    { "loaiKhuVuc": "KV2-NT", "diemCongKV": 0.5, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV2", "diemCongKV": 0.25, "chiTietKV": [] },
+    { "loaiKhuVuc": "KV3", "diemCongKV": 0, "chiTietKV": [] }
+  ]
+},
+{
+  "maTinh": "11",
+  "tenTinh": "Bắc Kạn",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Bắc Kạn",
+          "donViHanhChinh": ["Phường Đức Xuân", "Phường Huyền Tụng", "Phường Nguyễn Thị Minh Khai", "Phường Phùng Chí Kiên", "Phường Sông Cầu", "Phường Xuất Hóa", "Xã Dương Quang", "Xã Nông Thượng"]
+        },
+        {
+          "huyen": "Ba Bể",
+          "donViHanhChinh": ["Thị trấn Chợ Rã", "Bành Trạch", "Cao Thượng", "Cao Trĩ", "Chu Hương", "Địa Linh", "Đồng Phúc", "Hà Hiệu", "Hoàng Trĩ", "Khang Ninh", "Mỹ Phương", "Nam Mẫu", "Phúc Lộc", "Quảng Khê", "Thượng Giáo", "Yến Dương"]
+        },
+        {
+          "huyen": "Bạch Thông",
+          "donViHanhChinh": ["Thị trấn Phủ Thông", "Cẩm Giàng", "Cao Sơn", "Đôn Phong", "Dương Phong", "Lục Bình", "Mỹ Thanh", "Nguyên Phúc", "Quân Bình", "Quang Thuận", "Sĩ Bình", "Tân Tiến", "Vi Hương", "Vũ Muộn"]
+        },
+        {
+          "huyen": "Chợ Đồn",
+          "donViHanhChinh": ["Thị trấn Bằng Lũng", "Bản Thi", "Bằng Lãng", "Bằng Phúc", "Bình Trung", "Đại Sảo", "Đồng Lạc", "Lương Bằng", "Nam Cường", "Nghĩa Tá", "Ngọc Phái", "Phương Viên", "Quảng Bạch", "Tân Lập", "Xuân Lạc", "Yên Mỹ", "Yên Phong", "Yên Thượng", "Yên Thịnh"]
+        },
+        {
+          "huyen": "Chợ Mới",
+          "donViHanhChinh": ["Thị trấn Chợ Mới", "Bình Văn", "Cao Kỳ", "Hòa Mục", "Mai Lạp", "Như Cố", "Nông Hạ", "Quảng Chu", "Tân Sơn", "Thanh Mai", "Thanh Thịnh", "Thanh Vận", "Yên Cư", "Yên Hân"]
+        },
+        {
+          "huyen": "Ngân Sơn",
+          "donViHanhChinh": ["Thị trấn Vân Tùng", "Thị trấn Nà Phặc", "Bằng Vân", "Cốc Đán", "Đức Vân", "Thuần Mang", "Thượng Ân", "Thượng Quan", "Trung Hòa", "Vân Tùng"]
+        },
+        {
+          "huyen": "Na Rì",
+          "donViHanhChinh": ["Thị trấn Yến Lạc", "Ân Tình", "Cư Lễ", "Cường Lợi", "Dương Sơn", "Đổng Xá", "Kim Hỷ", "Kim Lư", "Làng Ngâm", "Liêm Thủy", "Lương Hạ", "Lương Thượng", "Quang Phong", "Văn Học", "Văn Minh", "Vũ Loan", "Xuân Dương"]
+        },
+        {
+          "huyen": "Pác Nặm",
+          "donViHanhChinh": ["An Thắng", "Bằng Thành", "Bộc Bố", "Cao Tân", "Cổ Linh", "Công Bằng", "Giáo Hiệu", "Nghiên Loan", "Nhạn Môn", "Xuân La"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "12",
+  "tenTinh": "Thái Nguyên",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        { "huyen": "Võ Nhai", "donViHanhChinh": ["Võ Nhai","La Hiên","Dân Tích","Thần Sa","Nghinh Tường","Tràng Xá","Vô Tranh","Hợp Thành"] },
+        { "huyen": "Định Hóa", "donViHanhChinh": ["Định Hóa","Bình Yên","Trung Hội","Phượng Tiến","Phú Đình"] },
+        { "huyen": "Đại Từ", "donViHanhChinh": ["Đại Phúc","Đức Lương","Phú Thịnh","La Bằng","Quân Chu","An Khánh","Vạn Phú","Phú Xuyên"] },
+        { "huyen": "Phú Lương", "donViHanhChinh": ["Phú Lương","Yên Trạch","Vân Hòa","Nông Tiến"] },
+        { "huyen": "Đồng Hỷ", "donViHanhChinh": ["Đồng Hỷ","Quang Sơn","Nam Hòa","Văn Lăng"] },
+        {
+          "huyen": "Thị xã Phổ Yên",
+          "donViHanhChinh": ["Phúc Thuận","Minh Đức","Tân Kim","Tân Hòa","Tân Khánh","Tân Thành","Bàn Đạt","Kha Sơn","Thành Công","Vạn Phái","Tiên Phong","Bắc Sơn"]
+        },
+        {
+          "huyen": "Huyện Phú Bình",
+          "donViHanhChinh": ["Phú Bình","Tân Thành","Kha Sơn","Điềm Thụy","Tân Khánh","Tân Kim","Tân Hòa"]
+        },
+        { "huyen": "Thành phố Sông Công", "donViHanhChinh": ["Bình Sơn"] },
+        {
+          "huyen": "Thành phố Thái Nguyên",
+          "donViHanhChinh": ["Tân Cương","Phúc Trìu","Phúc Xuân","Phúc Hà","Thịnh Đức","Đồng Bẩm","Cao Ngạn","Đồng Liên","Sơn Cẩm","Chùa Hang","Linh Sơn","Huống Thượng"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Phú Bình",
+          "donViHanhChinh": ["Nhã Lộng","Nga My","Bảo Lý"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Phổ Yên",
+          "donViHanhChinh": ["Phổ Yên","Vạn Xuân","Trung Thành"]
+        },
+        {
+          "huyen": "Thành phố Sông Công",
+          "donViHanhChinh": ["Sông Công","Bá Xuyên","Bách Quang","Tân Quang","Vinh Sơn"]
+        },
+        {
+          "huyen": "Thành phố Thái Nguyên",
+          "donViHanhChinh": ["Phan Đình Phùng","Linh Sơn","Tích Lương","Gia Sàng","Quyết Thắng","Quan Triều"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "13",
+  "tenTinh": "Yên Bái",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Yên Bái",
+          "donViHanhChinh": ["Phường Văn Phú","Phường Yên Bái","Phường Nam Cường","Phường Âu Lâu"]
+        },
+        {
+          "huyen": "Thị xã Nghĩa Lộ",
+          "donViHanhChinh": ["Phường Nghĩa Lộ","Phường Cầu Thia","Phường Trung Tâm","Xã Liên Sơn"]
+        },
+        {
+          "huyen": "Huyện Mù Cang Chải",
+          "donViHanhChinh": ["Xã Mù Cang Chải","Xã Khao Mang","Xã Púng Luông","Xã Chế Tạo","Xã Nậm Có","Xã Lao Chải","Xã Tú Lệ"]
+        },
+        {
+          "huyen": "Huyện Trạm Tấu",
+          "donViHanhChinh": ["Xã Trạm Tấu","Xã Hạnh Phúc","Xã Phình Hồ","Xã Tà Xi Láng"]
+        },
+        {
+          "huyen": "Huyện Trấn Yên",
+          "donViHanhChinh": ["Xã Trấn Yên","Xã Lương Thịnh","Xã Hưng Khánh","Xã Việt Hồng","Xã Quy Mông"]
+        },
+        {
+          "huyen": "Huyện Văn Chấn",
+          "donViHanhChinh": ["Xã Văn Chấn","Xã Gia Hội","Xã Thượng Bằng La","Xã Chấn Thịnh","Xã Nghĩa Tâm","Xã Sơn Lương","Xã Cát Thịnh"]
+        },
+        {
+          "huyen": "Huyện Văn Yên",
+          "donViHanhChinh": ["Xã Mậu A","Xã An Bình","Xã Đông Cuông","Xã Lang Thíp","Xã Lâm Giang","Xã Xuân Ái","Xã Phong Dụ Thượng","Xã Châu Quế","Xã Phong Dụ Hạ"]
+        },
+        {
+          "huyen": "Huyện Lục Yên",
+          "donViHanhChinh": ["Xã Lục Yên","Xã Tân Lĩnh","Xã Lâm Thượng","Xã Khánh Hòa","Xã Phúc Lợi","Xã Mường Lai"]
+        },
+        {
+          "huyen": "Huyện Yên Bình",
+          "donViHanhChinh": ["Xã Yên Bình","Xã Cẩm Nhân","Xã Yên Thành","Xã Thác Bà","Xã Bảo Ái"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "14",
+  "tenTinh": "Sơn La",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Sơn La",
+          "donViHanhChinh": [
+            "Phường Tô Hiệu",
+            "Phường Chiềng An",
+            "Phường Chiềng Cơi",
+            "Phường Chiềng Sinh",
+            "Phường Mộc Châu",
+            "Phường Mộc Sơn",
+            "Phường Vân Sơn",
+            "Phường Thảo Nguyên",
+            "Xã Chiềng Cọ",
+            "Xã Chiềng Đen",
+            "Xã Chiềng Xôm",
+            "Xã Chiềng Ngần",
+            "Xã Hua La"
+          ]
+        },
+        {
+          "huyen": "Thị xã Mộc Châu",
+          "donViHanhChinh": [
+            "Phường Mộc Châu",
+            "Xã Đoàn Kết",
+            "Xã Lóng Sập",
+            "Xã Chiềng Sơn",
+            "Xã Vân Hồ",
+            "Xã Song Khủa",
+            "Xã Tô Múa",
+            "Xã Xuân Nha"
+          ]
+        },
+        {
+          "huyen": "Huyện Quỳnh Nhai",
+          "donViHanhChinh": [
+            "Xã Quỳnh Nhai",
+            "Xã Chiềng Bằng",
+            "Xã Chiềng Khoang",
+            "Xã Chiềng Ơn"
+          ]
+        },
+        {
+          "huyen": "Huyện Mường La",
+          "donViHanhChinh": ["Xã Mường La"]
+        },
+        {
+          "huyen": "Huyện Bắc Yên",
+          "donViHanhChinh": [
+            "Thị trấn Bắc Yên",
+            "Xã Hang Chú",
+            "Xã Háng Đồng",
+            "Xã Tà Xùa",
+            "Xã Xím Vàng",
+            "Xã Tạ Khoa",
+            "Xã Pắc Ngà",
+            "Xã Phiêng Ban",
+            "Xã Chiềng Sại",
+            "Xã Chim Vàn",
+            "Xã Hua Nhàn",
+            "Xã Làng Chếu",
+            "Xã Mường Khoa"
+          ]
+        },
+        {
+          "huyen": "Huyện Mai Sơn",
+          "donViHanhChinh": ["Xã Mai Sơn"]
+        },
+        {
+          "huyen": "Huyện Yên Châu",
+          "donViHanhChinh": ["Xã Yên Châu"]
+        },
+        {
+          "huyen": "Huyện Thuận Châu",
+          "donViHanhChinh": ["Xã Thuận Châu"]
+        },
+        {
+          "huyen": "Huyện Mường Sại",
+          "donViHanhChinh": ["Xã Mường Sại"]
+        },
+        {
+          "huyen": "Huyện Mường Chiên",
+          "donViHanhChinh": ["Xã Mường Chiên"]
+        },
+        {
+          "huyen": "Huyện Mường Giôn",
+          "donViHanhChinh": ["Xã Mường Giôn"]
+        },
+        {
+          "huyen": "Huyện Chiềng Khương",
+          "donViHanhChinh": ["Xã Chiềng Khương"]
+        },
+        {
+          "huyen": "Huyện Chiềng Khoong",
+          "donViHanhChinh": ["Xã Chiềng Khoong"]
+        },
+        {
+          "huyen": "Huyện Mường Hung",
+          "donViHanhChinh": ["Xã Mường Hưng"]
+        },
+        {
+          "huyen": "Huyện Chiềng Sung",
+          "donViHanhChinh": ["Xã Chiềng Sung"]
+        },
+        {
+          "huyen": "Huyện Chiềng Khăm",
+          "donViHanhChinh": ["Xã Bó Sinh"]
+        },
+        {
+          "huyen": "Huyện Tân Yên",
+          "donViHanhChinh": ["Xã Tân Yên"]
+        },
+        {
+          "huyen": "Huyện Ngọc Chiến",
+          "donViHanhChinh": ["Xã Ngọc Chiến"]
+        },
+        {
+          "huyen": "Huyện Suối Tọ",
+          "donViHanhChinh": ["Xã Suối Tọ"]
+        },
+        {
+          "huyen": "Huyện Phiêng Khoài",
+          "donViHanhChinh": ["Xã Phiêng Khoài"]
+        },
+        {
+          "huyen": "Huyện Mường Bám",
+          "donViHanhChinh": ["Xã Mường Bám"]
+        },
+        {
+          "huyen": "Huyện Mường Lạn",
+          "donViHanhChinh": ["Xã Mường Lạn"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "15",
+  "tenTinh": "Phú Thọ",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Việt Trì",
+          "donViHanhChinh": ["Xã Chu Hóa","Xã Hy Cương","Xã Kim Đức","Xã Thanh Đình"]
+        },
+        {
+          "huyen": "Thị xã Phú Thọ",
+          "donViHanhChinh": ["Xã Hà Thạch","Xã Phú Hộ"]
+        },
+        {
+          "huyen": "Huyện Lâm Thao",
+          "donViHanhChinh": ["Thị trấn Hùng Sơn","Xã Tiên Kiên","Xã Xuân Lũng","Xã Phùng Nguyên","Xã Bản Nguyên"]
+        },
+        {
+          "huyen": "Huyện Thanh Ba",
+          "donViHanhChinh": ["Xã Thanh Ba","Xã Đồng Xuân","Xã Hanh Cù","Xã Vân Lĩnh","Xã Quảng Yên","Xã Hoàng Cương","Xã Đông Thành","Xã Chí Tiên"]
+        },
+        {
+          "huyen": "Huyện Hạ Hòa",
+          "donViHanhChinh": ["Xã Hạ Hòa","Xã Minh Hạc","Xã Ấm Hạ","Xã Gia Điền","Xã Đan Thượng","Xã Yên Kỳ","Xã Vĩnh Chân","Xã Văn Lang","Xã Hiền Lương"]
+        },
+        {
+          "huyen": "Huyện Cẩm Khê",
+          "donViHanhChinh": ["Xã Cẩm Khê","Xã Minh Tân","Xã Phong Thịnh","Xã Hùng Việt","Xã Đồng Lương","Xã Ngô Xá"]
+        },
+        {
+          "huyen": "Huyện Phù Ninh",
+          "donViHanhChinh": ["Xã Phù Ninh","Xã Dân Chủ","Xã Phú Mỹ","Xã Trạm Thản","Xã Bình Phú"]
+        },
+        {
+          "huyen": "Huyện Đoan Hùng",
+          "donViHanhChinh": ["Xã Đoan Hùng","Xã Tây Cốc","Xã Chân Mộng","Xã Chí Đám","Xã Bằng Luân"]
+        },
+        {
+          "huyen": "Huyện Yên Lập",
+          "donViHanhChinh": ["Xã Yên Lập","Xã Thượng Long","Xã Sơn Lương","Xã Xuân Viên","Xã Minh Hòa","Xã Mỹ Lung","Xã Mỹ Lương","Xã Lương Sơn","Xã Xuân An","Xã Hưng Long","Xã Ngọc Lập","Xã Đồng Lạc"]
+        },
+        {
+          "huyen": "Huyện Tân Sơn",
+          "donViHanhChinh": ["Xã Tân Sơn","Xã Minh Đài","Xã Lai Đồng","Xã Xuân Đài","Xã Long Cốc","Xã Thu Cúc","Xã Tân Phú","Xã Mỹ Thuận","Xã Thạch Kiệt","Xã Văn Luông","Xã Tam Thanh","Xã Vinh Tiền"]
+        },
+        {
+          "huyen": "Huyện Thanh Sơn",
+          "donViHanhChinh": ["Xã Thanh Sơn","Xã Võ Miếu","Xã Văn Miếu","Xã Cự Đồng","Xã Hương Cần","Xã Yên Sơn","Xã Khả Cửu","Xã Sơn Hùng","Xã Địch Quả","Xã Giáp Lai","Xã Thục Luyện","Xã Thạch Khoán","Xã Cự Thắng","Xã Tất Thắng","Xã Thắng Sơn","Xã Tân Minh","Xã Yên Lãng","Xã Yên Lương","Xã Thượng Cửu","Xã Lương Nha"]
+        },
+        {
+          "huyen": "Huyện Tam Nông",
+          "donViHanhChinh": ["Xã Hưng Hóa","Xã Quang Húc","Xã Hiền Quan","Xã Văn Lương","Xã Cổ Tiết","Xã Hương Nộn","Xã Thọ Văn","Xã Dị Nậu","Xã Dân Quyền","Xã Tề Lễ","Xã Tứ Mỹ","Xã Xuân Quang"]
+        },
+        {
+          "huyen": "Huyện Thanh Thủy",
+          "donViHanhChinh": ["Xã Thanh Thủy","Xã Thạch Đồng","Xã Tân Phương","Xã La Phù","Xã Sơn Thủy","Xã Hoàng Xá","Xã Trung Thịnh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Thanh Ba",
+          "donViHanhChinh": ["Xã Đỗ Sơn","Xã Đỗ Xuyên","Xã Lương Lỗ","Xã Thanh Hà","Xã Vũ Yển"]
+        },
+        {
+          "huyen": "Huyện Hạ Hòa",
+          "donViHanhChinh": ["Xã Vụ Cầu"]
+        },
+        {
+          "huyen": "Huyện Cẩm Khê",
+          "donViHanhChinh": ["Xã Phương Xá","Xã Đồng Cam","Xã Sai Nga","Xã Hiền Đa","Xã Cát Trù"]
+        },
+        {
+          "huyen": "Huyện Phù Ninh",
+          "donViHanhChinh": ["Xã Bình Bộ","Xã Tử Đà","Xã Vĩnh Phú"]
+        },
+        {
+          "huyen": "Huyện Tam Nông",
+          "donViHanhChinh": ["Xã Hồng Đà","Xã Tam Cường","Xã Vực Trường"]
+        },
+        {
+          "huyen": "Huyện Thanh Thủy",
+          "donViHanhChinh": ["Xã Bảo Yên","Xã Đoan Hạ","Xã Đồng Luận","Xã Xuân Lộc"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Việt Trì",
+          "donViHanhChinh": ["Phường Việt Trì","Phường NôngTrang","Phường Thanh Miếu","Phường Vân Phú","Xã Hy Cương"]
+        },
+        {
+          "huyen": "Thị xã Phú Thọ",
+          "donViHanhChinh": ["Phường Phú Thọ","Phường Phong Châu","Phường Âu Cơ"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "16",
+  "tenTinh": "Vĩnh Phúc",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Tam Đảo",
+          "donViHanhChinh": ["Tam Đảo", "Đại Đình", "Đạo Trù"]
+        },
+        {
+          "huyen": "Tam Dương",
+          "donViHanhChinh": ["Tam Dương Bắc", "Tam Dương", "Hội Thịnh", "Hoàng An"]
+        },
+        {
+          "huyen": "Lập Thạch",
+          "donViHanhChinh": ["Lập Thạch", "Tiên Lữ", "Thái Hòa", "Liên Hòa", "Hợp Lý", "Sơn Đông"]
+        },
+        {
+          "huyen": "Sông Lô",
+          "donViHanhChinh": ["Tam Sơn", "Sông Lô", "Hải Lựu", "Yên Lãng"]
+        },
+        {
+          "huyen": "Yên Lạc",
+          "donViHanhChinh": ["Yên Lạc"]
+        },
+        {
+          "huyen": "Vĩnh Tường",
+          "donViHanhChinh": ["Vĩnh Tường", "Thổ Tang", "Vĩnh Hưng", "Vĩnh An", "Vĩnh Phú", "Vĩnh Thành"]
+        },
+        {
+          "huyen": "Bình Xuyên",
+          "donViHanhChinh": ["Bình Nguyên", "Xuân Lãng", "Bình Tuyền", "Bình Xuyên"]
+        },
+        {
+          "huyen": "Phúc Yên",
+          "donViHanhChinh": ["Phường Vĩnh Phúc", "Xã Ngọc Thanh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Yên Lạc",
+          "donViHanhChinh": ["Tề Lỗ", "Liên Châu", "Tam Hồng", "Nguyệt Đức"]
+        },
+        {
+          "huyen": "Vĩnh Tường",
+          "donViHanhChinh": []  
+        },
+        {
+          "huyen": "Tam Dương",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Sông Lô",
+          "donViHanhChinh": [] 
+        },
+        {
+          "huyen": "Lập Thạch",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bình Xuyên",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Vĩnh Yên",
+          "donViHanhChinh": ["Phường Vĩnh Phúc"]
+        },
+        {
+          "huyen": "Phúc Yên",
+          "donViHanhChinh": []  
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "17",
+  "tenTinh": "Quảng Ninh",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Ba Chẽ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bình Liêu",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Cô Tô",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "TP Hạ Long",
+          "donViHanhChinh": ["Đại Yên", "Hà Khánh", "Hà Phong", "Hà Trung", "Việt Hưng"]
+        },
+        {
+          "huyen": "TP Cẩm Phả",
+          "donViHanhChinh": ["Mông Dương", "Quang Hanh", "Cẩm Hải", "Cộng Hòa", "Dương Huy"]
+        },
+        {
+          "huyen": "TP Uông Bí",
+          "donViHanhChinh": ["Bắc Sơn", "Nam Khê", "Phương Đông", "Vàng Danh", "Yên Thanh", "Thượng Yên Công"]
+        },
+        {
+          "huyen": "TP Móng Cái",
+          "donViHanhChinh": ["Hải Hòa", "Hải Yên", "Ninh Dương", "Bắc Sơn", "Hải Đông", "Hải Sơn", "Hải Tiến", "Hải Xuân", "Quảng Nghĩa", "Vĩnh Thực", "Vĩnh Trung"]
+        },
+        {
+          "huyen": "Đầm Hà",
+          "donViHanhChinh": ["Đại Bình", "Đầm Hà", "Dực Yên", "Quảng An", "Quảng Lâm", "Quảng Lợi", "Quảng Tân", "Tân Bình", "Tân Lập"]
+        },
+        {
+          "huyen": "Hải Hà",
+          "donViHanhChinh": ["Cái Chiên", "Đường Hoa", "Quảng Đức", "Quảng Long", "Quảng Phong", "Quảng Sơn", "Quảng Thành", "Quảng Thịnh", "Tiến Tới"]
+        },
+        {
+          "huyen": "Tiên Yên",
+          "donViHanhChinh": ["Đại Dực", "Đại Thành", "Điền Xá", "Đông Hải", "Đông Ngũ", "Đồng Rui", "Hà Lâu", "Hải Lạng", "Phong Dụ", "Tiên Lãng", "Yên Than"]
+        },
+        {
+          "huyen": "Thị xã Đông Triều",
+          "donViHanhChinh": ["An Sinh", "Bình Dương", "Bình Khê", "Hoàng Quế", "Hồng Thái Đông", "Hồng Thái Tây", "Nguyễn Huệ", "Tân Việt", "Thủy An", "Tràng Lương", "Việt Dân", "Yên Đức", "Yên Thọ", "Mạo Khê"]
+        },
+        {
+          "huyen": "Thị xã Quảng Yên",
+          "donViHanhChinh": ["Đông Mai", "Minh Thành", "Hoàng Tân"]
+        },
+        {
+          "huyen": "Huyện Hoành Bồ",
+          "donViHanhChinh": ["Bằng Cả", "Dân Chủ", "Đồng Lâm", "Đồng Sơn", "Hòa Bình", "Kỳ Thượng", "Quảng La", "Sơn Dương", "Tân Dân", "Thống Nhất", "Vũ Oai"]
+        },
+        {
+          "huyen": "Huyện Vân Đồn",
+          "donViHanhChinh": ["Bình Dân", "Đài Xuyên", "Đoàn Kết", "Đông Xá", "Minh Châu", "Quan Lạn", "Thắng Lợi", "Vạn Yên"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Đầm Hà",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hải Hà",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Tiên Yên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Hoành Bồ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Vân Đồn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "TP Hạ Long",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "TP Cẩm Phả",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "TP Uông Bí",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "TP Móng Cái",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thị xã Đông Triều",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thị xã Quảng Yên",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},  
+{
+  "maTinh": "18",
+  "tenTinh": "Bắc Giang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Sơn Động",
+          "donViHanhChinh": ["An Lạc", "An Bá", "Cẩm Đàn", "Dương Hưu", "Giáo Liêm", "Hữu Sản", "Lệ Viễn", "Long Sơn", "Phúc Sơn", "Quế Sơn", "Thanh Luận", "Tuấn Đạo", "Vân Sơn", "Vĩnh An", "Yên Định"]
+        },
+        {
+          "huyen": "Lục Ngạn",
+          "donViHanhChinh": ["Biển Động", "Cấm Sơn", "Đèo Gia", "Đồng Cốc", "Giáp Sơn", "Hộ Đáp", "Hồng Giang", "Kim Sơn", "Kiên Lao", "Kiên Thành", "Nam Dương", "Nghĩa Hồ", "Phong Minh", "Phong Vân", "Phú Nhuận", "Phượng Sơn", "Quý Sơn", "Sơn Hải", "Tân Hoa", "Tân Lập", "Tân Mộc", "Tân Quang", "Tân Sơn", "Thanh Hải", "Trù Hựu", "Xa Lý"]
+        },
+        {
+          "huyen": "Lục Nam",
+          "donViHanhChinh": ["Bảo Đài", "Bảo Sơn", "Bắc Lũng", "Cẩm Lý", "Chu Điện", "Cương Sơn", "Đan Hội", "Đông Hưng", "Đông Phú", "Huyền Sơn", "Khám Lạng", "Lan Mẫu", "Lục Sơn", "Nghĩa Phương", "Phương Sơn", "Tam Dị", "Thanh Lâm", "Tiên Nha", "Trường Giang", "Trường Sơn", "Vô Tranh", "Vũ Xá", "Yên Sơn"]
+        },
+        {
+          "huyen": "Yên Thế",
+          "donViHanhChinh": ["An Thượng", "Bố Hạ", "Canh Nậu", "Đồng Hưu", "Đồng Kỳ", "Đồng Lạc", "Đồng Tâm", "Đồng Tiến", "Đồng Vương", "Đông Sơn", "Hương Vĩ", "Phồn Xương", "Tam Hiệp", "Tam Tiến", "Tân Hiệp", "Tân Sỏi", "Tiến Thắng", "Xuân Lương", "Cầu Gồ"]
+        },
+        {
+          "huyen": "Tân Yên",
+          "donViHanhChinh": ["An Dương", "Cao Thượng", "Cao Xá", "Đại Hóa", "Hợp Đức", "Lan Giới", "Lam Cốt", "Liên Chung", "Liên Sơn", "Ngọc Châu", "Ngọc Lý", "Ngọc Thiện", "Ngọc Vân", "Nhã Nam", "Phúc Hòa", "Phúc Sơn", "Quang Tiến", "Quế Nham", "Song Vân", "Tân Trung", "Việt Lập", "Việt Ngọc"]
+        },
+        {
+          "huyen": "Yên Dũng",
+          "donViHanhChinh": ["Cảnh Thụy", "Đồng Phúc", "Đồng Việt", "Đức Giang", "Hương Gián", "Lãng Sơn", "Nham Sơn", "Nội Hoàng", "Quỳnh Sơn", "Tiến Dũng", "Tiền Phong", "Tư Mại", "Tân Dân", "Tân Liễu", "Tân Mỹ", "Trí Yên", "Yên Lư", "Thắng Cương", "Neo"]
+        },
+        {
+          "huyen": "Lạng Giang",
+          "donViHanhChinh": ["An Hà", "Đại Lâm", "Đào Mỹ", "Dương Đức", "Hương Lạc", "Hương Sơn", "Mỹ Hà", "Mỹ Thái", "Nghĩa Hòa", "Nghĩa Hưng", "Phi Mô", "Quang Thịnh", "Tân Dĩnh", "Tân Hưng", "Tân Thanh", "Tân Thịnh", "Thái Đào", "Tiên Lục", "Xuân Hương", "Xương Lâm", "Yên Mỹ"]
+        },
+        {
+          "huyen": "Hiệp Hòa",
+          "donViHanhChinh": ["Danh Thắng", "Đồng Tân", "Đức Thắng", "Hòa Sơn", "Hoàng An", "Hoàng Thanh", "Hoàng Vân", "Hùng Sơn", "Lương Phong", "Ngọc Sơn", "Thái Sơn", "Thanh Vân", "Thường Thắng", "Mai Đình", "Hương Lâm", "Hợp Thịnh", "Quang Minh", "Mai Trung", "Xuân Cẩm", "Đại Thành"]
+        },
+        {
+          "huyen": "Việt Yên",
+          "donViHanhChinh": ["Minh Đức", "Nghĩa Trung", "Tiên Sơn", "Thượng Lan", "Trung Sơn", "Vân Trung"]
+        },
+        {
+          "huyen": "TP Bắc Giang",
+          "donViHanhChinh": ["Dĩnh Trì", "Đồng Sơn"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Hiệp Hòa",
+          "donViHanhChinh": ["Thị trấn Thắng"]
+        },
+        {
+          "huyen": "Việt Yên",
+          "donViHanhChinh": ["Bích Sơn", "Hồng Thái", "Hương Mai", "Nghĩa Trung", "Quảng Minh", "Tăng Tiến", "Tự Lạn", "Việt Tiến", "Viet Yên Town"]
+        },
+        {
+          "huyen": "Lạng Giang",
+          "donViHanhChinh": ["Hương Lạc", "Hương Sơn", "Tân Hưng", "Tân Thanh", "Tiên Lục", "Tân Dĩnh", "Tân Thịnh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "TP Bắc Giang",
+          "donViHanhChinh": [
+            "Dĩnh Kế",
+            "Đa Mai",
+            "Hoàng Văn Thụ",
+            "Mỹ Độ",
+            "Ngô Quyền",
+            "Song Khê",
+            "Song Mai",
+            "Tân Mỹ",
+            "Tân Tiến",
+            "Thọ Xương",
+            "Trần Nguyên Hãn",
+            "Trần Phú",
+            "Xương Giang",
+            "Lê Lợi",
+            "Nguyễn Trãi",
+            "Thành Công",
+            "Thọ Xương",
+            "Xuân Hòa",
+            "Tân Mỹ",
+            "Tân Tiến",
+            "Ngô Quyền",
+            "Mỹ Độ",
+            "Đa Mai",
+            "Dĩnh Kế"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "19",
+  "tenTinh": "Bắc Ninh",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Yên Phong",
+          "donViHanhChinh": [
+            "Xã Đông Thọ", "Xã Đông Phong", "Xã Dũng Liệt", "Xã Hòa Tiến", "Xã Long Châu", "Xã Tam Giang",
+            "Xã Trung Nghĩa", "Xã Văn Môn", "Xã Yên Phụ", "Xã Yên Trung", "Thị trấn Chờ"
+          ]
+        },
+        {
+          "huyen": "Huyện Tiên Du",
+          "donViHanhChinh": [
+            "Xã An Bình", "Xã Cảnh Hưng", "Xã Đại Đồng", "Xã Hiên Vân", "Xã Hoàn Sơn", "Xã Lạc Vệ", 
+            "Xã Minh Đạo", "Xã Nội Duệ", "Xã Phật Tích", "Xã Tri Phương", "Thị trấn Lim"
+          ]
+        },
+        {
+          "huyen": "Huyện Quế Võ",
+          "donViHanhChinh": [
+            "Xã Bằng An", "Xã Bồng Lai", "Xã Cách Bi", "Xã Chi Lăng", "Xã Đại Xuân", "Xã Đào Viên", 
+            "Xã Đức Long", "Xã Hán Quảng", "Xã Hương Mạc", "Xã Ngọc Xá", "Xã Phù Lãng", "Xã Phù Lưu", 
+            "Xã Phượng Mao", "Xã Việt Hùng", "Thị trấn Phố Mới"
+          ]
+        },
+        {
+          "huyen": "Huyện Thuận Thành",
+          "donViHanhChinh": [
+            "Xã An Bình", "Xã Đại Đồng Thành", "Xã Đình Tổ", "Xã Gia Đông", "Xã Hà Mãn", "Xã Mão Điền",
+            "Xã Nghĩa Đạo", "Xã Ngũ Thái", "Xã Song Hồ", "Xã Song Liễu", "Xã Thanh Khương", "Xã Trạm Lộ",
+            "Xã Trí Quả", "Xã Xuân Lâm", "Thị trấn Hồ"
+          ]
+        },
+        {
+          "huyen": "Huyện Gia Bình",
+          "donViHanhChinh": [
+            "Xã Bình Dương", "Xã Cao Đức", "Xã Đại Bái", "Xã Đại Lai", "Xã Đông Cứu", "Xã Giang Sơn", 
+            "Xã Lãng Ngâm", "Xã Nhân Thắng", "Xã Quỳnh Phú", "Xã Song Giang", "Xã Thái Bảo", 
+            "Thị trấn Gia Bình"
+          ]
+        },
+        {
+          "huyen": "Huyện Lương Tài",
+          "donViHanhChinh": [
+            "Xã An Thịnh", "Xã Bình Định", "Xã Hòa Bình", "Xã Lâm Thao", "Xã Minh Tân", "Xã Phú Lương", 
+            "Xã Phú Hòa", "Xã Quảng Phú", "Xã Tân Lãng", "Xã Trung Chính", "Thị trấn Thứa"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Từ Sơn",
+          "donViHanhChinh": [
+            "Phường Châu Khê", "Phường Đình Bảng", "Phường Đồng Kỵ", "Phường Đông Ngàn", 
+            "Phường Hương Mạc", "Phường Phù Chẩn", "Phường Phù Khê", "Phường Tam Sơn", 
+            "Phường Tân Hồng", "Phường Trang Hạ"
+          ]
+        },
+        {
+          "huyen": "Thành phố Bắc Ninh",
+          "donViHanhChinh": [
+            "Phường Hạp Lĩnh", "Phường Kinh Bắc", "Phường Khúc Xuyên", "Phường Nam Sơn", 
+            "Phường Ninh Xá", "Phường Phong Khê", "Phường Suối Hoa", "Phường Thị Cầu", 
+            "Phường Tiền An", "Phường Vệ An", "Phường Vũ Ninh", "Phường Võ Cường"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "21",
+  "tenTinh": "Hải Dương",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Chí Linh",
+          "donViHanhChinh": [
+            "An Lạc","Bắc An","Cổ Thành","Đồng Lạc",
+            "Hoàng Hoa Thám","Hoàng Tiến","Hưng Đạo","Lê Lợi",
+            "Nhân Huệ","Tân Dân"
+          ]
+        },
+        {
+          "huyen": "Thị xã Kinh Môn",
+          "donViHanhChinh": [
+            "Hiệp An","Phúc Thành","An Phụ","Hiệp Hòa",
+            "Thượng Quận","Phạm Mệnh","An Sinh","Thất Hùng",
+            "Thái Sơn","Hiệp Sơn","Bạch Đằng","Lê Ninh",
+            "Duy Tân","Tân Dân","Phú Thứ","Minh Tân","Kinh Môn"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Gia Lộc",
+          "donViHanhChinh": [
+            "Gia Lộc","Gia Phúc","Gia Tiến","Hoàng Diệu",
+            "Hồng Hưng","Lê Lợi","Nhật Quang","Phạm Trấn",
+            "Thống Kênh","Thống Nhất","Toàn Thắng","Yết Kiêu"
+          ]
+        },
+        {
+          "huyen": "Huyện Kim Thành",
+          "donViHanhChinh": [
+            "Đại Đức","Đồng Cẩm","Hòa Bình","Kim Anh",
+            "Kim Đính","Kim Liên","Kim Tân","Lai Khê",
+            "Ngũ Phúc","Tam Kỳ","Tuấn Việt"
+          ]
+        },
+        {
+          "huyen": "Huyện Nam Sách",
+          "donViHanhChinh": [
+            "Nam Sách","Thái Tân","Trần Phú","Hợp Tiến","An Phú"
+          ]
+        },
+        {
+          "huyen": "Huyện Ninh Giang",
+          "donViHanhChinh": [
+            "Ninh Giang","Ứng Hoè","Nghĩa An","Đức Phúc",
+            "An Đức","Tân Hương","Vĩnh Hòa","Bình Xuyên",
+            "Tân Phong","Tân Quang","Hồng Dụ","Hiệp Lực",
+            "Hưng Long","Kiến Phúc"
+          ]
+        },
+        {
+          "huyen": "Huyện Thanh Hà",
+          "donViHanhChinh": [
+            "Thanh Hà","Thanh An","Thanh Hải","Thanh Hồng",
+            "Thanh Lang","Thanh Quang","Thanh Sơn","Thanh Tân",
+            "Liên Mạc","An Phượng","Vĩnh Cường"
+          ]
+        },
+        {
+          "huyen": "Huyện Thanh Miện",
+          "donViHanhChinh": [
+            "Thanh Miện","Bắc Thanh Miện","Hải Hưng","Nam Thanh Miện",
+            "Ngô Quyền","Phạm Kha","Đoàn Tùng","Đoàn Kết",
+            "Lam Sơn","Lê Hồng","Chi Lăng Bắc","Chi Lăng Nam",
+            "Tân Trào","Tứ Cường","Ngũ Hùng","Cao Thắng","Hồng Quang"
+          ]
+        },
+        {
+          "huyen": "Huyện Tứ Kỳ",
+          "donViHanhChinh": [
+            "Tứ Kỳ","Tân Kỳ","Đại Sơn","Dân An","Hưng Đạo",
+            "Bình Lăng","Chí Minh","Kỳ Sơn","Quang Khải",
+            "Quang Phục","Nguyên Giáp","Lạc Phượng","Minh Đức",
+            "Văn Tố","Hà Thanh","Hà Kỳ"
+          ]
+        },
+        {
+          "huyen": "Huyện Bình Giang",
+          "donViHanhChinh": [
+            "Kẻ Sặt","Bình Giang","Long Xuyên","Hồng Khê",
+            "Cổ Bì","Tân Việt","Thúc Kháng","Tân Hồng",
+            "Thái Dương","Thái Hòa","Vĩnh Hưng","Vĩnh Hồng",
+            "Nhân Quyền","Bình Xuyên"
+          ]
+        },
+        {
+          "huyen": "Huyện Cẩm Giàng",
+          "donViHanhChinh": [
+            "Cẩm Giàng","Cẩm Đoài","Cẩm Đông","Cẩm Hoàng",
+            "Cẩm Hưng","Cẩm Vũ","Cẩm Văn","Định Sơn",
+            "Ngọc Liên","Lương Điền","Phúc Điền","Tân Trường"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Hải Dương",
+          "donViHanhChinh": [
+            "Tân Bình","Thanh Bình","Ngọc Châu","Nhị Châu",
+            "Hải Tân","Quang Trung","Bình Hàn","Cẩm Thượng",
+            "Phạm Ngũ Lão","Lê Thanh Nghị","Nguyễn Trãi","Trần Phú",
+            "Trần Hưng Đạo","Tứ Minh","Việt Hoà","Nam Đồng",
+            "Ái Quốc","An Châu","Thượng Đạt","Thạch Khôi","Tân Hưng"
+          ]
+        },
+        {
+          "huyen": "Thành phố Chí Linh",
+          "donViHanhChinh": [
+            "Phường Bến Tắm","Chí Minh","Cộng Hòa","Sao Đỏ",
+            "Thái Học","Văn An","Phả Lại","Hoàng Tân"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "22",
+  "tenTinh": "Hưng Yên",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tiên Lữ",
+          "donViHanhChinh": [] 
+        },
+        {
+          "huyen": "Huyện Ân Thi",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Phù Cừ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Mỹ Hào",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Yên Mỹ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Kim Động",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Khoái Châu",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Văn Giang",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Văn Lâm",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tiên Lữ",
+          "donViHanhChinh": ["Xã Tiên Lữ", "Xã Tiên Hoa", "Xã Tân Hưng"]
+        },
+        {
+          "huyen": "Huyện Ân Thi",
+          "donViHanhChinh": ["Xã Ân Thi", "Xã Quang Hưng", "Xã Đoàn Đào", "Xã Xuân Trúc", "Xã Hồng Quang"]
+        },
+        {
+          "huyen": "Huyện Phù Cừ",
+          "donViHanhChinh": ["Xã Tiên Tiến", "Xã Tống Trân", "Xã Lương Bằng", "Xã Nghĩa Dân"]
+        },
+        {
+          "huyen": "Huyện Mỹ Hào",
+          "donViHanhChinh": ["Phường Mỹ Hào", "Phường Thượng Hồng", "Phường Đường Hào"]
+        },
+        {
+          "huyen": "Huyện Yên Mỹ",
+          "donViHanhChinh": ["Xã Yên Mỹ", "Xã Hoàn Long", "Xã Nguyễn Trãi", "Xã Hiệp Cường"]
+        },
+        {
+          "huyen": "Huyện Kim Động",
+          "donViHanhChinh": ["Xã Hồng Quang", "Xã Đức Hợp", "Xã Nguyễn Trãi", "Xã Nghĩa Dân"]
+        },
+        {
+          "huyen": "Huyện Khoái Châu",
+          "donViHanhChinh": ["Xã Khoái Châu", "Xã Liên Khê", "Xã Phùng Hưng", "Xã Đông Kết"]
+        },
+        {
+          "huyen": "Huyện Văn Giang",
+          "donViHanhChinh": ["Xã Mễ Sở"]
+        },
+        {
+          "huyen": "Huyện Văn Lâm",
+          "donViHanhChinh": ["Xã Nghĩa Dân"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Hưng Yên",
+          "donViHanhChinh": ["Phường Phố Hiến", "Phường Sơn Nam", "Phường Hồng Châu", "Xã Tân Hưng"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "23",
+  "tenTinh": "Hòa Bình",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "TP Hòa Bình",
+          "donViHanhChinh": [
+            "Phường Dân Chủ",
+            "Phường Thịnh Lang",
+            "Phường Hữu Nghị",
+            "Phường Tân Thịnh",
+            "Phường Đồng Tiến",
+            "Phường Phương Lâm",
+            "Phường Thống Nhất",
+            "Xã Trung Minh",
+            "Xã Yên Mông",
+            "Xã Sủ Ngòi",
+            "Xã Thái Thịnh",
+            "Xã Hòa Bình",
+            "Xã Dân Hạ"
+          ]
+        },
+        {
+          "huyen": "Huyện Đà Bắc",
+          "donViHanhChinh": [
+            "Xã Hiền Lương",
+            "Xã Đồng Nghê",
+            "Xã Suối Nánh",
+            "Xã Mường Chiềng",
+            "Xã Tân Pheo",
+            "Xã Đồng Chum",
+            "Xã Tu Lý",
+            "Xã Yên Hòa",
+            "Xã Cao Sơn",
+            "Xã Trung Thành",
+            "Xã Yên Trị",
+            "Xã Vầy Nưa"
+          ]
+        },
+        {
+          "huyen": "Huyện Mai Châu",
+          "donViHanhChinh": [
+            "Xã Nà Mèo",
+            "Xã Nà Phòn",
+            "Xã Tòng Đậu",
+            "Xã Pà Cò",
+            "Xã Hang Kia",
+            "Xã Bao La",
+            "Xã Piềng Vế"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Kỳ Sơn",
+          "donViHanhChinh": [
+            "Xã Mông Hóa",
+            "Xã Dân Hòa",
+            "Xã Yên Quang"
+          ]
+        },
+        {
+          "huyen": "Huyện Lương Sơn",
+          "donViHanhChinh": [
+            "Xã Lâm Sơn",
+            "Xã Tân Vinh",
+            "Xã Cao Răm",
+            "Xã Cao Dương",
+            "Xã Hòa Sơn",
+            "Xã Liên Sơn",
+            "Xã Trường Sơn",
+            "Xã Thanh Sơn"
+          ]
+        },
+        {
+          "huyen": "Huyện Lạc Sơn",
+          "donViHanhChinh": [
+            "Xã Ân Nghĩa",
+            "Xã Vũ Bình",
+            "Xã Quý Hòa",
+            "Xã Tân Lập",
+            "Xã Văn Nghĩa",
+            "Xã Ngọc Sơn"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "TP Hòa Bình",
+          "donViHanhChinh": [
+            "Phường Tân Hòa",
+            "Phường Thái Bình",
+            "Phường Kỳ Sơn"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+
+{
+  "maTinh": "24",
+  "tenTinh": "Hà Nam",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Bình Lục",
+          "donViHanhChinh": ["Xã Bình Lục", "Xã Bình Mỹ", "Xã Bình An", "Xã Bình Giang", "Xã Bình Sơn"]
+        },
+        {
+          "huyen": "Huyện Thanh Liêm",
+          "donViHanhChinh": ["Xã Bình Lâm", "Xã Tân Thanh", "Xã Thanh Hà", "Xã Thanh Liêm"]
+        },
+        {
+          "huyen": "Huyện Lý Nhân",
+          "donViHanhChinh": ["Xã Lý Nhân", "Xã Nam Xang", "Xã Bắc Lý", "Xã Vĩnh Trụ", "Xã Trần Thương", "Xã Nhân Hà", "Xã Nam Lý"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Phủ Lý",
+          "donViHanhChinh": ["Phường Hà Nam 1", "Phường Phủ Lý 1", "Phường Phủ Lý 2", "Phường Hà Nam 3", "Phường Phố Hiến", "Phường Châu Sơn", "Phường Lam Hạ", "Phường Lê Hồng Phong", "Phường Liêm Chính", "Phường Quang Trung", "Phường Tân Hiệp", "Phường Tân Liêm", "Phường Thanh Châu", "Phường Thanh Tuyền"]
+        },
+        {
+          "huyen": "Thị xã Duy Tiên",
+          "donViHanhChinh": ["Phường Duy Tiên", "Phường Duy Tân", "Phường Duy Minh", "Phường Duy Hải"]
+        },
+        {
+          "huyen": "Thị xã Kim Bảng",
+          "donViHanhChinh": ["Phường Kim Bảng 1", "Phường Kim Bảng 2", "Phường Kim Bảng 3", "Phường Kim Bảng 4", "Phường Kim Bảng 5", "Phường Kim Bảng 6"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "25",
+  "tenTinh": "Nam Định",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vụ Bản",
+          "donViHanhChinh": [
+            "Xã Minh Tân",
+            "Xã Hiển Khánh",
+            "Xã Vụ Bản",
+            "Xã Liên Minh"
+          ]
+        },
+        {
+          "huyen": "Huyện Ý Yên",
+          "donViHanhChinh": [
+            "Xã Ý Yên",
+            "Xã Yên Đồng",
+            "Xã Yên Cường",
+            "Xã Vạn Thắng",
+            "Xã Vũ Dương",
+            "Xã Tân Minh",
+            "Xã Phong Doanh"
+          ]
+        },
+        {
+          "huyen": "Huyện Nam Trực",
+          "donViHanhChinh": [
+            "Xã Nam Trực",
+            "Xã Nam Minh",
+            "Xã Nam Đồng",
+            "Xã Nam Ninh",
+            "Xã Nam Hồng"
+          ]
+        },
+        {
+          "huyen": "Huyện Xuân Trường",
+          "donViHanhChinh": [
+            "Xã Xuân Trường",
+            "Xã Xuân Hưng",
+            "Xã Xuân Giang",
+            "Xã Xuân Hồng"
+          ]
+        },
+        {
+          "huyen": "Huyện Hải Hậu",
+          "donViHanhChinh": [
+            "Xã Hải Hậu",
+            "Xã Hải Anh",
+            "Xã Hải Tiến",
+            "Xã Hải Hưng",
+            "Xã Hải An",
+            "Xã Hải Quang",
+            "Xã Hải Xuân",
+            "Xã Hải Thịnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Giao Thủy",
+          "donViHanhChinh": [
+            "Xã Giao Minh",
+            "Xã Giao Hòa",
+            "Xã Giao Thủy",
+            "Xã Giao Phúc",
+            "Xã Giao Hưng",
+            "Xã Giao Bình",
+            "Xã Giao Ninh"
+          ]
+        },
+        {
+          "huyen": "Huyện Mỹ Lộc",
+          "donViHanhChinh": [
+            "Xã Mỹ Lộc"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Nam Định",
+          "donViHanhChinh": [
+            "Phường Cửa Bắc",
+            "Phường Cửa Nam",
+            "Phường Hưng Lộc",
+            "Phường Lộc Hạ",
+            "Phường Lộc Hòa",
+            "Phường Lộc Vượng",
+            "Phường Nam Phong",
+            "Phường Nam Vân",
+            "Phường Năng Tĩnh",
+            "Phường Mỹ Xá",
+            "Phường Quang Trung",
+            "Phường Trần Hưng Đạo",
+            "Phường Trường Thi",
+            "Phường Vị Xuyên",
+            "Xã Mỹ Hà",
+            "Xã Mỹ Lộc",
+            "Xã Mỹ Phúc",
+            "Xã Mỹ Tân",
+            "Xã Mỹ Thắng",
+            "Xã Mỹ Thuận",
+            "Xã Mỹ Trung"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "26",
+  "tenTinh": "Thái Bình",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Quỳnh Phụ",
+          "donViHanhChinh": [
+            "Xã Quỳnh Phụ",
+            "Xã Minh Thọ",
+            "Xã Nguyễn Du",
+            "Xã Quỳnh An",
+            "Xã Ngọc Lâm",
+            "Xã Đồng Bằng",
+            "Xã A Sào",
+            "Xã Phụ Dực",
+            "Xã Tân Tiến"
+          ]
+        },
+        {
+          "huyen": "Huyện Thái Thụy",
+          "donViHanhChinh": [
+            "Xã Thái Thụy",
+            "Xã Đông Thụy Anh",
+            "Xã Bắc Thụy Anh",
+            "Xã Thụy Anh",
+            "Xã Nam Thụy Anh",
+            "Xã Bắc Thái Ninh",
+            "Xã Thái Ninh",
+            "Xã Đông Thái Ninh",
+            "Xã Nam Thái Ninh",
+            "Xã Tây Thái Ninh",
+            "Xã Tây Thụy Anh"
+          ]
+        },
+        {
+          "huyen": "Huyện Tiền Hải",
+          "donViHanhChinh": [
+            "Xã Tiền Hải",
+            "Xã Tây Tiền Hải",
+            "Xã Ái Quốc",
+            "Xã Đồng Châu",
+            "Xã Đông Tiền Hải",
+            "Xã Nam Cường",
+            "Xã Hưng Phú",
+            "Xã Nam Tiền Hải"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Thái Bình",
+          "donViHanhChinh": [
+            "Phường Thái Bình",
+            "Phường Trần Lãm",
+            "Phường Trần Hưng Đạo",
+            "Phường Trà Lý",
+            "Phường Vũ Phúc"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+
+{
+  "maTinh": "27",
+  "tenTinh": "Ninh Bình",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Tam Điệp",
+          "donViHanhChinh": ["Phường Tam Điệp", "Phường Yên Sơn", "Phường Trung Sơn"]
+        },
+        {
+          "huyen": "Huyện Nho Quan",
+          "donViHanhChinh": ["Xã Nho Quan", "Xã Gia Lâm", "Xã Gia Tường", "Xã Phú Sơn", "Xã Cúc Phương", "Xã Phú Long", "Xã Thanh Sơn", "Xã Quỳnh Lưu"]
+        },
+        {
+          "huyen": "Huyện Gia Viễn",
+          "donViHanhChinh": ["Xã Gia Hòa", "Xã Gia Hưng", "Xã Gia Sinh", "Xã Gia Thanh", "Xã Gia Vân", "Xã Gia Thịnh", "Xã Gia Vượng", "Xã Gia Phương", "Xã Gia Minh", "Xã Liên Sơn"]
+        },
+        {
+          "huyen": "Huyện Hoa Lư",
+          "donViHanhChinh": ["Phường Hoa Lư", "Phường Nam Hoa Lư", "Phường Đông Hoa Lư", "Phường Yên Thắng"]
+        },
+        {
+          "huyen": "Huyện Yên Mô",
+          "donViHanhChinh": ["Phường Yên Thắng", "Xã Khánh Thượng", "Xã Mai Sơn", "Xã Yên Đồng", "Xã Yên Hòa", "Xã Yên Lâm", "Xã Yên Mạc", "Xã Yên Thành", "Xã Yên Thái"]
+        },
+        {
+          "huyen": "Huyện Kim Sơn",
+          "donViHanhChinh": ["Xã Cồn Thoi", "Xã Kim Tân", "Xã Kim Mỹ", "Xã Kim Hải", "Xã Kim Trung"]
+        },
+        {
+          "huyen": "Thành phố Ninh Bình",
+          "donViHanhChinh": ["Xã Ninh Nhất"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Gia Viễn",
+          "donViHanhChinh": [
+            "Xã Đại Hoàng",
+            "Xã Gia Phong",
+            "Xã Gia Lập",
+            "Xã Gia Trấn"
+          ]
+        },
+        {
+          "huyen": "Huyện Hoa Lư",
+          "donViHanhChinh": [
+            "Xã Ninh Giang",
+            "Xã Ninh Phong",
+            "Xã Ninh Sơn",
+            "Xã Ninh An",
+            "Xã Ninh Hải",
+            "Xã Ninh Hòa",
+            "Xã Ninh Xuân",
+            "Xã Trường Yên"
+          ]
+        },
+        {
+          "huyen": "Huyện Yên Mô",
+          "donViHanhChinh": [
+            "Xã Yên Bình",
+            "Xã Yên Thắng",
+            "Xã Khánh Cư"
+          ]
+        },
+        {
+          "huyen": "Huyện Kim Sơn",
+          "donViHanhChinh": [
+            "Xã Kim Đông",
+            "Xã Quang Thiện",
+            "Xã Phát Diệm",
+            "Xã Định Hóa",
+            "Xã Chất Bình",
+            "Xã Bình Minh"
+          ]
+        },
+        {
+          "huyen": "Huyện Yên Khánh",
+          "donViHanhChinh": [
+            "Xã Yên Ninh",
+            "Xã Khánh Cư",
+            "Xã Khánh Vân",
+            "Xã Khánh Hải"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Ninh Bình",
+          "donViHanhChinh": [
+            "Phường Bồ Xuyên",
+            "Phường Kỳ Bá",
+            "Phường Phú Khánh",
+            "Phường Quang Trung",
+            "Phường Tiền Phong",
+            "Phường Trần Hưng Đạo",
+            "Phường Trần Lãm",
+            "Phường Đề Thám",
+            "Phường Hoàng Diệu",
+            "Phường Lê Hồng Phong",
+            "Xã Đông Hòa",
+            "Xã Đông Mỹ",
+            "Xã Đông Thọ",
+            "Xã Phú Xuân",
+            "Xã Tân Bình",
+            "Xã Vũ Chính",
+            "Xã Vũ Đông",
+            "Xã Vũ Lạc",
+            "Xã Vũ Phúc"
+
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "28",
+  "tenTinh": "Thanh Hóa",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Mường Lát",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Quan Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Quan Hóa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Lang Chánh",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bá Thước",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Cẩm Thủy",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Ngọc Lặc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thường Xuân",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Như Xuân",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Như Thanh",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thạch Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thọ Xuân",
+          "donViHanhChinh": ["Xã Quảng Phú","Xã Thọ Lâm","Xã Xuân Châu","Xã Xuân Phú","Xã Xuân Thắng"]
+        },
+        {
+          "huyen": "Triệu Sơn",
+          "donViHanhChinh": ["Xã Thọ Sơn","Xã Triệu Thành","Xã Bình Sơn","Xã Thọ Bình"]
+        },
+        {
+          "huyen": "Vĩnh Lộc",
+          "donViHanhChinh": ["Xã Vĩnh An","Xã Vĩnh Hùng","Xã Vĩnh Hưng","Xã Vĩnh Long","Xã Vĩnh Quang","Xã Vĩnh Thịnh"]
+        },
+        {
+          "huyen": "Tĩnh Gia",
+          "donViHanhChinh": ["Xã Phú Lâm","Xã Trường Lâm","Xã Phú Sơn","Xã Tân Trường","Xã Tân Dân","Xã Hải Ninh","Xã Hải Thanh","Xã Ninh Hải","Xã Hải Lĩnh","Xã Hải Hòa","Xã Hải Bình","Xã Tĩnh Hải","Xã Hải Yến","Xã Hải Hà","Xã Hải Thượng","Xã Nghi Sơn","Xã Hải An"]
+        },
+        {
+          "huyen": "Hà Trung",
+          "donViHanhChinh": ["Xã Hà Đông","Xã Hà Lĩnh","Xã Hà Long","Xã Hà Sơn","Xã Hà Tân","Xã Hà Tiến"]
+        },
+        {
+          "huyen": "Yên Định",
+          "donViHanhChinh": ["Xã Yên Lâm"]
+        },
+        {
+          "huyen": "Thị xã Bỉm Sơn",
+          "donViHanhChinh": ["Phường Bắc Sơn"]
+        },
+        {
+          "huyen": "Hậu Lộc",
+          "donViHanhChinh": ["Xã Hưng Lộc","Xã Ngư Lộc","Xã Đa Lộc","Xã Hải Lộc"]
+        },
+        {
+          "huyen": "Hoằng Hóa",
+          "donViHanhChinh": ["Xã Hoằng Châu","Xã Hoằng Hải","Xã Hoằng Thanh","Xã Hoằng Trường","Xã Hoằng Tiến","Xã Hoằng Phụ","Xã Hoằng Yến"]
+        },
+        {
+          "huyen": "Thành phố Sầm Sơn",
+          "donViHanhChinh": ["Phường Quảng Hùng","Phường Quảng Vinh"]
+        },
+        {
+          "huyen": "Nga Sơn",
+          "donViHanhChinh": ["Xã Nga Thủy","Xã Nga Tiến","Xã Nga Tân"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Vĩnh Lộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Yên Định",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thiệu Hoá",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Đông Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Triệu Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Nông Cống",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Tĩnh Gia",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Quảng Xương",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hoằng Hóa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hậu Lộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hà Trung",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Nga Sơn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Thanh Hóa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thị xã Bỉm Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thành phố Sầm Sơn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "29",
+  "tenTinh": "Nghệ An",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        { "huyen": "Kỳ Sơn", "donViHanhChinh": [] },
+        { "huyen": "Quế Phong", "donViHanhChinh": [] },
+        { "huyen": "Tương Dương", "donViHanhChinh": [] },
+        { "huyen": "Con Cuông", "donViHanhChinh": [] },
+        { "huyen": "Quỳ Châu", "donViHanhChinh": [] },
+        { "huyen": "Quỳ Hợp", "donViHanhChinh": [] },
+        { "huyen": "Tân Kỳ", "donViHanhChinh": [] },
+        { "huyen": "Anh Sơn", "donViHanhChinh": [] },
+        { "huyen": "Nghĩa Đàn", "donViHanhChinh": [] },
+        {
+          "huyen": "Thị xã Thái Hòa",
+          "donViHanhChinh": [
+            "Xã Đông Hiếu", "Phường Long Sơn", "Xã Nghĩa Hòa",
+            "Xã Nghĩa Tiến", "Phường Quang Long", "Phường Quang Tiến",
+            "Xã Tây Hiếu"
+          ]
+        },
+        {
+          "huyen": "Thanh Chương",
+          "donViHanhChinh": [
+            "Xã Cát Văn","Xã Phong Thịnh","Xã Ngọc Sơn","Xã Thanh Dương",
+            "Xã Thanh Hòa","Xã Thanh Lĩnh","Xã Thanh Lương","Xã Thanh Ngọc",
+            "Xã Thanh Nho","Xã Thanh Phong","Xã Võ Liệt","Xã Xuân Tường",
+            "Xã Hạnh Lâm","Xã Thanh Chi","Xã Thanh Đức","Xã Thanh Hà",
+            "Xã Thanh Hương","Xã Thanh Khê","Xã Thanh Lâm","Xã Thanh Long",
+            "Xã Thanh Tiên","Xã Thanh Thịnh","Xã Thanh Thủy","Xã Thanh An",
+            "Xã Thanh Mai","Xã Thanh Mỹ","Xã Thanh Tùng","Xã Thanh Xuân",
+            "Xã Thanh Liên","Xã Ngọc Lâm","Xã Thanh Sơn"
+          ]
+        },
+        {
+          "huyen": "Yên Thành",
+          "donViHanhChinh": [
+            "Xã Đồng Thành","Xã Hậu Thành","Xã Hùng Thành","Xã Lăng Thành",
+            "Xã Mã Thành","Xã Mỹ Thành","Xã Phúc Thành","Xã Sơn Thành",
+            "Xã Đại Thành","Xã Đức Thành","Xã Kim Thành","Xã Lý Thành",
+            "Xã Minh Thành","Xã Quang Thành","Xã Tân Thành","Xã Tây Thành",
+            "Xã Thịnh Thành","Xã Tiến Thành"
+          ]
+        },
+        {
+          "huyen": "Đô Lương",
+          "donViHanhChinh": [
+            "Xã Bài Sơn","Xã Giang Sơn Đông","Xã Giang Sơn Tây",
+            "Xã Hồng Sơn","Xã Lam Sơn","Xã Nam Sơn","Xã Ngọc Sơn"
+          ]
+        },
+        {
+          "huyen": "Diễn Châu",
+          "donViHanhChinh": [
+            "Xã Diễn Lâm","Xã Diễn Vạn","Xã Diễn Trung",
+            "Xã Diễn Bích","Xã Diễn Hải","Xã Diễn Kim"
+          ]
+        },
+        {
+          "huyen": "Nam Đàn",
+          "donViHanhChinh": [
+            "Xã Nam Hưng","Xã Nam Thái","Xã Nam Tân",
+            "Xã Nam Lộc","Xã Nam Thượng"
+          ]
+        },
+        {
+          "huyen": "Nghi Lộc",
+          "donViHanhChinh": [
+            "Xã Nghi Hưng","Xã Nghi Văn","Xã Nghi Kiều",
+            "Xã Nghi Công Bắc","Xã Nghi Công Nam","Xã Nghi Lâm",
+            "Xã Nghi Yên","Xã Nghi Tiến","Xã Nghi Thiết","Xã Nghi Quang"
+          ]
+        },
+        {
+          "huyen": "Quỳnh Lưu",
+          "donViHanhChinh": [
+            "Xã Ngọc Sơn","Xã Quỳnh Châu","Xã Quỳnh Hoa",
+            "Xã Quỳnh Tam","Xã Tân Sơn","Xã Quỳnh Thắng","Xã Quỳnh Tân",
+            "Xã Tân Thắng","Xã Quỳnh Thọ","Xã Quỳnh Long"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hoàng Mai",
+          "donViHanhChinh": ["Xã Quỳnh Lộc","Xã Quỳnh Trang"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Yên Thành",
+          "donViHanhChinh": [
+            "Thị trấn Hoa Thành",
+            "Xã Yên Thành",
+            "Xã Quan Thành",
+            "Xã Hợp Minh",
+            "Xã Vân Tụ",
+            "Xã Vân Du",
+            "Xã Quang Đồng",
+            "Xã Giai Lạc",
+            "Xã Bình Minh",
+            "Xã Đông Thành",
+            "Xã Minh Thành"
+          ]
+        },
+        {
+          "huyen": "Hưng Nguyên",
+          "donViHanhChinh": [
+            "Xã Hưng Nguyên",
+            "Xã Hưng Lĩnh",
+            "Xã Hưng Phúc",
+            "Xã Thu Thủy"
+          ]
+        },
+        {
+          "huyen": "Đô Lương",
+          "donViHanhChinh": [
+            "Xã Đô Lương",
+            "Xã Bạch Ngọc",
+            "Xã Văn Hiến",
+            "Xã Bạch Hà",
+            "Xã Thuần Trung",
+            "Xã Lương Sơn"
+          ]
+        },
+        {
+          "huyen": "Thanh Chương",
+          "donViHanhChinh": [
+            "Xã Cát Ngạn",
+            "Xã Đại Đồng",
+            "Xã Hạnh Lâm",
+            "Xã Hoa Quân",
+            "Xã Kim Bảng",
+            "Xã Sơn Lâm",
+            "Xã Tam Đồng",
+            "Xã Xuân Lâm"
+          ]
+        },
+        {
+          "huyen": "Diễn Châu",
+          "donViHanhChinh": [
+            "Xã Đức Châu",
+            "Xã Quảng Châu",
+            "Xã Hải Châu",
+            "Xã Tân Châu",
+            "Xã An Châu",
+            "Xã Minh Châu",
+            "Xã Hùng Châu"
+          ]
+        },
+        {
+          "huyen": "Quỳnh Lưu",
+          "donViHanhChinh": [
+            "Xã Quỳnh Lưu",
+            "Xã Quỳnh Văn",
+            "Xã Quỳnh Anh",
+            "Xã Quỳnh Tam",
+            "Xã Quỳnh Phú",
+            "Xã Quỳnh Sơn",
+            "Xã Quỳnh Thắng",
+            "Xã Nhôn Mai",
+            "Xã Tam Quang",
+            "Xã Nga My"
+          ]
+        },
+        {
+          "huyen": "Nam Đàn",
+          "donViHanhChinh": [
+            "Xã Vạn An",
+            "Xã Nam Đàn",
+            "Xã Đại Huệ",
+            "Xã Thiên Nhẫn"
+          ]
+        },
+        {
+          "huyen": "Tương Dương",
+          "donViHanhChinh": [
+            "Xã Mường Xén",
+            "Xã Na Loi",
+            "Xã Na Ngoi",
+            "Xã Nậm Cắn"
+          ]
+        },
+        {
+          "huyen": "Quế Phong",
+          "donViHanhChinh": [
+            "Xã Mường Típ",
+            "Xã Tri Lễ",
+            "Xã Tiền Phong",
+            "Xã Kim Liên"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Vinh",
+          "donViHanhChinh": [
+            "Phường Trường Vinh",
+            "Phường Thành Vinh",
+            "Phường Vinh Hưng",
+            "Phường Vinh Phú",
+            "Phường Vinh Lộc",
+            "Phường Cửa Lò"
+          ]
+        },
+        {
+          "huyen": "Thị xã Cửa Lò",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thị xã Thái Hòa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thị xã Hoàng Mai",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "30",
+  "tenTinh": "Hà Tĩnh",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        { "huyen": "Vũ Quang", "donViHanhChinh": [] },
+        { "huyen": "Hương Sơn", "donViHanhChinh": [] },
+        { "huyen": "Hương Khê", "donViHanhChinh": [] },
+        {
+          "huyen": "Đức Thọ",
+          "donViHanhChinh": ["Xã Đức Đồng","Xã Đức Lạng","Xã Đức Lập","Xã Tân Hương"]
+        },
+        {
+          "huyen": "Lộc Hà",
+          "donViHanhChinh": ["Xã Hồng Lộc","Xã Tân Lộc","Xã Thịnh Lộc","Xã Thạch Kim"]
+        },
+        {
+          "huyen": "Can Lộc",
+          "donViHanhChinh": ["Xã Gia Hanh","Xã Mỹ Lộc","Xã Sơn Lộc","Xã Thuần Thiện","Xã Thượng Lộc","Xã Phú Lộc"]
+        },
+        {
+          "huyen": "Thạch Hà",
+          "donViHanhChinh": ["Xã Bắc Sơn","Xã Ngọc Sơn","Xã Thạch Điền","Xã Thạch Xuân","Xã Nam Hương","Xã Thạch Lạc","Xã Thạch Bàn","Xã Thạch Hải","Xã Thạch Trị","Xã Thạch Hội","Xã Thạch Đỉnh"]
+        },
+        {
+          "huyen": "Cẩm Xuyên",
+          "donViHanhChinh": ["Xã Cẩm Mỹ","Xã Cẩm Quan","Xã Cẩm Minh","Xã Cẩm Sơn","Xã Cẩm Thịnh","Xã Cẩm Lĩnh","Xã Cẩm Nhượng","Xã Cẩm Lộc"]
+        },
+        {
+          "huyen": "Kỳ Anh",
+          "donViHanhChinh": ["Xã Kỳ Bắc","Xã Kỳ Đồng","Xã Kỳ Giang","Xã Kỳ Tân","Xã Kỳ Tiến","Xã Kỳ Văn","Xã Kỳ Phong","Xã Kỳ Lạc","Xã Kỳ Lâm","Xã Kỳ Sơn","Xã Kỳ Tây","Xã Kỳ Thượng","Xã Kỳ Trung","Xã Kỳ Hợp","Xã Kỳ Phú","Xã Kỳ Khang"]
+        },
+        {
+          "huyen": "Thị xã Kỳ Anh",
+          "donViHanhChinh": ["Phường Kỳ Hà","Xã Kỳ Hoa","Xã Kỳ Lợi","Xã Kỳ Nam","Xã Kỳ Thịnh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        { "huyen": "Đức Thọ", "donViHanhChinh": [] },
+        { "huyen": "Nghi Xuân", "donViHanhChinh": [] },
+        { "huyen": "Can Lộc", "donViHanhChinh": [] },
+        { "huyen": "Thạch Hà", "donViHanhChinh": [] },
+        { "huyen": "Lộc Hà", "donViHanhChinh": [] },
+        { "huyen": "Cẩm Xuyên", "donViHanhChinh": [] },
+        { "huyen": "Kỳ Anh", "donViHanhChinh": [] }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        { "huyen": "Thành phố Hà Tĩnh", "donViHanhChinh": [] },
+        { "huyen": "Thị xã Hồng Lĩnh", "donViHanhChinh": [] },
+        { "huyen": "Thị xã Kỳ Anh", "donViHanhChinh": [] }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "31",
+  "tenTinh": "Quảng Bình",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        { "huyen": "Minh Hóa", "donViHanhChinh": [] },
+        { "huyen": "Tuyên Hóa", "donViHanhChinh": [] },
+        {
+          "huyen": "Quảng Trạch",
+          "donViHanhChinh": ["Xã Quảng Hợp","Xã Quảng Thạch","Xã Quảng Đông","Xã Quảng Liên","Xã Phù Hóa","Xã Cảnh Hóa","Xã Quảng Châu","Xã Quảng Tiến","Xã Quảng Kim"]
+        },
+        {
+          "huyen": "Thị xã Ba Đồn",
+          "donViHanhChinh": ["Xã Quảng Văn","Xã Quảng Sơn","Xã Quảng Minh"]
+        },
+        {
+          "huyen": "Bố Trạch",
+          "donViHanhChinh": ["Xã Tân Trạch","Xã Thượng Trạch","Xã Xuân Trạch","Xã Lâm Trạch","Xã Liên Trạch","Xã Phúc Trạch","Xã Hưng Trạch","Xã Phú Định","Xã Sơn Trạch","Xã Sơn Lộc","Xã Mỹ Trạch","Thị trấn nông trường Việt Trung","Xã Phú Trạch"]
+        },
+        {
+          "huyen": "Lệ Thủy",
+          "donViHanhChinh": ["Xã Ngân Thủy","Xã Kim Thủy","Xã Lâm Thủy","Xã Thái Thủy","Xã Văn Thủy","Xã Trường Thủy","Thị trấn nông trường Lệ Ninh","Xã Hưng Thủy"]
+        },
+        {
+          "huyen": "Quảng Ninh",
+          "donViHanhChinh": ["Xã Trường Xuân","Xã Trường Sơn","Xã Hải Ninh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Quảng Trạch",
+          "donViHanhChinh": ["Xã Nam Gianh","Xã Tây Gianh","Xã Trung Thuần","Xã Quảng Trạch","Xã Hòa Trạch","Xã Phú Trạch"]
+        },
+        {
+          "huyen": "Bố Trạch",
+          "donViHanhChinh": ["Xã Dân Hóa","Xã Kim Điền","Xã Kim Phú","Xã Minh Hóa","Xã Tuyên Lâm","Xã Tuyên Sơn","Xã Đồng Lê","Xã Tuyên Phú","Xã Tuyên Bình","Xã Tuyên Hóa","Xã Tân Gianh","Xã Phong Nha","Xã Bắc Trạch","Xã Đông Trạch","Xã Hoàn Lão","Xã Bố Trạch","Xã Nam Trạch"]
+        },
+        {
+          "huyen": "Lệ Thủy",
+          "donViHanhChinh": ["Xã Lệ Ninh","Xã Cam Hồng","Xã Sen Ngư","Xã Tân Mỹ","Xã Trường Phú","Xã Kim Ngân"]
+        },
+        {
+          "huyen": "Quảng Ninh",
+          "donViHanhChinh": ["Xã Ninh Châu","Xã Trường Ninh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Đồng Hới",
+          "donViHanhChinh": ["Phường Đồng Hới","Phường Đồng Thuận","Phường Đồng Sơn","Phường Ba Đồn","Phường Bắc Gianh"]
+        },
+        {
+          "huyen": "Thị xã Ba Đồn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "32",
+  "tenTinh": "Quảng Trị",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Cồn Cỏ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hướng Hoá",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Đakrông",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Vĩnh Linh",
+          "donViHanhChinh": [
+            "Xã Vĩnh Ô",
+            "Xã Vĩnh Khê",
+            "Xã Vĩnh Hà",
+            "Xã Vĩnh Thái",
+            "Xã Vĩnh Thạch",
+            "Xã Vĩnh Giang",
+            "Thị trấn Bến Quan"
+          ]
+        },
+        {
+          "huyen": "Gio Linh",
+          "donViHanhChinh": [
+            "Xã Vĩnh Trường",
+            "Xã Linh Thượng",
+            "Xã Hải Thái",
+            "Xã Trung Giang",
+            "Xã Gio Hải",
+            "Xã Gio Việt",
+            "Xã Gio Mai"
+          ]
+        },
+        {
+          "huyen": "Cam Lộ",
+          "donViHanhChinh": [
+            "Xã Cam Tuyền",
+            "Xã Cam Thành",
+            "Xã Cam Chính",
+            "Xã Cam Nghĩa"
+          ]
+        },
+        {
+          "huyen": "Hải Lăng",
+          "donViHanhChinh": [
+            "Xã Hải An",
+            "Xã Hải Khê"
+          ]
+        },
+        {
+          "huyen": "Triệu Phong",
+          "donViHanhChinh": [
+            "Xã Triệu Vân",
+            "Xã Triệu An",
+            "Xã Triệu Lăng",
+            "Xã Triệu Phước",
+            "Xã Triệu Độ"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Vĩnh Linh",
+          "donViHanhChinh": [
+            "Xã Vĩnh Chấp",
+            "Xã Vĩnh Giang",
+            "Xã Vĩnh Lâm",
+            "Xã Vĩnh Long",
+            "Xã Vĩnh Nam",
+            "Xã Vĩnh Sơn",
+            "Xã Vĩnh Thủy",
+            "Xã Vĩnh Tú",
+            "Xã Vĩnh Hà",
+            "Xã Vĩnh Hòa"
+          ]
+        },
+        {
+          "huyen": "Gio Linh",
+          "donViHanhChinh": [
+            "Xã Gio An",
+            "Xã Gio Bình",
+            "Xã Gio Châu",
+            "Xã Gio Hải",
+            "Xã Gio Mai",
+            "Xã Gio Sơn",
+            "Xã Linh Hải",
+            "Xã Trung Sơn"
+          ]
+        },
+        {
+          "huyen": "Cam Lộ",
+          "donViHanhChinh": [
+            "Xã Thanh An",
+            "Xã Thanh Thủy",
+            "Xã Cam Thủy",
+            "Xã Cam Tuyền"
+          ]
+        },
+        {
+          "huyen": "Triệu Phong",
+          "donViHanhChinh": [
+            "Xã Triệu Đông",
+            "Xã Triệu Trung",
+            "Xã Triệu Thuận"
+          ]
+        },
+        {
+          "huyen": "Hải Lăng",
+          "donViHanhChinh": [
+            "Xã Hải An",
+            "Xã Hải Ba",
+            "Xã Hải Chánh",
+            "Xã Hải Dương",
+            "Xã Hải Lâm",
+            "Xã Hải Phong"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Đông Hà",
+          "donViHanhChinh": [
+            "Phường 1",
+            "Phường 2",
+            "Phường 3",
+            "Phường 4",
+            "Phường 5",
+            "Phường 6",
+            "Phường 7"
+          ]
+        },
+        {
+          "huyen": "Thị xã Quảng Trị",
+          "donViHanhChinh": [
+            "Phường Đông Lễ",
+            "Phường 1",
+            "Phường 2",
+            "Phường 3",
+            "Phường 4",
+            "Phường 5",
+            "Phường 6",
+            "Phường 7",
+            "Xã Triệu Long"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "33",
+  "tenTinh": "Thừa Thiên Huế",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "A Lưới",
+          "donViHanhChinh": [
+            "Xã Hồng Hạ",
+            "Xã Hồng Kim",
+            "Xã Hồng Bắc",
+            "Xã Hồng Thái",
+            "Xã A Ngo",
+            "Xã A Roàng",
+            "Xã Sơn Thủy",
+            "Xã Phú Vân",
+            "Xã Hương Phú",
+            "Xã Hương Lâm",
+            "Xã A Đớt",
+            "Xã A Túc",
+            "Xã Hương Xuân",
+            "Xã Đông Sơn",
+            "Xã A Roàng"
+          ]
+        },
+        {
+          "huyen": "Nam Đông",
+          "donViHanhChinh": [
+            "Xã Thượng Long",
+            "Xã Hương Hữu",
+            "Xã Hương Phú",
+            "Xã Hương Hòa",
+            "Xã Hương Sơn",
+            "Xã Hương Lộc",
+            "Xã Hương Giang",
+            "Xã Thượng Quảng",
+            "Xã Hương Bình"
+          ]
+        },
+        {
+          "huyen": "Phong Điền",
+          "donViHanhChinh": [
+            "Xã Phong Sơn",
+            "Xã Phong Xuân",
+            "Xã Phong Mỹ",
+            "Xã Phong Chương",
+            "Xã Điền Hương",
+            "Xã Phong Bình",
+            "Xã Điền Hòa",
+            "Xã Điền Môn"
+          ]
+        },
+        {
+          "huyen": "Quảng Điền",
+          "donViHanhChinh": [
+            "Xã Quảng Lợi",
+            "Xã Quảng An",
+            "Xã Quảng Phước",
+            "Xã Quảng Thái",
+            "Xã Quảng Công",
+            "Xã Quảng Ngạn",
+            "Xã Quảng Thành"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hương Trà",
+          "donViHanhChinh": [
+            "Xã Bình Điền",
+            "Xã Bình Thành",
+            "Xã Hồng Tiến",
+            "Xã Hương Thọ",
+            "Xã Hương Bình"
+          ]
+        },
+        {
+          "huyen": "Phú Vang",
+          "donViHanhChinh": [
+            "Xã Phú An",
+            "Xã Vinh An",
+            "Xã Vinh Thái",
+            "Xã Vinh Phú",
+            "Xã Vinh Hà",
+            "Xã Phú Xuân",
+            "Xã Phú Diên",
+            "Xã Vinh Xuân"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hương Thủy",
+          "donViHanhChinh": [
+            "Xã Phú Sơn",
+            "Xã Dương Hòa"
+          ]
+        },
+        {
+          "huyen": "Phú Lộc",
+          "donViHanhChinh": [
+            "Xã Lộc Bình",
+            "Xã Lộc Bổn",
+            "Xã Lộc Hòa",
+            "Xã Lộc Trì",
+            "Xã Lộc Vĩnh",
+            "Xã Vinh Giang",
+            "Xã Vinh Hải",
+            "Xã Vinh Mỹ",
+            "Xã Vinh Hiền",
+            "Xã Xuân Lộc",
+            "Thị trấn Lăng Cô"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Phong Điền",
+          "donViHanhChinh": [
+            "Xã Phong An",
+            "Xã Phong Bình",
+            "Xã Phong Hải",
+            "Xã Phong Hòa",
+            "Xã Phong Thu"
+          ]
+        },
+        {
+          "huyen": "Quảng Điền",
+          "donViHanhChinh": [
+            "Xã Quảng Thọ",
+            "Xã Quảng Vinh",
+            "Xã Quảng Phú",
+            "Xã Quảng Thượng"
+          ]
+        },
+        {
+          "huyen": "Phú Vang",
+          "donViHanhChinh": [
+            "Xã Phú Gia",
+            "Xã Phú Hải",
+            "Xã Phú Thuận",
+            "Xã Phú Mậu",
+            "Xã Phú Hồ"
+          ]
+        },
+        {
+          "huyen": "Phú Lộc",
+          "donViHanhChinh": [
+            "Xã Lộc An",
+            "Xã Lộc Điền",
+            "Xã Lộc Sơn",
+            "Xã Lộc Tiến",
+            "Xã Lộc Thủy"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Huế",
+          "donViHanhChinh": [
+            "Phường Phú Hậu",
+            "Phường Phú Hội",
+            "Phường Phú Nhuận",
+            "Phường Phú Thượng",
+            "Phường Phú Bình",
+            "Phường Phú Cát",
+            "Phường Vĩnh Ninh",
+            "Phường Trường An",
+            "Phường Thuỷ Biều",
+            "Phường Thuỷ Châu",
+            "Phường Thuỷ Xuân"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hương Trà",
+          "donViHanhChinh": [
+            "Phường Tứ Hạ",
+            "Phường Hương Văn",
+            "Phường Hương Vân"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hương Thủy",
+          "donViHanhChinh": [
+            "Phường Thủy Dương",
+            "Phường Thủy Lương",
+            "Phường Thủy Phương",
+            "Phường Thủy Thanh"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "34",
+  "tenTinh": "Quảng Nam",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Nam Giang",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Đông Giang",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Tây Giang",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Phước Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Bắc Trà My",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Nam Trà My",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Hiệp Đức",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Tiên Phước",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Nông Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Phú Ninh",
+          "donViHanhChinh": [
+            "Xã Tam Lãnh"
+          ]
+        },
+        {
+          "huyen": "Đại Lộc",
+          "donViHanhChinh": [
+            "Xã Đại Đồng",
+            "Xã Đại Hồng",
+            "Xã Đại Lãnh",
+            "Xã Đại Quang",
+            "Xã Đại Tân",
+            "Xã Đại Hưng",
+            "Xã Đại Chánh",
+            "Xã Đại Sơn",
+            "Xã Đại Thạnh"
+          ]
+        },
+        {
+          "huyen": "Quế Sơn",
+          "donViHanhChinh": [
+            "Xã Quế Phong"
+          ]
+        },
+        {
+          "huyen": "Núi Thành",
+          "donViHanhChinh": [
+            "Xã Tam Mỹ Đông",
+            "Xã Tam Mỹ Tây",
+            "Xã Tam Sơn",
+            "Xã Tam Thạnh",
+            "Xã Tam Trà",
+            "Xã Tam Tiến",
+            "Xã Tam Hải"
+          ]
+        },
+        {
+          "huyen": "Duy Xuyên",
+          "donViHanhChinh": [
+            "Xã Duy Sơn",
+            "Xã Duy Phú",
+            "Xã Duy Vinh",
+            "Xã Duy Nghĩa",
+            "Xã Duy Hải"
+          ]
+        },
+        {
+          "huyen": "Thăng Bình",
+          "donViHanhChinh": [
+            "Xã Bình Phú",
+            "Xã Bình Lãnh",
+            "Xã Bình Hải",
+            "Xã Bình Nam",
+            "Xã Bình Đào"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Duy Xuyên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thăng Bình",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Đại Lộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Quế Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Núi Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Phú Ninh",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Điện Bàn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thành phố Tam Kỳ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Thành phố Hội An",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "35",
+  "tenTinh": "Quảng Ngãi",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Bình Sơn",
+          "donViHanhChinh": [
+            "Bình An",
+            "Bình Khương",
+            "Bình Hải",
+            "Bình Châu",
+            "Bình Thuận",
+            "Bình Thạnh",
+            "Bình Đông",
+            "Bình Chánh"
+          ]
+        },
+        {
+          "huyen": "Sơn Tịnh",
+          "donViHanhChinh": [
+            "Tịnh Hiệp",
+            "Tịnh Đông",
+            "Tịnh Giang"
+          ]
+        },
+        {
+          "huyen": "Tư Nghĩa",
+          "donViHanhChinh": [
+            "Nghĩa Lâm",
+            "Nghĩa Thọ",
+            "Nghĩa Sơn"
+          ]
+        },
+        {
+          "huyen": "Nghĩa Hành",
+          "donViHanhChinh": [
+            "Hành Dũng",
+            "Hành Thiện",
+            "Hành Tín Tây",
+            "Hành Tín Đông",
+            "Hành Nhân"
+          ]
+        },
+        {
+          "huyen": "Mộ Đức",
+          "donViHanhChinh": [
+            "Đức Phú",
+            "Đức Minh",
+            "Đức Lợi",
+            "Đức Thắng",
+            "Đức Chánh",
+            "Đức Phong"
+          ]
+        },
+        {
+          "huyen": "Đức Phổ",
+          "donViHanhChinh": [
+            "Phổ Phong",
+            "Phổ Nhơn",
+            "Phổ An",
+            "Phổ Châu",
+            "Phổ Quang",
+            "Phổ Khánh"
+          ]
+        },
+        {
+          "huyen": "Thành phố Quảng Ngãi",
+          "donViHanhChinh": [
+            "Tịnh Kỳ"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Bình Sơn",
+          "donViHanhChinh": [
+            "Bình Minh",
+            "Bình Trung",
+            "Bình Khương",
+            "Bình Phú",
+            "Bình Dương",
+            "Bình Mỹ",
+            "Bình Hải"
+          ]
+        },
+        {
+          "huyen": "Sơn Tịnh",
+          "donViHanhChinh": [
+            "Tịnh Ấn Tây",
+            "Tịnh Ấn Đông",
+            "Tịnh Bình",
+            "Tịnh Hiệp",
+            "Tịnh Châu"
+          ]
+        },
+        {
+          "huyen": "Tư Nghĩa",
+          "donViHanhChinh": [
+            "Nghĩa Trung",
+            "Nghĩa Thắng",
+            "Nghĩa Minh",
+            "Nghĩa Lộc"
+          ]
+        },
+        {
+          "huyen": "Nghĩa Hành",
+          "donViHanhChinh": [
+            "Hành Thuận",
+            "Hành Phước",
+            "Hành Minh"
+          ]
+        },
+        {
+          "huyen": "Mộ Đức",
+          "donViHanhChinh": [
+            "Đức Nhuận",
+            "Đức Lân",
+            "Đức Tân"
+          ]
+        },
+        {
+          "huyen": "Đức Phổ",
+          "donViHanhChinh": [
+            "Phổ Minh",
+            "Phổ Thuận",
+            "Phổ Văn"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Quảng Ngãi",
+          "donViHanhChinh": [
+            "Châu Ổ",
+            "Chánh Lộ",
+            "Trương Quang Trọng",
+            "Trần Phú",
+            "Lê Hồng Phong",
+            "Trần Hưng Đạo",
+            "Lý Thường Kiệt",
+            "Nguyễn Nghiêm",
+            "Quảng Phú",
+            "Quảng Phú Tây"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "36",
+  "tenTinh": "Kon Tum",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Kon Tum",
+          "donViHanhChinh": [
+            "Thắng Lợi",
+            "Ngô Mây",
+            "Duy Tân",
+            "Quang Trung",
+            "Trần Hưng Đạo",
+            "Nguyễn Trãi",
+            "Thống Nhất",
+            "Lê Lợi",
+            "Trường Chinh",
+            "Thống Nhất",
+            "Quang Trung",
+            "Duy Tân",
+            "Ngọc Lây",
+            "Ngọc Bay",
+            "Hòa Bình",
+            "Linh Thông",
+            "Chư Hreng",
+            "Thắng Lợi",
+            "Ngọc Bay"
+          ]
+        },
+        {
+          "huyen": "Đắk Hà",
+          "donViHanhChinh": [
+            "Đắk La",
+            "Đắk Rơ Wa",
+            "Đắk Mar",
+            "Đắk Ngọk",
+            "Đắk Pxi",
+            "Ngọc Wang",
+            "Kon Pne",
+            "Đắk Ui"
+          ]
+        },
+        {
+          "huyen": "Đắk Tô",
+          "donViHanhChinh": [
+            "Tân Cảnh",
+            "Ngọc Wang",
+            "Kon Đào",
+            "Diên Bình",
+            "Đắk Rơ Nga",
+            "Kon Tum"
+          ]
+        },
+        {
+          "huyen": "Ia H'Drai",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Kon Plông",
+          "donViHanhChinh": [
+            "Măng Đen",
+            "Hiếu",
+            "Măng Bút",
+            "Đắk Ring",
+            "Đắk Rinh",
+            "Đắk Tăng",
+            "Đắk Pne",
+            "Pờ Ê",
+            "Tây Trạch"
+          ]
+        },
+        {
+          "huyen": "Kon Rẫy",
+          "donViHanhChinh": [
+            "Đắk Tơ Lung",
+            "Đắk Kôi",
+            "Đắk Ruồng",
+            "Đắk Tơ Pang",
+            "Đắk Pne",
+            "Đắk Tờ Re"
+          ]
+        },
+        {
+          "huyen": "Ngọc Hồi",
+          "donViHanhChinh": [
+            "Đắk Xú",
+            "Đắk Kan",
+            "Pờ Y",
+            "Đắk Dục",
+            "Đắk Ang",
+            "Đắk Mế",
+            "Sa Loong",
+            "Bờ Y"
+          ]
+        },
+        {
+          "huyen": "Sa Thầy",
+          "donViHanhChinh": [
+            "Mường Hoong",
+            "Sa Bình",
+            "Rờ Kơi",
+            "Sa Sơn",
+            "Sa Nghĩa",
+            "Sa Bình",
+            "Sa Nghĩa",
+            "Sa Tân"
+          ]
+        },
+        {
+          "huyen": "Tu Mơ Rông",
+          "donViHanhChinh": [
+            "Măng Cành",
+            "Tu Mơ Rông",
+            "Măng Ri",
+            "Đắk Hà",
+            "Đắk Sao"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+
+{
+  "maTinh": "37",
+  "tenTinh": "Bình Định",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "An Lão",
+          "donViHanhChinh": [
+            "An Toàn",
+            "An Dũng",
+            "An Hưng",
+            "An Vinh",
+            "An Trung",
+            "An Nghĩa",
+            "An Hòa",
+            "An Quang",
+            "An Tân",
+            "An Thái"
+          ]
+        },
+        {
+          "huyen": "Vĩnh Thạnh",
+          "donViHanhChinh": [
+            "Vĩnh Thạnh",
+            "Vĩnh Hòa",
+            "Vĩnh Kim",
+            "Vĩnh An",
+            "Vĩnh Sơn",
+            "Vĩnh Hiệp",
+            "Vĩnh Quang",
+            "Vĩnh Thuận"
+          ]
+        },
+        {
+          "huyen": "Vân Canh",
+          "donViHanhChinh": [
+            "Canh Vinh",
+            "Canh Hòa",
+            "Canh Thuận",
+            "Canh Hiệp",
+            "Canh Liên",
+            "Canh Hiển",
+            "Canh Hiếu"
+          ]
+        },
+        {
+          "huyen": "Tây Sơn",
+          "donViHanhChinh": [
+            "Vĩnh An",
+            "Tây Giang",
+            "Bình Tân",
+            "Tây Phú",
+            "Tây Thuận",
+            "Tây Xuân",
+            "Bình Thuận",
+            "Bình Tường",
+            "Tây Vinh",
+            "Bình Hòa"
+          ]
+        },
+        {
+          "huyen": "Hoài Ân",
+          "donViHanhChinh": [
+            "Đắc Mang",
+            "Ân Sơn",
+            "Bok Tới",
+            "Ân Nghĩa",
+            "Ân Hữu",
+            "Ân Tường Đông",
+            "Ân Tường Tây",
+            "Ân Hảo Đông",
+            "Ân Hảo Tây",
+            "Ân Đức",
+            "Ân Thạnh",
+            "Ân Phong",
+            "Ân Mỹ"
+          ]
+        },
+        {
+          "huyen": "Hoài Nhơn",
+          "donViHanhChinh": [
+            "Hoài Sơn",
+            "Hoài Châu Bắc",
+            "Hoài Châu",
+            "Hoài Thanh Tây",
+            "Hoài Thanh",
+            "Hoài Hảo",
+            "Hoài Tân",
+            "Hoài Hải",
+            "Hoài Xuân",
+            "Hoài Mỹ",
+            "Hoài Phú",
+            "Hoài Đức"
+          ]
+        },
+        {
+          "thanhPho": "Quy Nhơn",
+          "donViHanhChinh": [
+            "Nhơn Châu",
+            "Phước Mỹ",
+            "Bùi Thị Xuân"
+          ]
+        },
+        {
+          "huyen": "Phù Cát",
+          "donViHanhChinh": [
+            "Cát Sơn",
+            "Cát Hải",
+            "Cát Tài",
+            "Cát Hưng",
+            "Cát Thành",
+            "Cát Khánh",
+            "Cát Minh",
+            "Cát Chánh",
+            "Cát Lâm",
+            "Cát Tiến"
+          ]
+        },
+        {
+          "huyen": "Phù Mỹ",
+          "donViHanhChinh": [
+            "Mỹ Châu",
+            "Mỹ Đức",
+            "Mỹ Thọ",
+            "Mỹ Thắng",
+            "Mỹ An",
+            "Mỹ Thành",
+            "Mỹ Cát",
+            "Mỹ Lợi"
+          ]
+        },
+        {
+          "huyen": "Tuy Phước",
+          "donViHanhChinh": [
+            "Phước Thành",
+            "Phước Thắng",
+            "Phước Hòa",
+            "Phước Sơn",
+            "Phước Quang",
+            "Phước Hiệp",
+            "Phước Thuận",
+            "Phước An"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Hoài Ân",
+          "donViHanhChinh": [
+            "Hoài Hương",
+            "Hoài Thanh Đông",
+            "Hoài Phú",
+            "Hoài Xuân"
+          ]
+        },
+        {
+          "huyen": "Hoài Nhơn",
+          "donViHanhChinh": [
+            "Hoài Hương",
+            "Hoài Thanh Đông",
+            "Hoài Phú",
+            "Hoài Xuân"
+          ]
+        },
+        {
+          "huyen": "Phù Mỹ",
+          "donViHanhChinh": [
+            "Phù Mỹ",
+            "Mỹ Quang",
+            "Mỹ Phong",
+            "Mỹ Trinh"
+          ]
+        },
+        {
+          "huyen": "Phù Cát",
+          "donViHanhChinh": [
+            "Cát Trinh",
+            "Cát Tường",
+            "Cát Hưng"
+          ]
+        },
+        {
+          "huyen": "Tây Sơn",
+          "donViHanhChinh": [
+            "Tây An",
+            "Tây Vinh"
+          ]
+        },
+        {
+          "huyen": "Tuy Phước",
+          "donViHanhChinh": [
+            "Tuy Phước",
+            "Phước Thắng"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "thiXa": "An Nhơn",
+          "donViHanhChinh": [
+            "Bình Định",
+            "Nhơn Thành",
+            "Nhơn Hòa",
+            "Nhơn Phúc",
+            "Nhơn Mỹ",
+            "Nhơn Hậu",
+            "Nhơn Hưng",
+            "Nhơn Bình",
+            "Nhơn Phú",
+            "Nhơn Tân",
+            "Nhơn Thọ"
+          ]
+        },
+        {
+          "thanhPho": "Quy Nhơn",
+          "donViHanhChinh": [
+            "Trần Quang Diệu",
+            "Lê Hồng Phong",
+            "Nhơn Bình",
+            "Trần Hưng Đạo",
+            "Ghềnh Ráng",
+            "Lý Thường Kiệt",
+            "Bùi Thị Xuân",
+            "Nguyễn Văn Cừ",
+            "Trần Phú",
+            "Nguyễn Văn Trỗi",
+            "Lý Tự Trọng",
+            "Nhơn Phú"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "38",
+  "tenTinh": "Gia Lai",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Chư Păh",
+          "donViHanhChinh": [
+            "Chư Păh", "Chư Đăng Ya", "Ia Dreng", "Ia Phang", "Ia Piơr", "Ia Rmok", "Ia Me"
+          ]
+        },
+        {
+          "huyen": "Chư Prông",
+          "donViHanhChinh": [
+            "Chư Prông", "Bàu Cạn", "Ia Dreng", "Ia Me", "Ia Bang", "Ia Pia", "Ia Ga"
+          ]
+        },
+        {
+          "huyen": "Chư Pưh",
+          "donViHanhChinh": [
+            "Chư Pưh", "Bờ Ngoong", "Ia Dreng", "Ia Phang", "Ia Le"
+          ]
+        },
+        {
+          "huyen": "Chư Sê",
+          "donViHanhChinh": [
+            "Chư Sê", "Bờ Ngoong", "Ia Hlốp", "Ia Ko", "Ia Pal", "Ia Tô", "Ia Blang", "Ia Drăng"
+          ]
+        },
+        {
+          "huyen": "Đăk Đoa",
+          "donViHanhChinh": [
+            "Đăk Đoa", "Glar", "Hra", "Ia Pếch", "Nam Yang", "Trang", "H'Neng"
+          ]
+        },
+        {
+          "huyen": "Đăk Pơ",
+          "donViHanhChinh": [
+            "Đăk Pơ", "Ya Hội", "Ya Tăng", "Cư An"
+          ]
+        },
+        {
+          "huyen": "Ia Grai",
+          "donViHanhChinh": [
+            "Ia Grai", "Ia Krai", "Ia Bă", "Ia Khai", "Ia Pếch"
+          ]
+        },
+        {
+          "huyen": "Ia Pa",
+          "donViHanhChinh": [
+            "Ia Pa", "Ia Peng", "Ia Rsai", "Ia Sao"
+          ]
+        },
+        {
+          "huyen": "Kbang",
+          "donViHanhChinh": [
+            "Kbang", "Đăk Tăng", "Đăk Smar", "Tơ Tung", "Yang Trung"
+          ]
+        },
+        {
+          "huyen": "Krông Pa",
+          "donViHanhChinh": [
+            "Krông Pa", "Chư Drăng", "Chư Gu", "Phú Cần", "Phú Hòa"
+          ]
+        },
+        {
+          "huyen": "Mang Yang",
+          "donViHanhChinh": [
+            "Mang Yang", "Đak Yă", "Kon Pne", "Pờ Tó"
+          ]
+        },
+        {
+          "huyen": "Phú Thiện",
+          "donViHanhChinh": [
+            "Phú Thiện", "Chư A Thai", "Chư Răng", "Ia Ake"
+          ]
+        },
+        {
+          "thanhPho": "Pleiku",
+          "donViHanhChinh": [
+            "Phường Yên Đỗ", "Phường Thắng Lợi", "Phường Hoa Lư", "Phường Diên Hồng", "Phường Trà Bá", "Phường Thống Nhất", "Phường Ia Kring", "Phường Trường Chinh"
+          ]
+        },
+        {
+          "thiXa": "An Khê",
+          "donViHanhChinh": [
+            "Phường An Bình", "Phường An Phú", "Phường Bình Định", "Xã Cửu An", "Xã Tây Sơn", "Xã Thành An"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "39",
+  "tenTinh": "Phú Yên",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Sơn Hòa",
+          "donViHanhChinh": [
+            "Sơn Định", "Cù Lao Đông", "Sơn Phước", "Phước Tân", "Sơn Long", "Sơn Xuân",
+            "Sơn Cao", "Sơn Đăng", "Sơn Hội", "Sơn Thành Tây", "Sơn Thành Đông"
+          ]
+        },
+        {
+          "huyen": "Sông Hinh",
+          "donViHanhChinh": [
+            "Sông Hinh", "Ea Lâm", "Ea Bar", "Ea Trol", "Sông Hinh", "Ea Bá"
+          ]
+        },
+        {
+          "huyen": "Đồng Xuân",
+          "donViHanhChinh": [
+            "Xuân Sơn Bắc", "Xuân Sơn Nam", "Phú Mỡ", "Xuân Quang 1", "Xuân Quang 2", "Xuân Quang 3",
+            "Phú Lâm", "Phú Mậu", "Phú Mỹ", "Phú Thuận", "Phú Cát", "Xuân Lộc"
+          ]
+        },
+        {
+          "huyen": "Tây Hòa",
+          "donViHanhChinh": [
+            "Hòa Mỹ Tây", "Hòa Thịnh", "Sơn Thành Đông", "Sơn Thành Tây"
+          ]
+        },
+        {
+          "thiXa": "Sông Cầu",
+          "donViHanhChinh": [
+            "Xuân Lâm", "Xuân Thịnh", "Xuân Thọ 2", "Xuân Phương", "Xuân Bình", "Xuân Hòa"
+          ]
+        },
+        {
+          "huyen": "Tuy An",
+          "donViHanhChinh": [
+            "An Hải", "An Hòa", "An Ninh Đông", "An Ninh Tây", "An Hiệp", "An Lĩnh", "An Thọ", "An Xuân"
+          ]
+        },
+        {
+          "huyen": "Đông Hòa",
+          "donViHanhChinh": [
+            "Hòa Tâm"
+          ]
+        },
+        {
+          "huyen": "Phú Hòa",
+          "donViHanhChinh": [
+            "Hòa Hội"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Tây Hòa",
+          "donViHanhChinh": [
+            "Hòa Phong", "Hòa Đồng", "Hòa Tân Đông", "Hòa Tân Tây", "Hòa Mỹ Đông", "Hòa Quang Bắc", "Hòa Quang Nam"
+          ]
+        },
+        {
+          "huyen": "Tuy An",
+          "donViHanhChinh": [
+            "An Ninh Tây", "An Xuân", "An Ninh Đông", "An Mỹ", "An Cư", "An Dân", "An Hiệp"
+          ]
+        },
+        {
+          "huyen": "Phú Hòa",
+          "donViHanhChinh": [
+            "Hòa Phú", "Hòa Tiến", "Hòa Thắng", "Hòa Xuân Tây", "Hòa Xuân Đông"
+          ]
+        },
+        {
+          "huyen": "Đông Hòa",
+          "donViHanhChinh": [
+            "Hòa Hiệp Bắc", "Hòa Hiệp Trung", "Hòa Hiệp Nam", "Hòa Tâm", "Hòa Xuân Nam"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "thanhPho": "Tuy Hòa",
+          "donViHanhChinh": [
+            "Phú Thạnh", "Phú Đông", "Phú Lâm", "Phú Tân", "Phú Mẫn", "Phú Bình",
+            "Phú Xuân", "Phú Hiệp", "Phú Đông", "Phú Thạnh", "Phú Tài", "Phú Lộc"
+          ]
+        },
+        {
+          "thiXa": "Sông Cầu",
+          "donViHanhChinh": [
+            "Xuân Đài", "Xuân Phú", "Xuân Thành", "Xuân Thọ 1", "Xuân Thọ 2", "Xuân Cảnh"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "40",
+  "tenTinh": "Đắk Lắk",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Buôn Ma Thuột",
+          "donViHanhChinh": [
+            "Tân Lợi", "Tân Hòa", "Tân An", "Tân Tiến", "Tân Thành", "Tân Lập", "Tân Hưng", "Tân Đông", "Tân Phú", "Tân Quý", "Tân Bình", "Tân Thịnh", "Tân Thắng", "Tân Lộc", "Tân Tạo", "Tân Sơn", "Tân Cảnh", "Tân Dương", "Tân Hòa"
+          ]
+        },
+        {
+          "huyen": "Cư M'gar",
+          "donViHanhChinh": [
+            "Cư Dliê M'gar", "Cư Suê", "Cư M'gar", "Cư Kty", "Cư Pơng", "Cư Yang", "Cư Eo", "Cư M'gar", "Cư M'gar", "Cư M'gar"
+          ]
+        },
+        {
+          "huyen": "Ea H'leo",
+          "donViHanhChinh": [
+            "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo", "Ea H'leo"
+          ]
+        },
+        {
+          "huyen": "Ea Kar",
+          "donViHanhChinh": [
+            "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar", "Ea Kar"
+          ]
+        },
+        {
+          "huyen": "Krông Ana",
+          "donViHanhChinh": [
+            "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana", "Krông Ana"
+          ]
+        },
+        {
+          "huyen": "Krông Bông",
+          "donViHanhChinh": [
+            "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông", "Krông Bông"
+          ]
+        },
+        {
+          "huyen": "Krông Buk",
+          "donViHanhChinh": [
+            "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk", "Krông Buk"
+          ]
+        },
+        {
+          "huyen": "Krông Nang",
+          "donViHanhChinh": [
+            "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang", "Krông Nang"
+          ]
+        },
+        {
+          "huyen": "Lắk",
+          "donViHanhChinh": [
+            "Lắk", "Lắk", "Lắk", "Lắk", "Lắk", "Lắk", "Lắk", "Lắk", "Lắk", "Lắk"
+          ]
+        },
+        {
+          "huyen": "M'Đrắk",
+          "donViHanhChinh": [
+            "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk", "M'Đrắk"
+          ]
+        },
+        {
+          "huyen": "Phước An",
+          "donViHanhChinh": [
+            "Phước An", "Phước An", "Phước An", "Phước An", "Phước An", "Phước An", "Phước An", "Phước An", "Phước An", "Phước An"
+          ]
+        },
+        {
+          "huyen": "Tân Lạc",
+          "donViHanhChinh": [
+            "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc", "Tân Lạc"
+          ]
+        },
+        {
+          "huyen": "Tân Thịnh",
+          "donViHanhChinh": [
+            "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh", "Tân Thịnh"
+          ]
+        },
+        {
+          "huyen": "Tân Tiến",
+          "donViHanhChinh": [
+            "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến", "Tân Tiến"
+          ]
+        },
+        {
+          "huyen": "Tân Quý",
+          "donViHanhChinh": [
+            "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý", "Tân Quý"
+          ]
+        },
+        {
+          "huyen": "Tân Bình",
+          "donViHanhChinh": [
+            "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình", "Tân Bình"
+          ]
+        },
+        {
+          "huyen": "Tân Thắng",
+          "donViHanhChinh": [
+            "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng", "Tân Thắng"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "41",
+  "tenTinh": "Khánh Hòa",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Trường Sa",
+          "donViHanhChinh": ["Xã Sinh Tồn", "Xã Song Tử Tây", "Thị trấn Trường Sa"]
+        },
+        {
+          "huyen": "Khánh Vĩnh",
+          "donViHanhChinh": ["Thị trấn Khánh Vĩnh", "Xã Liên Sang", "Xã Cầu Bà", "Xã Giang Ly", "Xã Khánh Bình", "Xã Khánh Đông", "Xã Khánh Hiệp", "Xã Khánh Nam", "Xã Khánh Phú", "Xã Khánh Thành", "Xã Khánh Thượng", "Xã Khánh Trung", "Xã Sông Cầu", "Xã Sơn Thái"]
+        },
+        {
+          "huyen": "Khánh Sơn",
+          "donViHanhChinh": ["Thị trấn Tô Hạp", "Xã Ba Cụm Bắc", "Xã Ba Cụm Nam", "Xã Sơn Bình", "Xã Sơn Hiệp", "Xã Sơn Lâm", "Xã Sơn Trung", "Xã Thành Sơn"]
+        },
+        {
+          "huyen": "Cam Lâm",
+          "donViHanhChinh": ["Xã Cam An Bắc", "Xã Cam An Nam", "Xã Cam Hiệp Bắc", "Xã Cam Hòa", "Xã Cam Phước Tây", "Xã Cam Tân", "Xã Sơn Tân", "Xã Suối Cát", "Xã Suối Tân"]
+        },
+        {
+          "thiXa": "Ninh Hòa",
+          "donViHanhChinh": ["Xã Ninh Sơn", "Xã Ninh Tân", "Xã Ninh Tây", "Xã Ninh Thượng", "Xã Ninh Vân"]
+        },
+        {
+          "thanhPho": "Cam Ranh",
+          "donViHanhChinh": ["Xã Cam Bình", "Xã Cam Phước Đông", "Xã Cam Thành Nam", "Xã Cam Thịnh Tây"]
+        },
+        {
+          "huyen": "Vạn Ninh",
+          "donViHanhChinh": ["Xã Đại Lãnh", "Xã Vạn Bình", "Xã Vạn Khánh", "Xã Vạn Long", "Xã Vạn Lương", "Xã Vạn Phú", "Xã Vạn Phước", "Xã Vạn Thạnh", "Xã Vạn Thọ", "Xã Xuân Sơn"]
+        },
+        {
+          "huyen": "Diên Khánh",
+          "donViHanhChinh": ["Xã Diên Tân", "Xã Suối Tiên"]
+        },
+        {
+          "thanhPho": "Nha Trang",
+          "donViHanhChinh": ["Phường Vĩnh Nguyên"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Cam Lâm",
+          "donViHanhChinh": ["Xã Cam Lâm", "Xã Suối Dầu", "Xã Cam Hiệp", "Xã Cam An"]
+        },
+        {
+          "huyen": "Diên Khánh",
+          "donViHanhChinh": ["Xã Diên Khánh", "Xã Diên Lạc", "Xã Diên Điền", "Xã Diên Lâm", "Xã Diên Thọ", "Xã Suối Hiệp"]
+        },
+        {
+          "huyen": "Vạn Ninh",
+          "donViHanhChinh": ["Xã Tu Bông", "Xã Vạn Thắng", "Xã Vạn Ninh", "Xã Vạn Hưng"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "thanhPho": "Nha Trang",
+          "donViHanhChinh": ["Phường Nha Trang", "Phường Bắc Nha Trang", "Phường Tây Nha Trang", "Phường Nam Nha Trang"]
+        },
+        {
+          "thanhPho": "Cam Ranh",
+          "donViHanhChinh": ["Phường Bắc Cam Ranh", "Phường Cam Ranh", "Phường Cam Linh", "Phường Ba Ngòi", "Xã Nam Cam Ranh"]
+        },
+        {
+          "thiXa": "Ninh Hòa",
+          "donViHanhChinh": ["Phường Ninh Hòa", "Phường Đông Ninh Hòa", "Phường Hòa Thắng", "Xã Bắc Ninh Hòa", "Xã Tân Định", "Xã Nam Ninh Hòa", "Xã Tây Ninh Hòa", "Xã Hòa Trí"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "42",
+  "tenTinh": "Lâm Đồng",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Lạc Dương",
+          "donViHanhChinh": ["Xã Lạc Dương"]
+        },
+        {
+          "huyen": "Đơn Dương",
+          "donViHanhChinh": ["Xã Đơn Dương"]
+        },
+        {
+          "huyen": "Đam Rông",
+          "donViHanhChinh": ["Xã Đam Rông 1", "Xã Đam Rông 2", "Xã Đam Rông 3", "Xã Đam Rông 4"]
+        },
+        {
+          "huyen": "Di Linh",
+          "donViHanhChinh": ["Xã Di Linh"]
+        },
+        {
+          "huyen": "Lâm Hà",
+          "donViHanhChinh": ["Xã Đức Trọng", "Xã Tân Hội", "Xã Tà Hine", "Xã Tà Năng", "Xã Đinh Văn Lâm Hà", "Xã Phú Sơn Lâm Hà", "Xã Nam Hà Lâm Hà", "Xã Nam Ban Lâm Hà", "Xã Tân Hà Lâm Hà", "Xã Phúc Thọ Lâm Hà"]
+        },
+        {
+          "huyen": "Đà Lạt",
+          "donViHanhChinh": ["Phường Xuân Hương", "Phường Cam Ly", "Phường Lâm Viên", "Phường Xuân Trường", "Phường Lang Biang"]
+        },
+        {
+          "huyen": "Bảo Lộc",
+          "donViHanhChinh": ["Phường Phường 1", "Phường Phường 2", "Phường Phường 3", "Phường B'Lao"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "43",
+  "tenTinh": "Bình Phước",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        { "huyen": "Thành phố Đồng Xoài", "donViHanhChinh": [] },
+        { "huyen": "Thị xã Phước Long", "donViHanhChinh": [] },
+        { "huyen": "Thị xã Bình Long", "donViHanhChinh": [] },
+        { "huyen": "Huyện Đồng Phú", "donViHanhChinh": [] },
+        { "huyen": "Huyện Bù Đăng", "donViHanhChinh": [] },
+        { "huyen": "Huyện Phú Riềng", "donViHanhChinh": [] },
+        { "huyen": "Huyện Bù Gia Mập", "donViHanhChinh": [] },
+        { "huyen": "Huyện Bù Đốp", "donViHanhChinh": [] },
+        { "huyen": "Huyện Lộc Ninh", "donViHanhChinh": [] },
+        { "huyen": "Huyện Hớn Quản", "donViHanhChinh": [] },
+        {
+          "huyen": "Thị xã Chơn Thành",
+          "donViHanhChinh": ["Phường Hưng Long", "Phường Minh Thành", "Xã Minh Lập", "Xã Minh Thắng", "Xã Nha Bích", "Xã Quang Minh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Chơn Thành",
+          "donViHanhChinh": ["Phường Minh Hưng", "Phường Minh Long", "Phường Thành Tâm"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "44",
+  "tenTinh": "Bình Dương",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Bàu Bàng",
+          "donViHanhChinh": ["Xã Bàu Bàng", "Xã Long Hòa", "Xã Minh Thạnh", "Xã Trừ Văn Thố"]
+        },
+        {
+          "huyen": "Phú Giáo",
+          "donViHanhChinh": ["Xã Phú Giáo", "Xã Phước Thành", "Xã Phước Hòa", "Xã Thanh An"]
+        },
+        {
+          "huyen": "Dầu Tiếng",
+          "donViHanhChinh": ["Xã Dầu Tiếng", "Xã Thường Tân", "Xã An Long", "Xã An Thái"]
+        },
+        {
+          "huyen": "Bắc Tân Uyên",
+          "donViHanhChinh": ["Phường Vĩnh Tân", "Phường Bình Mỹ", "Phường Tân Uyên", "Phường Tân Hiệp", "Phường Tân Khánh", "Xã Bắc Tân Uyên"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Thủ Dầu Một",
+          "donViHanhChinh": ["Phường Thủ Dầu Một", "Phường Phú Lợi", "Phường Chánh Hiệp", "Phường Bình Dương", "Phường Phú An"]
+        },
+        {
+          "huyen": "Thị xã Dĩ An",
+          "donViHanhChinh": ["Phường Dĩ An", "Phường Tân Đông Hiệp"]
+        },
+        {
+          "huyen": "Thị xã Thuận An",
+          "donViHanhChinh": ["Phường Lái Thiêu", "Phường Thuận An"]
+        },
+        {
+          "huyen": "Thị xã Bến Cát",
+          "donViHanhChinh": ["Phường Tây Nam", "Phường Bến Cát", "Phường Tân Định"]
+        },
+        {
+          "huyen": "Thị xã Tân Uyên",
+          "donViHanhChinh": ["Phường Vĩnh Tân", "Phường Tân Uyên", "Phường Tân Hiệp", "Phường Tân Khánh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "45",
+  "tenTinh": "Ninh Thuận",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Phan Rang‑Tháp Chàm",
+          "donViHanhChinh": ["Thành Hải"]
+        },
+        {
+          "huyen": "Thuận Nam",
+          "donViHanhChinh": ["Phước Minh","Phước Nam","Phước Ninh"]
+        },
+        {
+          "huyen": "Ninh Phước",
+          "donViHanhChinh": ["Phước Dân","Phước Hậu","Phước Hữu","Phước Sơn","Phước Thuận","Phước Vinh","Phước Thái","Phước Hải"]
+        },
+        {
+          "huyen": "Ninh Hải",
+          "donViHanhChinh": ["Ninh Hải","Xuân Hải","Vĩnh Hải"]
+        },
+        {
+          "huyen": "Bác Ái",
+          "donViHanhChinh": ["Phước Bình","Phước Chính","Phước Đại","Phước Hòa","Phước Tân","Phước Thắng","Phước Thành","Phước Tiến","Phước Trung"]
+        },
+        {
+          "huyen": "Ninh Sơn",
+          "donViHanhChinh": ["Nhơn Sơn","Lâm Sơn","Lương Sơn","Mỹ Sơn","Quảng Sơn","Hòa Sơn","Ma Nới"]
+        },
+        {
+          "huyen": "Thuận Bắc",
+          "donViHanhChinh": ["Công Hải","Lợi Hải","Bắc Sơn","Phước Chiến"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Thuận Nam",
+          "donViHanhChinh": ["Xã Thuận Nam", "Xã Cà Ná", "Xã Phước Dinh"]
+        },
+        {
+          "huyen": "Ninh Phước",
+          "donViHanhChinh": ["Xã Ninh Phước", "Xã Phước Hữu", "Xã Phước Hậu"]
+        },
+        {
+          "huyen": "Ninh Hải",
+          "donViHanhChinh": ["Xã Ninh Hải", "Xã Xuân Hải", "Xã Vĩnh Hải"]
+        },
+        {
+          "huyen": "Ninh Sơn",
+          "donViHanhChinh": ["Xã Ninh Sơn", "Xã Lâm Sơn", "Xã Anh Dũng", "Xã Mỹ Sơn"]
+        },
+        {
+          "huyen": "Thuận Bắc",
+          "donViHanhChinh": ["Xã Thuận Bắc", "Xã Công Hải"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Phan Rang‑Tháp Chàm",
+          "donViHanhChinh": ["Phường Phan Rang","Phường Đông Hải","Phường Ninh Chử","Phường Bảo An","Phường Đô Vinh"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "47",
+  "tenTinh": "Tỉnh Bình Thuận",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tuy Phong",
+          "donViHanhChinh": [
+            "Xã Bình Thạnh",
+            "Xã Phan Dũng",
+            "Xã Phong Phú",
+            "Xã Phú Lạc",
+            "Xã Vĩnh Hảo",
+            "Xã Vĩnh Tân",
+            "Xã Phước Thể"
+          ]
+        },
+        {
+          "huyen": "Huyện Bắc Bình",
+          "donViHanhChinh": [
+            "Xã Bình An",
+            "Xã Bình Tân",
+            "Xã Chợ Lầu",
+            "Xã Hải Ninh",
+            "Xã Hòa Thắng",
+            "Xã Hồng Phong",
+            "Xã Hồng Thái",
+            "Xã Lương Sơn",
+            "Xã Phan Điền",
+            "Xã Phan Hiệp",
+            "Xã Phan Hòa",
+            "Xã Phan Lâm",
+            "Xã Phan Rí Thành",
+            "Xã Phan Sơn",
+            "Xã Phan Thanh",
+            "Xã Phan Tiến",
+            "Xã Sông Bình",
+            "Xã Sông Lũy"
+          ]
+        },
+        {
+          "huyen": "Huyện Hàm Thuận Bắc",
+          "donViHanhChinh": [
+            "Xã Đa Mi",
+            "Xã Đông Giang",
+            "Xã Đông Tiến",
+            "Xã Hàm Chính",
+            "Xã Hàm Liêm",
+            "Xã Hàm Phú",
+            "Xã Hàm Trí",
+            "Xã Hồng Liêm",
+            "Xã Hồng Sơn",
+            "Xã La Dạ",
+            "Xã Thuận Hòa",
+            "Xã Thuận Minh"
+          ]
+        },
+        {
+          "huyen": "Huyện Hàm Thuận Nam",
+          "donViHanhChinh": [
+            "Xã Hàm Cần",
+            "Xã Hàm Minh",
+            "Xã Hàm Thạnh",
+            "Xã Mương Mán",
+            "Xã Mỹ Thạnh",
+            "Xã Tân Lập",
+            "Xã Tân Thuận",
+            "Xã Thuận Nam",
+            "Xã Thuận Quý"
+          ]
+        },
+        {
+          "huyen": "Huyện Hàm Tân",
+          "donViHanhChinh": [
+            "Xã Sơn Mỹ",
+            "Xã Sông Phan",
+            "Xã Tân Đức",
+            "Xã Tân Hà",
+            "Xã Tân Minh",
+            "Xã Tân Nghĩa",
+            "Xã Tân Phúc",
+            "Xã Tân Thắng",
+            "Xã Tân Xuân",
+            "Xã Thắng Hải"
+          ]
+        },
+        {
+          "huyen": "Huyện Tánh Linh",
+          "donViHanhChinh": [
+            "Xã Bắc Ruộng",
+            "Xã Đồng Kho",
+            "Xã Đức Bình",
+            "Xã Đức Phú",
+            "Xã Đức Tân",
+            "Xã Đức Thuận",
+            "Xã Gia An",
+            "Xã Gia Huynh",
+            "Xã Huy Khiêm",
+            "Xã La Ngâu",
+            "Xã Lạc Tánh",
+            "Xã Măng Tố",
+            "Xã Nghị Đức",
+            "Xã Suối Kiết"
+          ]
+        },
+        {
+          "huyen": "Huyện Đức Linh",
+          "donViHanhChinh": [
+            "Xã Đa Kai",
+            "Xã Đông Hà",
+            "Xã Đức Chính",
+            "Xã Đức Hạnh",
+            "Xã Đức Tài",
+            "Xã Đức Tín",
+            "Xã Mê Pu",
+            "Xã Nam Chính",
+            "Xã Sùng Nhơn",
+            "Xã Tân Hà",
+            "Xã Trà Tân",
+            "Xã Vũ Hòa"
+          ]
+        },
+        {
+          "huyen": "Huyện Phú Quý",
+          "donViHanhChinh": [
+            "Xã Long Hải",
+            "Xã Ngũ Phụng",
+            "Xã Tam Thanh"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tuy Phong",
+          "donViHanhChinh": [
+            "Xã Chí Công",
+            "Xã Hòa Minh",
+            "Xã Hòa Phú",
+            "Xã Liên Hương",
+            "Xã Phan Rí Cửa"
+          ]
+        },
+        {
+          "huyen": "Huyện Hàm Thuận Bắc",
+          "donViHanhChinh": [
+            "Xã Hàm Đức",
+            "Xã Hàm Hiệp",
+            "Xã Hàm Thắng",
+            "Xã Ma Lâm",
+            "Xã Phú Long"
+          ]
+        },
+        {
+          "huyen": "Huyện Hàm Thuận Nam",
+          "donViHanhChinh": [
+            "Xã Hàm Cường",
+            "Xã Hàm Kiệm",
+            "Xã Hàm Mỹ",
+            "Xã Tân Thành"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Phan Thiết",
+          "donViHanhChinh": [
+            "Phường Bình Hưng",
+            "Phường Đức Long",
+            "Phường Đức Nghĩa",
+            "Phường Hàm Tiến",
+            "Phường Hưng Long",
+            "Phường Lạc Đạo",
+            "Phường Mũi Né",
+            "Phường Phong Nẫm",
+            "Phường Phú Hài",
+            "Phường Phú Tài",
+            "Phường Phú Thủy",
+            "Phường Phú Trinh",
+            "Phường Thanh Hải",
+            "Phường Thiện Nghiệp",
+            "Phường Tiến Lợi",
+            "Phường Tiến Thành",
+            "Phường Xuân An"
+          ]
+        },
+        {
+          "huyen": "Thị xã La Gi",
+          "donViHanhChinh": [
+            "Phường Bình Tân",
+            "Phường Phước Hội",
+            "Phường Phước Lộc",
+            "Phường Tân An",
+            "Phường Tân Thiện",
+            "Xã Tân Bình",
+            "Xã Tân Hải",
+            "Xã Tân Phước",
+            "Xã Tân Tiến"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "48",
+  "tenTinh": "Tỉnh Đồng Nai",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tân Phú",
+          "donViHanhChinh": [
+            "Thị trấn Tân Phú",
+            "Xã Đắk Lua",
+            "Xã Nam Cát Tiên",
+            "Xã Núi Tượng",
+            "Xã Phú An",
+            "Xã Phú Bình",
+            "Xã Phú Điền",
+            "Xã Phú Lập",
+            "Xã Phú Lộc",
+            "Xã Phú Sơn",
+            "Xã Phú Thịnh",
+            "Xã Phú Trung",
+            "Xã Tà Lài",
+            "Xã Thanh Sơn",
+            "Xã Trà Cổ"
+          ]
+        },
+        {
+          "huyen": "Huyện Định Quán",
+          "donViHanhChinh": [
+            "Thị trấn Định Quán",
+            "Xã Gia Canh",
+            "Xã La Ngà",
+            "Xã Ngọc Định",
+            "Xã Phú Cường",
+            "Xã Phú Hòa",
+            "Xã Phú Lợi",
+            "Xã Phú Ngọc",
+            "Xã Phú Tân",
+            "Xã Phú Túc",
+            "Xã Phú Vinh",
+            "Xã Suối Nho",
+            "Xã Túc Trưng",
+            "Xã Thanh Sơn"
+          ]
+        },
+        {
+          "huyen": "Huyện Xuân Lộc",
+          "donViHanhChinh": [
+            "Thị trấn Gia Ray",
+            "Xã Bảo Hòa",
+            "Xã Lang Minh",
+            "Xã Suối Cao",
+            "Xã Suối Cát",
+            "Xã Xuân Bắc",
+            "Xã Xuân Định",
+            "Xã Xuân Hiệp",
+            "Xã Xuân Hòa",
+            "Xã Xuân Hưng",
+            "Xã Xuân Phú",
+            "Xã Xuân Tâm",
+            "Xã Xuân Thành",
+            "Xã Xuân Thọ",
+            "Xã Xuân Trường"
+          ]
+        },
+        {
+          "huyen": "Huyện Cẩm Mỹ",
+          "donViHanhChinh": [
+            "Xã Bảo Bình",
+            "Xã Lâm San",
+            "Xã Long Giao",
+            "Xã Nhân Nghĩa",
+            "Xã Sông Nhạn",
+            "Xã Sông Ray",
+            "Xã Thừa Đức",
+            "Xã Xuân Bảo",
+            "Xã Xuân Đông",
+            "Xã Xuân Đường",
+            "Xã Xuân Mỹ",
+            "Xã Xuân Quế",
+            "Xã Xuân Tây"
+          ]
+        },
+        {
+          "huyen": "Thị xã Long Khánh",
+          "donViHanhChinh": [
+            "Xã Bảo Quang",
+            "Xã Bàu Sen",
+            "Xã Bàu Trâm",
+            "Xã Xuân Lập"
+          ]
+        },
+        {
+          "huyen": "Huyện Trảng Bom",
+          "donViHanhChinh": [
+            "Xã An Viễn",
+            "Xã Bàu Hàm",
+            "Xã Cây Gáo",
+            "Xã Đồi 61",
+            "Xã Đông Hòa",
+            "Xã Hố Nai 3",
+            "Xã Hưng Thịnh",
+            "Xã Sông Thao",
+            "Xã Sông Trầu",
+            "Xã Tây Hòa",
+            "Xã Thanh Bình",
+            "Xã Trung Hòa"
+          ]
+        },
+        {
+          "huyen": "Huyện Thống Nhất",
+          "donViHanhChinh": [
+            "Xã Bàu Hàm 2",
+            "Xã Hưng Lộc",
+            "Xã Lộ 25",
+            "Xã Xuân Thạnh",
+            "Xã Xuân Thiện"
+          ]
+        },
+        {
+          "huyen": "Huyện Vĩnh Cửu",
+          "donViHanhChinh": [
+            "Thị trấn Vĩnh An",
+            "Xã Hiếu Liêm",
+            "Xã Mã Đà",
+            "Xã Phú Lý",
+            "Xã Trị An",
+            "Xã Vĩnh Tân"
+          ]
+        },
+        {
+          "huyen": "Huyện Long Thành",
+          "donViHanhChinh": [
+            "Xã Bình Sơn",
+            "Xã Phước Bình",
+            "Xã Tân Hiệp"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Nhơn Trạch",
+          "donViHanhChinh": [
+            "Thị trấn Hiệp Phước",
+            "Xã Đại Phước",
+            "Xã Long Tân",
+            "Xã Long Thọ",
+            "Xã Phú Đông",
+            "Xã Phú Hội",
+            "Xã Phú Thạnh",
+            "Xã Phú Hữu",
+            "Xã Phước An",
+            "Xã Phước Khánh",
+            "Xã Phước Thiền",
+            "Xã Vĩnh Thanh"
+          ]
+        },
+        {
+          "huyen": "Huyện Tân Phú",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Định Quán",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Xuân Lộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Cẩm Mỹ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Trảng Bom",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Thống Nhất",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Vĩnh Cửu",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Long Thành",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Biên Hòa",
+          "donViHanhChinh": [
+            "Phường Biên Hòa",
+            "Phường Trấn Biên",
+            "Phường Trảng Dài",
+            "Phường Tam Hiệp",
+            "Phường Long Bình",
+            "Phường Hố Nai",
+            "Phường Long Hưng",
+            "Phường Phước Tân",
+            "Phường Tam Phước"
+          ]
+        },
+        {
+          "huyen": "Thị xã Long Khánh",
+          "donViHanhChinh": [
+            "Phường Long Khánh",
+            "Phường Bảo Vinh",
+            "Phường Xuân Lập",
+            "Phường Hàng Gòn",
+            "Phường Bình Lộc"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "49",
+  "tenTinh": "Tỉnh Long An",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vĩnh Hưng",
+          "donViHanhChinh": [
+            "Xã Hưng Điền A",
+            "Xã Thái Bình Trung",
+            "Xã Thái Trị",
+            "Xã Tuyên Bình"
+          ]
+        },
+        {
+          "huyen": "Huyện Mộc Hóa",
+          "donViHanhChinh": [
+            "Xã Bình Hòa Tây",
+            "Xã Bình Thạnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Thạnh Hóa",
+          "donViHanhChinh": [
+            "Xã Tân Hiệp",
+            "Xã Thuận Bình"
+          ]
+        },
+        {
+          "huyen": "Huyện Đức Huệ",
+          "donViHanhChinh": [
+            "Xã Bình Hòa Hưng",
+            "Xã Mỹ Bình",
+            "Xã Mỹ Quý Đông",
+            "Xã Mỹ Quý Tây",
+            "Xã Mỹ Thạnh Tây"
+          ]
+        },
+        {
+          "huyen": "Huyện Cần Giuộc",
+          "donViHanhChinh": [
+            "Xã Phước Vĩnh Đông"
+          ]
+        },
+        {
+          "huyen": "Huyện Tân Hưng",
+          "donViHanhChinh": [
+            "Xã Hưng Điền",
+            "Xã Hưng Điền B",
+            "Xã Hưng Hà"
+          ]
+        },
+        {
+          "huyen": "Thị xã Kiến Tường",
+          "donViHanhChinh": [
+            "Xã Bình Tân"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Nhơn Trạch",
+          "donViHanhChinh": [
+            "Thị trấn Hiệp Phước",
+            "Xã Đại Phước",
+            "Xã Long Tân",
+            "Xã Long Thọ",
+            "Xã Phú Đông",
+            "Xã Phú Hội",
+            "Xã Phú Thạnh",
+            "Xã Phú Hữu",
+            "Xã Phước An",
+            "Xã Phước Khánh",
+            "Xã Phước Thiền",
+            "Xã Vĩnh Thanh"
+          ]
+        },
+        {
+          "huyen": "Huyện Vĩnh Hưng",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Mộc Hóa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tân Thạnh",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Thạnh Hóa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Đức Huệ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Đức Hòa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Bến Lức",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Thủ Thừa",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tân Trụ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Cần Đước",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Cần Giuộc",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tân Hưng",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Tân An",
+          "donViHanhChinh": [
+            "Phường Long An",
+            "Phường Tân An",
+            "Phường Khánh Hậu"
+          ]
+        },
+        {
+          "huyen": "Thị xã Kiến Tường",
+          "donViHanhChinh": [
+            "Phường Kiến Tường"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "50",
+  "tenTinh": "Tỉnh Đồng Tháp",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Hồng Ngự",
+          "donViHanhChinh": [
+            "Xã Thường Phước 1",
+            "Xã Thường Thới Hậu A",
+            "Xã Thường Thới Hậu B"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hồng Ngự",
+          "donViHanhChinh": [
+            "Xã Tân Hội",
+            "Xã Bình Thạnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Tân Hồng",
+          "donViHanhChinh": [
+            "Xã Tân Hộ Cơ",
+            "Xã Thông Bình",
+            "Xã Bình Phú"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Lai Vung",
+          "donViHanhChinh": [
+            "Xã Lai Vung",
+            "Xã Hòa Long",
+            "Xã Phong Hòa",
+            "Xã Tân Dương"
+          ]
+        },
+        {
+          "huyen": "Huyện Tân Hồng",
+          "donViHanhChinh": [
+            "Xã Tân Hồng"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": [
+            "Xã Phú Hựu",
+            "Xã Tân Nhuận Đông",
+            "Xã Tân Phú Trung"
+          ]
+        },
+        {
+          "huyen": "Huyện Lấp Vò",
+          "donViHanhChinh": [
+            "Xã Lấp Vò",
+            "Xã Tân Khánh Trung",
+            "Xã Mỹ An Hưng"
+          ]
+        },
+        {
+          "huyen": "Huyện Thanh Bình",
+          "donViHanhChinh": [
+            "Xã Thanh Bình",
+            "Xã Tân Thạnh",
+            "Xã Bình Thành"
+          ]
+        },
+        {
+          "huyen": "Huyện Tháp Mười",
+          "donViHanhChinh": [
+            "Xã Tháp Mười",
+            "Xã Thanh Mỹ",
+            "Xã Mỹ Quí",
+            "Xã Đốc Binh Kiều",
+            "Xã Trường Xuân",
+            "Xã Phương Thịnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Cao Lãnh",
+          "donViHanhChinh": [
+            "Xã Phong Mỹ",
+            "Xã Ba Sao",
+            "Xã Mỹ Thọ",
+            "Xã Bình Hàng Trung",
+            "Xã Mỹ Hiệp"
+          ]
+        },
+        {
+          "huyen": "Huyện Tam Nông",
+          "donViHanhChinh": [
+            "Xã An Hòa",
+            "Xã Phú Hiệp",
+            "Xã Phú Thọ",
+            "Xã Tam Nông",
+            "Xã Phú Cường",
+            "Xã An Long"
+          ]
+        },
+        {
+          "huyen": "Huyện Lai Vung", 
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Cao Lãnh",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Hồng Ngự",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tam Nông",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tháp Mười",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Xác Khác",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Cao Lãnh",
+          "donViHanhChinh": [
+            "Phường Cao Lãnh",
+            "Phường Mỹ Ngãi",
+            "Phường Mỹ Trà"
+          ]
+        },
+        {
+          "huyen": "Thành phố Sa Đéc",
+          "donViHanhChinh": [
+            "Phường Sa Đéc",
+            "Xã Tân Dương"
+          ]
+        },
+        {
+          "huyen": "Thị xã Hồng Ngự",
+          "donViHanhChinh": [
+            "Phường Hồng Ngự"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "51",
+  "tenTinh": "Tỉnh An Giang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện An Phú",
+          "donViHanhChinh": [
+            "Xã Đa Phước",
+            "Xã Vĩnh Trường",
+            "Xã Khánh An",
+            "Xã Khánh Bình",
+            "Xã Nhơn Hội",
+            "Xã Phú Hội",
+            "Xã Phú Hữu",
+            "Xã Quốc Thái",
+            "Xã Vĩnh Hội Đông"
+          ]
+        },
+        {
+          "huyen": "Thị xã Tân Châu",
+          "donViHanhChinh": [
+            "Xã Châu Phong",
+            "Xã Phú Lộc",
+            "Xã Vĩnh Xương"
+          ]
+        },
+        {
+          "huyen": "Huyện Tịnh Biên",
+          "donViHanhChinh": [
+            "Thị trấn Chi Lăng",
+            "Thị trấn Nhà Bàng",
+            "Thị trấn Tịnh Biên",
+            "Xã An Cư",
+            "Xã An Hảo",
+            "Xã Núi Voi",
+            "Xã Tân Lợi",
+            "Xã Thới Sơn",
+            "Xã Vĩnh Trung",
+            "Xã An Nông",
+            "Xã An Phú",
+            "Xã Nhơn Hưng",
+            "Xã Văn Giáo"
+          ]
+        },
+        {
+          "huyen": "Huyện Tri Tôn",
+          "donViHanhChinh": [
+            "Thị trấn Ba Chúc",
+            "Thị trấn Tri Tôn",
+            "Xã An Tức",
+            "Xã Châu Lăng",
+            "Xã Cô Tô",
+            "Xã Lê Trì",
+            "Xã Lương An Trà",
+            "Xã Lương Phi",
+            "Xã Ô Lâm",
+            "Xã Lạc Quới",
+            "Xã Núi Tô",
+            "Xã Vĩnh Gia"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Phú",
+          "donViHanhChinh": [
+            "Xã Bình Mỹ",
+            "Xã Khánh Hòa"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": [
+            "Xã Cần Đăng",
+            "Xã Hòa Bình Thạnh",
+            "Xã Vĩnh Hanh",
+            "Xã Vĩnh Thành"
+          ]
+        },
+        {
+          "huyen": "Huyện Thoại Sơn",
+          "donViHanhChinh": [
+            "Thị trấn Óc Eo"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện An Phú",
+          "donViHanhChinh": [
+            "Xã An Phú",
+            "Xã Vĩnh Hậu",
+            "Xã Nhơn Hội",
+            "Xã Khánh Bình",
+            "Xã Quốc Thái",
+            "Xã Vĩnh Hội Đông",
+            "Xã Vĩnh Trường"
+          ]
+        },
+        {
+          "huyen": "Huyện Chợ Mới",
+          "donViHanhChinh": [
+            "Xã Chợ Mới",
+            "Xã Cù Lao Giêng",
+            "Xã Hội An",
+            "Xã Long Điền",
+            "Xã Nhơn Mỹ",
+            "Xã Long Kiến"
+          ]
+        },
+        {
+          "huyen": "Huyện Phú Tân",
+          "donViHanhChinh": [
+            "Xã Phú Tân",
+            "Xã Phú An",
+            "Xã Bình Thạnh Đông",
+            "Xã Chợ Vàm",
+            "Xã Hòa Lạc",
+            "Xã Phú Lâm"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Thoại Sơn",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tịnh Biên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tri Tôn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Long Xuyên",
+          "donViHanhChinh": [
+            "Phường Long Xuyên",
+            "Phường Bình Đức",
+            "Phường Mỹ Thới",
+            "Xã Mỹ Hòa Hưng"
+          ]
+        },
+        {
+          "huyen": "Thành phố Châu Đốc",
+          "donViHanhChinh": [
+            "Phường Châu Đốc",
+            "Phường Vĩnh Tế"
+          ]
+        },
+        {
+          "huyen": "Thị xã Tân Châu",
+          "donViHanhChinh": [
+            "Phường Tân Châu",
+            "Phường Long Phú",
+            "Xã Tân An",
+            "Xã Châu Phong",
+            "Xã Vĩnh Xương"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "52",
+  "tenTinh": "Tỉnh Bà Rịa - Vũng Tàu",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Xuyên Mộc",
+          "donViHanhChinh": [
+            "Xã Bông Trang",
+            "Xã Bưng Riềng",
+            "Xã Hòa Bình",
+            "Xã Hòa Hội",
+            "Xã Xuyên Mộc",
+            "Xã Bàu Lâm",
+            "Xã Bình Châu",
+            "Xã Phước Tân",
+            "Xã Tân Lâm",
+            "Xã Hòa Hiệp"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Đức",
+          "donViHanhChinh": [
+            "Thị trấn Ngãi Giao",
+            "Xã Bình Ba",
+            "Xã Bình Giã",
+            "Xã Cù Bị",
+            "Xã Kim Long",
+            "Xã Láng Lớn",
+            "Xã Nghĩa Thành",
+            "Xã Quảng Thành",
+            "Xã Sơn Bình",
+            "Xã Suối Nghệ",
+            "Xã Suối Rao",
+            "Xã Xuân Sơn",
+            "Xã Đá Bạc"
+          ]
+        },
+        {
+          "huyen": "Thị xã Phú Mỹ",
+          "donViHanhChinh": [
+            "Phường Châu Pha",
+            "Phường Hắc Dịch",
+            "Phường Sông Xoài",
+            "Phường Tóc Tiên"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Xuyên Mộc",
+          "donViHanhChinh": [
+            "Xã Hồ Tràm"
+          ]
+        },
+        {
+          "huyen": "Huyện Long Đất",
+          "donViHanhChinh": [
+            "Xã Long Điền",
+            "Xã Đất Đỏ",
+            "Xã Long Hải",
+            "Xã Phước Hải"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Đức",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Đất Đỏ",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Long Điền",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Côn Đảo",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Phú Mỹ",
+          "donViHanhChinh": [
+            "Phường Phú Mỹ",
+            "Phường Tân Thành",
+            "Phường Tân Phước",
+            "Phường Tân Hải",
+            "Xã Châu Pha"
+          ]
+        },
+        {
+          "huyen": "Thành phố Bà Rịa",
+          "donViHanhChinh": [
+            "Phường Bà Rịa",
+            "Phường Long Hương",
+            "Phường Tam Long"
+          ]
+        },
+        {
+          "huyen": "Thành phố Vũng Tàu",
+          "donViHanhChinh": [
+            "Phường Vũng Tàu",
+            "Phường Tam Thắng",
+            "Phường Rạch Dừa",
+            "Phường Phước Thắng",
+            "Xã Long Sơn"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "53",
+  "tenTinh": "Tỉnh Tiền Giang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Tân Phú Đông",
+          "donViHanhChinh": [
+            "Xã Phú Đông",
+            "Xã Phú Tân",
+            "Xã Phú Thạnh",
+            "Xã Tân Thới",
+            "Xã Tân Phú",
+            "Xã Tân Thạnh"
+          ]
+        },
+        {
+          "huyen": "Thị xã Gò Công",
+          "donViHanhChinh": [
+            "Xã Bình Xuân",
+            "Xã Bình Đông"
+          ]
+        },
+        {
+          "huyen": "Huyện Gò Công Đông",
+          "donViHanhChinh": [
+            "Xã Gia Thuận",
+            "Xã Kiểng Phước",
+            "Xã Phước Trung"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Gò Công Đông",
+          "donViHanhChinh": [
+            "Xã Tăng Hòa",
+            "Xã Tân Điền",
+            "Xã Tân Đông",
+            "Xã Tân Phước"
+          ]
+        },
+        {
+          "huyen": "Huyện Gò Công Tây",
+          "donViHanhChinh": [
+            "Xã Bình Xuân",
+            "Xã Bình Đông",
+            "Xã Tân Trung",
+            "Phường Gò Công",
+            "Phường Long Thuận",
+            "Phường Bình Xuân",
+            "Phường Sơn Qui"
+          ]
+        },
+        {
+          "huyen": "Thị xã Cai Lậy",
+          "donViHanhChinh": [
+            "Phường Tân Phú",
+            "Phường Mỹ Phước Tây",
+            "Phường Thanh Hòa",
+            "Phường Nhị Quý"
+          ]
+        },
+        {
+          "huyen": "Thành phố Mỹ Tho",
+          "donViHanhChinh": [
+            "Phường Mỹ Tho",
+            "Phường Đạo Thạnh",
+            "Phường Mỹ Phong",
+            "Phường Thới Sơn",
+            "Phường Trung An"
+          ]
+        },
+        {
+          "huyen": "Huyện Cái Bè",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Cai Lậy",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tân Phước",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Chợ Gạo",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Mỹ Tho",
+          "donViHanhChinh": [
+            "Phường Mỹ Tho",
+            "Phường Đạo Thạnh",
+            "Phường Mỹ Phong",
+            "Phường Thới Sơn",
+            "Phường Trung An"
+          ]
+        },
+        {
+          "huyen": "Thị xã Cai Lậy",
+          "donViHanhChinh": [
+            "Phường Tân Phú",
+            "Phường Mỹ Phước Tây",
+            "Phường Thanh Hòa",
+            "Phường Nhị Quý"
+          ]
+        },
+        {
+          "huyen": "Thành phố Gò Công",
+          "donViHanhChinh": [
+            "Phường Gò Công",
+            "Phường Long Thuận",
+            "Phường Bình Xuân",
+            "Phường Sơn Qui"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "54",
+  "tenTinh": "Tỉnh Kiên Giang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Rạch Giá",
+          "donViHanhChinh": ["Xã Phi Thông"]
+        },
+        {
+          "huyen": "Thị xã Hà Tiên",
+          "donViHanhChinh": ["Xã Mỹ Đức", "Xã Tiên Hải"]
+        },
+        {
+          "huyen": "Huyện Kiên Lương",
+          "donViHanhChinh": ["Thị trấn Kiên Lương", "Xã Bình An", "Xã Dương Hòa", "Xã Hòa Điền", "Xã Sơn Hải", "Xã Hòn Nghệ"]
+        },
+        {
+          "huyen": "Huyện Hòn Đất",
+          "donViHanhChinh": ["Thị trấn Sóc Sơn", "Xã Bình Giang", "Xã Lình Huỳnh", "Xã Sơn Kiên", "Xã Thổ Sơn"]
+        },
+        {
+          "huyen": "Huyện Tân Hiệp",
+          "donViHanhChinh": ["Xã Thạnh Trị"]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": ["Thị trấn Minh Lương", "Xã Bình An", "Xã Mong Thọ B", "Xã Vĩnh Hòa Hiệp", "Xã Vĩnh Hòa Phú"]
+        },
+        {
+          "huyen": "Huyện An Biên",
+          "donViHanhChinh": ["Thị trấn Thứ Ba", "Xã Đông Thái", "Xã Đông Yên", "Xã Nam Thái", "Xã Nam Thái A", "Xã Nam Yên", "Xã Tây Yên"]
+        },
+        {
+          "huyen": "Huyện An Minh",
+          "donViHanhChinh": ["Xã Đông Hưng A", "Xã Thuận Hòa", "Xã Vân Khánh", "Xã Vân Khánh Đông", "Xã Vân Khánh Tây", "Xã Tân Thạnh"]
+        },
+        {
+          "huyen": "Huyện U Minh Thượng",
+          "donViHanhChinh": ["Xã Hòa Chánh", "Xã Minh Thuận", "Xã Thạnh Yên", "Xã Thạnh Yên A", "Xã Vĩnh Hòa"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện U Minh Thượng",
+          "donViHanhChinh": ["Xã U Minh Thượng", "Xã Vĩnh Hòa"]
+        },
+        {
+          "huyen": "Thành phố Rạch Giá",
+          "donViHanhChinh": ["Phường Vĩnh Thông", "Phường Rạch Giá"]
+        },
+        {
+          "huyen": "Thị xã Hà Tiên",
+          "donViHanhChinh": ["Phường Hà Tiên", "Phường Tô Châu"]
+        },
+        {
+          "huyen": "Huyện Kiên Lương",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Hòn Đất",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Tân Hiệp",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện An Biên",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện An Minh",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Rạch Giá",
+          "donViHanhChinh": ["Phường Vĩnh Thông", "Phường Rạch Giá"]
+        },
+        {
+          "huyen": "Thị xã Hà Tiên",
+          "donViHanhChinh": ["Phường Hà Tiên", "Phường Tô Châu"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "55",
+  "tenTinh": "Cần Thơ",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Cờ Đỏ",
+          "donViHanhChinh": ["Xã Thới Xuân"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vĩnh Thạnh",
+          "donViHanhChinh": [
+            "Thị trấn Thạnh An", "Xã Vĩnh Bình", "Xã Thạnh Quới",
+            "Thị trấn Vĩnh Thạnh", "Xã Thạnh An", "Xã Thạnh Tiến",
+            "Xã Thạnh Mỹ", "Xã Vĩnh Trinh", "Xã Thạnh Lộc",
+            "Xã Thạnh Thắng", "Xã Thạnh Lợi"
+          ]
+        },
+        {
+          "huyen": "Huyện Cờ Đỏ",
+          "donViHanhChinh": [
+            "Thị trấn Cờ Đỏ", "Xã Thới Hưng", "Xã Trung An", "Xã Trung Thạnh",
+            "Xã Thới Đông", "Xã Đông Hiệp", "Xã Đông Thắng", "Xã Thạnh Phú",
+            "Xã Trung Hưng"
+          ]
+        },
+        {
+          "huyen": "Huyện Thới Lai",
+          "donViHanhChinh": [
+            "Thị trấn Thới Lai", "Xã Thới Thạnh", "Xã Tân Thạnh", "Xã Định Môn",
+            "Xã Xuân Thắng", "Xã Thới Tân", "Xã Trường Thành", "Xã Trường Xuân",
+            "Xã Trường Xuân A", "Xã Trường Xuân B", "Xã Trường Thắng",
+            "Xã Đông Thuận", "Xã Đông Bình"
+          ]
+        },
+        {
+          "huyen": "Huyện Phong Điền",
+          "donViHanhChinh": [
+            "Xã Tân Thới", "Xã Nhơn Nghĩa", "Xã Nhơn Ái", "Thị trấn Phong Điền",
+            "Xã Giai Xuân", "Xã Mỹ Khánh", "Xã Trường Long"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": [
+        {
+          "huyen": "Quận Ninh Kiều",
+          "donViHanhChinh": [
+            "Phường Cái Khế", "Phường An Hòa", "Phường Thới Bình",
+            "Phường An Nghiệp", "Phường An Cư", "Phường An Hội",
+            "Phường Tân An", "Phường An Lạc", "Phường An Phú",
+            "Phường Xuân Khánh", "Phường Hưng Lợi", "Phường An Bình",
+            "Phường An Khánh"
+          ]
+        },
+        {
+          "huyen": "Quận Bình Thủy",
+          "donViHanhChinh": [
+            "Phường Thới An Đông", "Phường Long Tuyền", "Phường Long Hòa",
+            "Phường Bình Thủy", "Phường An Thới", "Phường Bùi Hữu Nghĩa",
+            "Phường Trà Nóc", "Phường Trà An"
+          ]
+        },
+        {
+          "huyen": "Quận Cái Răng",
+          "donViHanhChinh": [
+            "Phường Ba Láng", "Phường Lê Bình", "Phường Thường Thạnh",
+            "Phường Phú Thứ", "Phường Tân Phú", "Phường Hưng Phú",
+            "Phường Hưng Thạnh"
+          ]
+        },
+        {
+          "huyen": "Quận Ô Môn",
+          "donViHanhChinh": [
+            "Phường Trường Lạc", "Phường Thới Long", "Phường Long Hưng",
+            "Phường Thới An", "Phường Phước Thới", "Phường Châu Văn Liêm",
+            "Phường Thới Hòa"
+          ]
+        },
+        {
+          "huyen": "Quận Thốt Nốt",
+          "donViHanhChinh": [
+            "Phường Thốt Nốt", "Phường Thới Thuận", "Phường Thuận An",
+            "Phường Trung Kiên", "Phường Tân Lộc", "Phường Trung Nhứt",
+            "Phường Thạnh Hòa", "Phường Thuận Hưng", "Phường Tân Hưng"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "maTinh": "57",
+  "tenTinh": "Tỉnh Vĩnh Long",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thị xã Bình Minh",
+          "donViHanhChinh": ["Phường Đông Thuận", "Phường Thuận An", "Phường Đông Bình", "Phường Cái Vồn", "Phường Đông Thành"]
+        },
+        {
+          "huyen": "Huyện Tam Bình",
+          "donViHanhChinh": ["Xã Loan Mỹ"]
+        },
+        {
+          "huyen": "Huyện Trà Ôn",
+          "donViHanhChinh": ["Xã Hựu Thành", "Xã Tân Mỹ", "Xã Trà Côn"]
+        },
+        {
+          "huyen": "Huyện Vũng Liêm",
+          "donViHanhChinh": ["Xã Trung Thành"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vũng Liêm",
+          "donViHanhChinh": ["Xã Trung Thành", "Xã Quới An", "Xã Quới Thiện", "Xã Trung Ngãi", "Xã Trung Hiệp", "Xã Hiếu Phụng", "Xã Hiếu Thành"]
+        },
+        {
+          "huyen": "Huyện Tam Bình",
+          "donViHanhChinh": ["Xã Trà Côn", "Xã Tam Bình", "Xã Hòa Hiệp", "Xã Ngãi Tứ", "Xã Song Phú", "Xã Cái Ngang"]
+        },
+        {
+          "huyen": "Huyện Long Hồ",
+          "donViHanhChinh": ["Xã Long Hồ", "Xã Phú Quới", "Xã An Bình"]
+        },
+        {
+          "huyen": "Huyện Mang Thít",
+          "donViHanhChinh": ["Xã Nhơn Phú", "Xã Bình Phước"]
+        },
+        {
+          "huyen": "Huyện Trà Ôn",
+          "donViHanhChinh": []
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Vĩnh Long",
+          "donViHanhChinh": ["Phường Thanh Đức", "Phường Long Châu", "Phường Phước Hậu", "Phường Tân Hạnh", "Phường Tân Ngãi"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "58",
+  "tenTinh": "Trà Vinh",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Càng Long",
+          "xaPhuong": [
+            "Xã Huyền Hội",
+            "Xã Bình Phú",
+            "Xã Phương Thạnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Trà Cú",
+          "xaPhuong": [
+            "Xã Đại An",
+            "Xã Hàm Giang",
+            "Xã Long Hiệp",
+            "Xã An Quảng Hữu",
+            "Xã Ngọc Biên",
+            "Xã Phước Hưng",
+            "Xã Tân Hiệp",
+            "Xã Thanh Sơn",
+            "Xã Kim Sơn",
+            "Xã Lưu Nghiệp Anh",
+            "Xã Hàm Tân",
+            "Thị trấn Trà Cú",
+            "Thị trấn Định An",
+            "Xã Tân Sơn",
+            "Xã Ngãi Xuyên",
+            "Xã Tập Sơn"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "xaPhuong": [
+            "Xã Hòa Lợi",
+            "Xã Đa Lộc",
+            "Xã Lương Hòa",
+            "Xã Mỹ Chánh",
+            "Xã Song Lộc",
+            "Xã Hòa Minh",
+            "Xã Long Hòa",
+            "Xã Lương Hòa A",
+            "Thị trấn Châu Thành",
+            "Xã Nguyệt Hóa",
+            "Xã Phước Hảo",
+            "Xã Thanh Mỹ"
+          ]
+        },
+        {
+          "huyen": "Huyện Cầu Kè",
+          "xaPhuong": [
+            "Xã Phong Phú",
+            "Xã Hòa Tân",
+            "Thị trấn Cầu Kè",
+            "Xã Tam Ngãi",
+            "Xã Thông Hòa",
+            "Xã Châu Điền",
+            "Xã Hòa Ân",
+            "Xã Phong Thạnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Cầu Ngang",
+          "xaPhuong": [
+            "Xã Nhị Trường",
+            "Xã Thuận Hòa",
+            "Xã Kim Hòa",
+            "Xã Long Sơn",
+            "Xã Thạnh Hòa Sơn",
+            "Xã Trường Thọ",
+            "Thị trấn Cầu Ngang",
+            "Xã Hiệp Hòa",
+            "Xã Mỹ Hòa"
+          ]
+        },
+        {
+          "huyen": "Huyện Tiểu Cần",
+          "xaPhuong": [
+            "Xã Hùng Hòa",
+            "Xã Long Thới",
+            "Xã Ngãi Hùng",
+            "Xã Tân Hòa",
+            "Xã Tân Hùng",
+            "Xã Hiếu Tử",
+            "Thị trấn Tiểu Cần",
+            "Xã Hiếu Trung",
+            "Xã Phú Cần",
+            "Xã Tập Ngãi"
+          ]
+        },
+        {
+          "huyen": "Huyện Duyên Hải",
+          "xaPhuong": [
+            "Xã Ngũ Lạc",
+            "Xã Long Vĩnh",
+            "Xã Long Khánh",
+            "Thị trấn Long Thành",
+            "Xã Đông Hải",
+            "Xã Đôn Xuân",
+            "Xã Đôn Châu"
+          ]
+        },
+        {
+          "huyen": "Thành phố Trà Vinh",
+          "xaPhuong": [
+            "Phường 1",
+            "Phường 3",
+            "Phường 5",
+            "Phường 6",
+            "Phường 7",
+            "Phường 8",
+            "Phường 9",
+            "Xã Long Đức"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Càng Long",
+          "xaPhuong": [
+            "Xã Mỹ Cẩm",
+            "Xã An Trường A",
+            "Xã An Trường",
+            "Xã Tân An",
+            "Xã Tân Bình",
+            "Xã Đại Phúc",
+            "Xã Nhị Long Phú",
+            "Xã Nhị Long",
+            "Xã Đức Mỹ",
+            "Xã Đại Phước",
+            "Thị trấn Càng Long"
+          ]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "xaPhuong": [
+            "Xã Hưng Mỹ"
+          ]
+        },
+        {
+          "huyen": "Huyện Cầu Kè",
+          "xaPhuong": [
+            "Xã An Phú Tân",
+            "Xã Thạnh Phú"
+          ]
+        },
+        {
+          "huyen": "Huyện Cầu Ngang",
+          "xaPhuong": [
+            "Xã Hiệp Mỹ Tây",
+            "Xã Hiệp Mỹ Đông",
+            "Xã Mỹ Long Bắc",
+            "Xã Mỹ Long Nam",
+            "Xã Vinh Kim",
+            "Thị trấn Mỹ Long"
+          ]
+        },
+        {
+          "huyen": "Huyện Tiểu Cần",
+          "xaPhuong": [
+            "Thị trấn Cầu Quan",
+            "Xã Định An",
+            "Xã Hòa Thuận",
+            "Xã Ninh Thới"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Trà Vinh",
+          "xaPhuong": [
+            "Phường 2",
+            "Phường 4"
+          ]
+        },
+        {
+          "huyen": "Thị xã Duyên Hải",
+          "xaPhuong": [
+            "Xã Long Hữu",
+            "Phường 1",
+            "Phường 2",
+            "Xã Long Toàn",
+            "Xã Dân Thành",
+            "Xã Trường Long Hòa",
+            "Xã Hiệp Thạnh"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0.0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "59",
+  "tenTinh": "Tỉnh Sóc Trăng",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Sóc Trăng",
+          "donViHanhChinh": ["Phường Phú Lợi", "Phường Sóc Trăng"]
+        },
+        {
+          "huyen": "Huyện Mỹ Xuyên",
+          "donViHanhChinh": ["Phường Mỹ Xuyên", "Xã Hòa Tú", "Xã Gia Hòa", "Xã Nhu Gia"]
+        },
+        {
+          "huyen": "Thị xã Vĩnh Châu",
+          "donViHanhChinh": ["Phường Vĩnh Phước", "Phường Vĩnh Châu", "Phường Khánh Hòa"]
+        },
+        {
+          "huyen": "Thị xã Ngã Năm",
+          "donViHanhChinh": ["Phường Ngã Năm", "Phường Mỹ Quới", "Xã Tân Long"]
+        },
+        {
+          "huyen": "Huyện Kế Sách",
+          "donViHanhChinh": ["Xã Nhơn Mỹ", "Xã Phong Nẫm", "Xã An Lạc Tây", "Xã Xuân Hòa", "Xã Trinh Phú", "Xã Ba Trinh", "Xã An Mỹ", "Xã Song Phụng", "Xã Kế Sách", "Xã Kế Thành", "Xã Kế An", "Xã Đại Hải", "Xã Thới An Hội"]
+        },
+        {
+          "huyen": "Huyện Châu Thành",
+          "donViHanhChinh": ["Xã Phú Tâm", "Xã An Ninh", "Xã Thuận Hòa", "Xã Hồ Đắc Kiện"]
+        },
+        {
+          "huyen": "Huyện Long Phú",
+          "donViHanhChinh": ["Xã Đại Ngãi", "Xã Trường Khánh", "Xã Phú Hữu", "Xã Long Phú", "Xã Tân Thạnh"]
+        },
+        {
+          "huyen": "Huyện Mỹ Tú",
+          "donViHanhChinh": ["Xã Mỹ Tú", "Xã Mỹ Hương", "Xã Long Hưng", "Xã Hưng Phú"]
+        },
+        {
+          "huyen": "Huyện Cù Lao Dung",
+          "donViHanhChinh": ["Xã Cù Lao Dung", "Xã An Thạnh", "Xã Đại Ân 1"]
+        },
+        {
+          "huyen": "Huyện Trần Đề",
+          "donViHanhChinh": ["Thị trấn Trần Đề", "Xã Liêu Tú", "Xã Tài Văn", "Xã Lịch Hội Thượng", "Xã Viên An", "Xã Thạnh Thới An", "Xã Thạnh Thới Thuận"]
+        },
+        {
+          "huyen": "Huyện Thạnh Trị",
+          "donViHanhChinh": ["Thị trấn Phú Lộc", "Xã Lâm Tân", "Xã Thạnh Tân", "Xã Châu Hưng", "Xã Thạnh Trị", "Xã Vĩnh Lợi"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Kế Sách",
+          "donViHanhChinh": ["Thị trấn An Lạc Thôn"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "60",
+  "tenTinh": "Tỉnh Bạc Liêu",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vĩnh Lợi",
+          "donViHanhChinh": [
+            "Xã Châu Hưng A",
+            "Xã Vĩnh Hưng",
+            "Xã Vĩnh Hưng A",
+            "Xã Hưng Hội",
+            "Xã Long Thạnh"
+          ]
+        },
+        {
+          "huyen": "Huyện Hòa Bình",
+          "donViHanhChinh": [
+            "Xã Vĩnh Hậu",
+            "Xã Minh Diệu",
+            "Xã Vĩnh Thịnh",
+            "Thị trấn Hòa Bình",
+            "Xã Vĩnh Mỹ A"
+          ]
+        },
+        {
+          "huyen": "Huyện Hồng Dân",
+          "donViHanhChinh": [
+            "Xã Ninh Quới",
+            "Xã Ninh Thạnh Lợi",
+            "Xã Vĩnh Lộc",
+            "Xã Vĩnh Lộc A",
+            "Xã Ninh Hòa",
+            "Xã Lộc Ninh"
+          ]
+        },
+        {
+          "huyen": "Huyện Đông Hải",
+          "donViHanhChinh": [
+            "Xã Long Điền",
+            "Xã Long Điền Đông",
+            "Xã Long Điền Đông A",
+            "Xã Long Điền Tây",
+            "Xã Điền Hải",
+            "Xã An Trạch A",
+            "Xã An Trạch",
+            "Xã An Phúc"
+          ]
+        },
+        {
+          "huyen": "Thị xã Giá Rai",
+          "donViHanhChinh": [
+            "Xã Phong Thạnh Đông",
+            "Phường Hộ Phòng",
+            "Xã Tân Thạnh",
+            "Xã Phong Thạnh A"
+          ]
+        },
+        {
+          "huyen": "Huyện Phước Long",
+          "donViHanhChinh": [
+            "Xã Vĩnh Phú Đông",
+            "Xã Vĩnh Phú Tây"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Hồng Dân",
+          "donViHanhChinh": [
+            "Xã Ninh Quới A",
+            "Xã Ninh Thạnh Lợi A",
+            "Thị trấn Ngan Dừa"
+          ]
+        },
+        {
+          "huyen": "Huyện Vĩnh Lợi",
+          "donViHanhChinh": [
+            "Thị trấn Châu Hưng",
+            "Xã Châu Thới",
+            "Xã Hưng Thành"
+          ]
+        },
+        {
+          "huyen": "Huyện Hòa Bình",
+          "donViHanhChinh": [
+            "Xã Vĩnh Bình",
+            "Xã Vĩnh Mỹ B",
+            "Xã Vĩnh Hậu A"
+          ]
+        },
+        {
+          "huyen": "Huyện Đông Hải",
+          "donViHanhChinh": [
+            "Xã Định Thành",
+            "Xã Định Thành A",
+            "Thị trấn Gành Hào"
+          ]
+        },
+        {
+          "huyen": "Huyện Phước Long",
+          "donViHanhChinh": [
+            "Xã Vĩnh Thanh",
+            "Xã Hưng Phú",
+            "Xã Phước Long",
+            "Xã Phong Thạnh Tây A",
+            "Xã Phong Thạnh Tây B",
+            "Thị trấn Phước Long"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Bạc Liêu",
+          "donViHanhChinh": [
+            "Xã Vĩnh Trạch Đông",
+            "Xã Vĩnh Trạch",
+            "Xã Hiệp Thành",
+            "Phường 1",
+            "Phường 2",
+            "Phường 3",
+            "Phường 5",
+            "Phường 7",
+            "Phường 8",
+            "Phường Nhà Mát"
+          ]
+        },
+        {
+          "huyen": "Thị xã Giá Rai",
+          "donViHanhChinh": [
+            "Phường Bạc Liêu",
+            "Phường Vĩnh Trạch",
+            "Phường Hiệp Thành"
+          ]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "61",
+  "tenTinh": "Tỉnh Cà Mau",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Cà Mau",
+          "donViHanhChinh": [
+            "Phường An Xuyên",
+            "Phường Lý Văn Lâm",
+            "Phường Tân Thành",
+            "Phường Hòa Thành"
+          ]
+        },
+        {
+          "huyen": "Huyện U Minh",
+          "donViHanhChinh": []
+        },
+        {
+          "huyen": "Huyện Thới Bình",
+          "donViHanhChinh": [
+            "Thị trấn Thới Bình",
+            "Xã Tân Phú",
+            "Xã Biển Bạch",
+            "Xã Biển Bạch Đông",
+            "Xã Hồ Thị Kỷ",
+            "Xã Tân Duyệt",
+            "Xã Ngọc Chánh",
+            "Xã Nguyễn Huân",
+            "Xã Quách Phẩm",
+            "Xã Quách Phẩm Bắc",
+            "Xã Trần Phán",
+            "Xã Thanh Tùng"
+          ]
+        },
+        {
+          "huyen": "Huyện Trần Văn Thời",
+          "donViHanhChinh": [
+            "Thị trấn Trần Văn Thời",
+            "Xã Phong Điền",
+            "Xã Phong Lạc",
+            "Xã Lợi An",
+            "Xã Khánh Lộc",
+            "Xã Trần Hợi"
+          ]
+        },
+        {
+          "huyen": "Huyện Cái Nước",
+          "donViHanhChinh": [
+            "Thị trấn Cái Nước"
+          ]
+        },
+        {
+          "huyen": "Huyện Đầm Dơi",
+          "donViHanhChinh": [
+            "Thị trấn Đầm Dơi"
+          ]
+        },
+        {
+          "huyen": "Huyện Ngọc Hiển",
+          "donViHanhChinh": [
+            "Thị trấn Rạch Gốc"
+          ]
+        },
+        {
+          "huyen": "Huyện Phú Tân",
+          "donViHanhChinh": [
+            "Xã Phú Mỹ",
+            "Xã Phú Thuận",
+            "Xã Phú Tân",
+            "Thị trấn Phú Tân"
+          ]
+        },
+        {
+          "huyen": "Huyện Năm Căn",
+          "donViHanhChinh": ["Thị trấn Năm Căn"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Thới Bình",
+          "donViHanhChinh": ["Xã Tân Lộc Đông", "Xã Trí Lực", "Xã Trí Phải"]
+        },
+        {
+          "huyen": "Huyện Trần Văn Thời",
+          "donViHanhChinh": ["Xã Khánh Bình", "Xã Khánh Lộc", "Xã Phong Điền"]
+        },
+        {
+          "huyen": "Huyện Cái Nước",
+          "donViHanhChinh": ["Xã Đông Hưng", "Xã Hòa Mỹ", "Xã Lương Thế Trân", "Xã Phú Hưng", "Xã Thạnh Phú", "Xã Trần Thới"]
+        },
+        {
+          "huyen": "Huyện Đầm Dơi",
+          "donViHanhChinh": ["Xã Tạ An Khương Nam", "Xã Tân Đức", "Xã Tân Dân", "Xã Tân Trung"]
+        },
+        {
+          "huyen": "Huyện Ngọc Hiển",
+          "donViHanhChinh": ["Thị trấn Rạch Gốc"]
+        },
+        {
+          "huyen": "Huyện Năm Căn",
+          "donViHanhChinh": ["Xã Đất Mới", "Xã Hàm Rồng", "Xã Hàng Vịnh", "Xã Hiệp Tùng", "Xã Tam Giang Đông", "Xã Tân Ân Tây"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Cà Mau",
+          "donViHanhChinh": ["Phường 1", "Phường Tân Xuyên"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0.0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": 62,
+  "tenTinh": "Điện Biên",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Điện Biên Phủ",
+          "donViHanhChinh": ["Phường Điện Biên Phủ"]
+        },
+        {
+          "huyen": "Thị xã Mường Lay",
+          "donViHanhChinh": ["Phường Mường Lay"]
+        },
+        {
+          "huyen": "Huyện Mường Nhé",
+          "donViHanhChinh": ["Xã Mường Nhé", "Xã Sín Thầu", "Xã Mường Toong", "Xã Nậm Kè", "Xã Quảng Lâm", "Xã Nà Hỳ"]
+        },
+        {
+          "huyen": "Huyện Mường Chà",
+          "donViHanhChinh": ["Xã Mường Chà", "Xã Na Sang", "Xã Nà Bủng"]
+        },
+        {
+          "huyen": "Huyện Nậm Pồ",
+          "donViHanhChinh": ["Xã Chà Tở", "Xã Si Pa Phìn"]
+        },
+        {
+          "huyen": "Huyện Mường Tè",
+          "donViHanhChinh": ["Xã Mường Tùng"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": 63,
+  "tenTinh": "Đắk Nông",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Gia Nghĩa",
+          "donViHanhChinh": ["Phường Nghĩa Đức", "Phường Nghĩa Phú", "Phường Nghĩa Thành", "Phường Nghĩa Trung", "Xã Đắk Nia", "Xã Quảng Thành"]
+        },
+        {
+          "huyen": "Huyện Cư Jút",
+          "donViHanhChinh": ["Thị trấn Ea T’ling", "Xã Cư Knia", "Xã Đắk D’rông", "Xã Đắk Wil", "Xã Ea Pô", "Xã Nam Dong", "Xã Trúc Sơn", "Xã Tâm Thắng"]
+        },
+        {
+          "huyen": "Huyện Đắk Glong",
+          "donViHanhChinh": ["Xã Đắk Ha", "Xã Đắk P’lao", "Xã Đắk R’măng", "Xã Đắk Som", "Xã Quảng Hòa", "Xã Quảng Khê"]
+        },
+        {
+          "huyen": "Huyện Đắk Mil",
+          "donViHanhChinh": ["Thị trấn Đắk Mil", "Xã Đắk Gằn", "Xã Đắk Lao", "Xã Đắk N’Drót", "Xã Đắk R’La", "Xã Đắk Sắk", "Xã Đức Mạnh", "Xã Đức Minh", "Xã Long Sơn", "Xã Thuận An"]
+        },
+        {
+          "huyen": "Huyện Đắk R’lấp",
+          "donViHanhChinh": ["Thị trấn Kiến Đức", "Xã Đắk Ru", "Xã Đắk Sin", "Xã Đắk Wer", "Xã Hưng Bình", "Xã Kiến Thành", "Xã Nhân Cơ", "Xã Nhân Đạo", "Xã Quảng Tín"]
+        },
+        {
+          "huyen": "Huyện Krông Nô",
+          "donViHanhChinh": ["Thị trấn Đắk Mâm", "Xã Buôn Choah", "Xã Đắk Drô", "Xã Đắk Nang", "Xã Đắk Sôr", "Xã Đắk Wil", "Xã Nam Đà", "Xã Nâm Nung", "Xã Nâm N’Đir", "Xã Tân Thành"]
+        },
+        {
+          "huyen": "Huyện Tuy Đức",
+          "donViHanhChinh": ["Xã Đắk Búk So", "Xã Đắk Ngo", "Xã Đắk R’tíh", "Xã Quảng Tâm", "Xã Quảng Tân", "Xã Quảng Trực"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": []
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+},
+{
+  "maTinh": "64",
+  "tenTinh": "Tỉnh Hậu Giang",
+  "khuVuc": [
+    {
+      "loaiKhuVuc": "KV1",
+      "diemCongKV": 0.75,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Vị Thanh",
+          "donViHanhChinh": ["Phường I", "Phường III", "Phường IV", "Phường VII", "Xã Vị Tân", "Xã Hỏa Lựu", "Xã Hỏa Tiến"]
+        },
+        {
+          "huyen": "Huyện Vị Thủy",
+          "donViHanhChinh": ["Xã Vị Thủy", "Xã Vị Trung", "Xã Vĩnh Trung", "Xã Vị Bình"]
+        },
+        {
+          "huyen": "Huyện Long Mỹ",
+          "donViHanhChinh": ["Xã Vĩnh Viễn", "Xã Vĩnh Viễn A", "Xã Xà Phiên", "Xã Lương Nghĩa", "Xã Lương Tâm", "Xã Vĩnh Thuận Đông"]
+        },
+        {
+          "huyen": "Huyện Châu Thành A",
+          "donViHanhChinh": ["Thị trấn Cái Tắc", "Xã Tân Phú Thạnh", "Thị trấn Bảy Ngàn", "Xã Trường Long A"]
+        },
+        {
+          "huyen": "Huyện Phụng Hiệp",
+          "donViHanhChinh": ["Xã Hiệp Hưng", "Thị trấn Búng Tàu", "Xã Tân Phước Hưng", "Xã Thạnh Hòa", "Xã Phụng Hiệp", "Xã Long Thạnh", "Xã Tân Bình", "Xã Hòa An", "Xã Hòa Mỹ"]
+        },
+        {
+          "huyen": "Thị xã Ngã Bảy",
+          "donViHanhChinh": ["Phường Ngã Bảy", "Phường Lái Hiếu"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2-NT",
+      "diemCongKV": 0.5,
+      "chiTietKV": [
+        {
+          "huyen": "Huyện Vị Thủy",
+          "donViHanhChinh": ["Thị trấn Nàng Mau", "Xã Vị Thắng", "Xã Vĩnh Thuận Tây", "Xã Vĩnh Tường", "Xã Vị Thanh", "Xã Vị Đông"]
+        },
+        {
+          "huyen": "Huyện Phụng Hiệp",
+          "donViHanhChinh": ["Thị trấn Cây Dương", "Xã Phương Bình", "Xã Tân Long", "Xã Bình Thành", "Thị trấn Kinh Cùng", "Xã Phương Phú"]
+        },
+        {
+          "huyen": "Huyện Châu Thành A",
+          "donViHanhChinh": ["Thị trấn Một Ngàn", "Xã Nhơn Nghĩa A", "Thị trấn Rạch Gòi", "Xã Thạnh Xuân", "Xã Tân Hòa", "Xã Trường Long Tây"]
+        },
+        {
+          "huyen": "Huyện Long Mỹ",
+          "donViHanhChinh": ["Xã Thuận Hưng", "Xã Thuận Hòa"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV2",
+      "diemCongKV": 0.25,
+      "chiTietKV": [
+        {
+          "huyen": "Thành phố Vị Thanh",
+          "donViHanhChinh": ["Phường V", "Xã Tân Tiến"]
+        },
+        {
+          "huyen": "Thị xã Long Mỹ",
+          "donViHanhChinh": ["Thị xã Long Mỹ"]
+        },
+        {
+          "huyen": "Thị xã Ngã Bảy",
+          "donViHanhChinh": ["Xã Hiệp Lợi", "Phường Hiệp Thành", "Xã Đại Thành", "Xã Tân Thành"]
+        }
+      ]
+    },
+    {
+      "loaiKhuVuc": "KV3",
+      "diemCongKV": 0,
+      "chiTietKV": []
+    }
+  ]
+}
+
+
+
+]

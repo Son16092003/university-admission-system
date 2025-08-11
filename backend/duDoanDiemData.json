@@ -1,0 +1,437 @@
+[
+  {
+    "maNganh": "106",
+    "tenNganh": "Khoa học máy tính",
+    "diemChuan": 88.16,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "107",
+    "tenNganh": "Kỹ thuật máy tính",
+    "diemChuan": 86.87,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "108",
+    "tenNganh": "Điện - Điện tử - Viễn thông - Tự động hoá - Thiết kế Vi mạch",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "109",
+    "tenNganh": "Kỹ thuật cơ khí",
+    "diemChuan": 77.89,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "110",
+    "tenNganh": "Kỹ thuật cơ điện tử",
+    "diemChuan": 85.33,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "112",
+    "tenNganh": "Dệt - May",
+    "diemChuan": 59.51,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "114",
+    "tenNganh": "Hoá - Thực phẩm - Sinh học",
+    "diemChuan": 81.36,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "115",
+    "tenNganh": "Xây dựng và Quản lý Dự án Xây dựng",
+    "diemChuan": 66.01,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "117",
+    "tenNganh": "Kiến trúc",
+    "diemChuan": 74.85,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "120",
+    "tenNganh": "Dầu khí - Địa chất",
+    "diemChuan": 70.11,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "123",
+    "tenNganh": "Quản lý công nghiệp",
+    "diemChuan": 81.28,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "125",
+    "tenNganh": "Tài nguyên và Môi trường",
+    "diemChuan": 65.98,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "128",
+    "tenNganh": "Logistics và Hệ thống Công nghiệp",
+    "diemChuan": 84.1,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "129",
+    "tenNganh": "Kỹ thuật vật liệu",
+    "diemChuan": 72.5,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "137",
+    "tenNganh": "Vật lý kỹ thuật",
+    "diemChuan": 77.86,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "138",
+    "tenNganh": "Cơ kỹ thuật",
+    "diemChuan": 78.7,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "140",
+    "tenNganh": "Kỹ thuật nhiệt",
+    "diemChuan": 76.01,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "141",
+    "tenNganh": "Bảo dưỡng công nghiệp",
+    "diemChuan": 69.44,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "142",
+    "tenNganh": "Kỹ thuật ô tô",
+    "diemChuan": 82.22,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "145",
+    "tenNganh": "Tàu thuỷ - Hàng không",
+    "diemChuan": 79.38,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "146",
+    "tenNganh": "Khoa học dữ liệu",
+    "diemChuan": 86.14,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "147",
+    "tenNganh": "Địa kỹ thuật xây dựng",
+    "diemChuan": 59.38,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "148",
+    "tenNganh": "Kinh tế xây dựng",
+    "diemChuan": 62.59,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "153",
+    "tenNganh": "Quản trị kinh doanh",
+    "diemChuan": null,
+    "maChuongTrinh": "A",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊU CHUẨN"
+  },
+  {
+    "maNganh": "208",
+    "tenNganh": "Kỹ thuật điện - Điện tử",
+    "diemChuan": 80.71,
+    "maChuongTrinh": "B",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH TIÊN TIẾN"
+  },
+  {
+    "maNganh": "206",
+    "tenNganh": "Khoa học Máy tính",
+    "diemChuan": 87.63,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "207",
+    "tenNganh": "Kỹ thuật Máy tính",
+    "diemChuan": 84.41,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "209",
+    "tenNganh": "Kỹ thuật Cơ khí",
+    "diemChuan": 69.77,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "210",
+    "tenNganh": "Kỹ Thuật Cơ Điện Tử",
+    "diemChuan": 82.00,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "211",
+    "tenNganh": "Kỹ Thuật Robot",
+    "diemChuan": 77.10,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "214",
+    "tenNganh": "Kỹ thuật Hóa học",
+    "diemChuan": 68.68,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "215",
+    "tenNganh": "Quản lý Dự án Xây dựng và Kỹ thuật Xây dựng",
+    "diemChuan": 62.59,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "217",
+    "tenNganh": "Kiến Trúc Cảnh quan",
+    "diemChuan": 65.08,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "218",
+    "tenNganh": "Công nghệ sinh học",
+    "diemChuan": 74.91,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "219",
+    "tenNganh": "Công nghệ Thực phẩm",
+    "diemChuan": 64.11,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "220",
+    "tenNganh": "Kỹ thuật Dầu khí",
+    "diemChuan": 61.88,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "223",
+    "tenNganh": "Quản lý Công nghiệp",
+    "diemChuan": 69.03,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "225",
+    "tenNganh": "Tài nguyên và Môi trường",
+    "diemChuan": 65.59,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "228",
+    "tenNganh": "Logistics và Hệ thống Công nghiệp",
+    "diemChuan": 78.47,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "229",
+    "tenNganh": "Kỹ thuật Vật liệu",
+    "diemChuan": 61.96,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "237",
+    "tenNganh": "Kỹ thuật Y sinh",
+    "diemChuan": 61.23,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "242",
+    "tenNganh": "Kỹ thuật Ô tô",
+    "diemChuan": 69.87,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "245",
+    "tenNganh": "Kỹ thuật Hàng không",
+    "diemChuan": 77.50,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "253",
+    "tenNganh": "Kinh doanh số",
+    "diemChuan": null,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "254",
+    "tenNganh": "Công nghệ Sinh học số",
+    "diemChuan": null,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "255",
+    "tenNganh": "Kinh tế Tuần hoàn",
+    "diemChuan": null,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "257",
+    "tenNganh": "Năng lượng Tái tạo",
+    "diemChuan": null,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "258",
+    "tenNganh": "Thiết kế Vi mạch",
+    "diemChuan": null,
+    "maChuongTrinh": "C",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH DẠY VÀ HỌC BẰNG TIẾNG ANH"
+  },
+  {
+    "maNganh": "266",
+    "tenNganh": "Khoa học Máy tính",
+    "diemChuan": 83.63,
+    "maChuongTrinh": "G",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH ĐỊNH HƯỚNG NHẬT BẢN"
+  },
+  {
+    "maNganh": "268",
+    "tenNganh": "Cơ Kỹ thuật",
+    "diemChuan": 72.75,
+    "maChuongTrinh": "G",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH ĐỊNH HƯỚNG NHẬT BẢN"
+  },
+  {
+    "maNganh": "306",
+    "tenNganh": "Khoa học Máy tính",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "307",
+    "tenNganh": "Kỹ thuật Máy tính",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "308",
+    "tenNganh": "Kỹ thuật Điện - Điện tử",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "309",
+    "tenNganh": "Kỹ thuật Cơ khí",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "310",
+    "tenNganh": "Kỹ thuật Cơ Điện tử",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "314",
+    "tenNganh": "Kỹ thuật Hóa học",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "315",
+    "tenNganh": "Kỹ thuật Xây dựng",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "319",
+    "tenNganh": "Công nghệ Thực phẩm",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "323",
+    "tenNganh": "Quản lý Công nghiệp",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "325",
+    "tenNganh": "Kỹ thuật Môi trường; Quản lý Tài nguyên & Môi trường",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "342",
+    "tenNganh": "Kỹ thuật Ô tô",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  },
+  {
+    "maNganh": "345",
+    "tenNganh": "Kỹ thuật Hàng không",
+    "diemChuan": 84.03,
+    "maChuongTrinh": "D",
+    "tenChuongTrinh": "CHƯƠNG TRÌNH CHUYÊN TIẾP QUỐC TẾ (ÚC/ MỸ/ NEW ZEALAND/ NHẬT BẢN)"
+  }
+]
+
