@@ -1,83 +1,78 @@
 import React from "react";
-import { View, Button, StyleSheet } from "react-native";
+import {
+  View,
+  Button,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  TextInput,
+} from "react-native";
+import { Picker } from "react-native-web";
 import InputField from "./InputField";
+import CCTAInput from "./DiemCCTAComponent";
 
 const PhuongThuc1Component = ({
   form,
   setForm,
+  dsCCTA,
+  dsCCQT,
   onTinhDiem,
 }) => {
-
-  const handleChange = (key, value) => {
-    setForm({ ...form, [key]: value });
+  const handleChange = (parentKey, childKey, value) => {
+    setForm((prev) => ({
+      ...prev,
+      [parentKey]: {
+        ...prev[parentKey],
+        [childKey]: value,
+      },
+    }));
   };
+
   return (
     <View style={styles.container}>
       <Text style={styles.sectionText}>Điểm học lực</Text>
 
-      {form.toHopXetTuyen && form.toHopXetTuyen.includes("Tiếng Anh") && (
+      {
+        form.toHopXetTuyen && form.toHopXetTuyen.includes("Tiếng Anh") &&
         <>
-          <Text style={styles.sectionTitle}>Chứng chỉ tiếng Anh</Text>
-          <View style={styles.radioGroup}>
-            <TouchableOpacity
-              style={styles.radioOption}
-              onPress={() => handleChange("ccta", "co")}
-            >
-              <View style={styles.radioCircle}>
-                {form.ccta === "co" && <View style={styles.selectedDot} />}
-              </View>
-              <Text style={styles.radioLabel}>Có CCTA</Text>
-            </TouchableOpacity>
-
-            <TouchableOpacity
-              style={styles.radioOption}
-              onPress={() => handleChange("ccta", "khong")}
-            >
-              <View style={styles.radioCircle}>
-                {form.ccta === "khong" && <View style={styles.selectedDot} />}
-              </View>
-              <Text style={styles.radioLabel}>Không có CCTA</Text>
-            </TouchableOpacity>
-          </View>
-
-          {form.toHopXetTuyen.includes("Tiếng Anh") && form.ccta === "co" && (
-            <View style={styles.ccqtRow}>
-              <View style={[styles.pickerContainer, styles.ccqtPicker]}>
-                <Picker
-                  selectedValue={form.loaiCCTA}
-                  onValueChange={(value) => handleChange("loaiCCTA", value)}
-                >
-                  {dsCCTA &&
-                    dsCCTA.map((item, index) => (
-                      <Picker.Item key={index} label={item} value={item} />
-                    ))}
-                </Picker>
-              </View>
-              <TextInput
-                style={[styles.input, styles.ccqtInput]}
-                keyboardType="numeric"
-                placeholder="Điểm CCTA tương ứng"
-                value={form.diemCCTA}
-                onChangeText={(value) => handleChange("diemCCTA", value)}
-              />
-            </View>
-          )}
+          <CCTAInput form={form} handleChange={handleChange} dsCCTA={dsCCTA} />
         </>
-      )}
+      }
+      <Text style={styles.sectionTitle}>Điểm năng lực</Text>
+      <InputField
+        label="Điểm ĐGNL"
+        value={form.diemDGNL.tong}
+        onChangeText={(value) => handleChange("diemDGNL", "tong", value)}
+      />
 
-      {/* <InputField label="Điểm Toán" value={toan} onChangeText={setToan} />
-      <InputField label="Điểm Lý" value={ly} onChangeText={setLy} />
-      <InputField label="Điểm Hóa" value={hoa} onChangeText={setHoa} />
-      <InputField label="Điểm Văn" value={van} onChangeText={setVan} />
-      <InputField label="Điểm Anh" value={anh} onChangeText={setAnh} /> */}
-
+      <InputField
+        label="Điểm Toán của bài ĐGNL"
+        value={form.diemDGNL.toan}
+        onChangeText={(value) => handleChange("diemDGNL", "toan", value)}
+      />
       <Button title="Tính điểm" onPress={onTinhDiem} />
     </View>
   );
 };
 
 const styles = StyleSheet.create({
-  container: { marginVertical: 10 },
+  container: {
+    flex: 1,
+    paddingHorizontal: 30,
+  },
+  sectionText: {
+    fontSize: 16,
+    fontWeight: "700",
+    color: "#011F82",
+    // marginTop: 20,
+    marginBottom: 12,
+  },
+  sectionTitle: {
+    fontSize: 14,
+    fontWeight: "700",
+    color: "#34495E",
+    marginBottom: 10,
+  },
 });
 
 export default PhuongThuc1Component;

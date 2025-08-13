@@ -3,25 +3,27 @@ import { useState } from "react";
 import { View, Text, StyleSheet } from "react-native";
 import { Picker } from "@react-native-picker/picker";
 
-const SelectorComponent = ({
-  dsNganh,
-  form,
-  setForm,
-}) => {
+const SelectorComponent = ({ dsNganh, form, setForm }) => {
   const [toHopTheoNganh, setToHopTheoNganh] = useState();
 
   const handleChange = (key, value) => {
-    setForm({ ...form, [key]: value });
-
     if (key === "nganhXetTuyen") {
       setToHopTheoNganh(
         dsNganh.find((item) => item.name === value).combinations
       );
-      setForm({...form, "toHopXetTuyen": []});
+      console.log(value);
+      console.log(typeof value);
+      setForm({
+        ...form,
+        [key]: value,
+        toHopXetTuyen: [],
+      });
     } else if (key === "toHopXetTuyen") {
       let temp = value.split(", ");
       console.log(temp);
-      setForm({...form, "toHopXetTuyen": temp});
+      setForm({ ...form, toHopXetTuyen: temp });
+    } else {
+      setForm({ ...form, [key]: value });
     }
   };
 
@@ -134,7 +136,7 @@ const SelectorComponent = ({
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    // flex: 1,
     paddingHorizontal: 30,
   },
   inputGroup: {

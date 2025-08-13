@@ -6,8 +6,10 @@ import PhuongThuc1Component from "./components/PhuongThuc1Component";
 import KetQuaComponent from "./components/KetQuaComponent";
 
 import dsNganh from "./backend/nganh.json";
-// import bangQuyDoiCCTA from "./backend/CCTA.json";
-// import bangQuyDoiCCQT from "./backend/quydoi(3,4,5).json";
+
+// 2 bảng này xài tạm thôi nha, sau này sẽ yêu cầu backend lấy từ database lên cho mình
+import bangQuyDoiCCTA from "./backend/CCTA.json";
+import bangQuyDoiCCQT from "./backend/quydoi(3,4,5).json";
 
 export default function App() {
   const [form, setForm] = useState({
@@ -21,8 +23,8 @@ export default function App() {
   },
   
   CCTA: {
-    chungChi: "",
-    loai: "",
+    chungChi: "", //chứa giá trị có hoặc không, thể hiện là người dùng có CCTA hay không
+    loai: "", // Loại có thể là IELTS, TOEFL,...
     diem: ""
   },
   
@@ -75,26 +77,23 @@ export default function App() {
     // mà cần đưa lên UI thì thêm trường dữ liệu cho tụi nó ở đây nha
   });
 
-  const dsKhuVuc = ["KV1", "KV2-NT", "KV2", "KV3"];
-  const dsDoiTuong = ["Ưu tiên 1", "Ưu tiên 2", "Không ưu tiên"];
+  const dsCCTA = Object.keys(bangQuyDoiCCTA[0]).filter(
+    (key) => key !== "id" && key !== "quy_doi_100"
+  );
 
-  // const dsCCTA = Object.keys(bangQuyDoiCCTA[0]).filter(
-  //   (key) => key !== "id" && key !== "quy_doi_100"
-  // );
-
-  // const dsCCQT = Object.keys(bangQuyDoiCCQT[0]).filter(
-  //   (key) => key !== "quy_doi_100"
-  // );
+  const dsCCQT = Object.keys(bangQuyDoiCCQT[0]).filter(
+    (key) => key !== "quy_doi_100"
+  );
 
   const tinhDiem = () => {
     // Tính toán fake, sau này call API backend
-    const result = (
-      parseFloat(toan) +
-      parseFloat(ly) +
-      parseFloat(hoa)
-    ).toFixed(2);
-    setKetQua(result);
+    // Cơ mà chắc sẽ có nhiều API tương ứng cho từng phương thức
+    // Nên mỗi phương thức sẽ tự gọi API thay vì gọi ở App.js và truyền sang component như hiện tại
+    console.log("Hehe");
   };
+
+  const dsKhuVuc = ["KV1", "KV2-NT", "KV2", "KV3"];
+  const dsDoiTuong = ["Ưu tiên 1", "Ưu tiên 2", "Không ưu tiên"];
 
   return (
     <SafeAreaView style={styles.container}>
@@ -106,13 +105,18 @@ export default function App() {
           setForm={setForm}
         />
 
-        {/* {form.doiTuong === "1" && (
+        { 
+          form.toHopXetTuyen.length > 0 &&
+          form.doiTuong === "1" && 
+          (
           <PhuongThuc1Component
             form={form}
             setForm={setForm}
+            dsCCTA={dsCCTA}
+            dsCCQT={dsCCQT}
             onTinhDiem={tinhDiem}
           />
-        )} */}
+        )}
 
         {/* <KetQuaComponent ketQua={ketQua} /> */}
       </ScrollView>
@@ -885,122 +889,122 @@ const styles = StyleSheet.create({
     color: "#011F82",
     textAlign: "center",
   },
-  inputGroup: {
-    marginBottom: 18,
-  },
-  label: {
-    fontSize: 14,
-    fontWeight: "600",
-    marginBottom: 8,
-    color: "#2C3E50",
-  },
-  input: {
-    borderWidth: 1,
-    borderColor: "#B9D6F3",
-    paddingVertical: 12,
-    paddingHorizontal: 14,
-    borderRadius: 10,
-    backgroundColor: "#FFFFFF",
-    fontSize: 14,
-  },
-  pickerContainer: {
-    borderWidth: 1,
-    borderColor: "#B9D6F3",
-    borderRadius: 10,
-    backgroundColor: "#FFFFFF",
-    overflow: "hidden",
-  },
-  radioGroup: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "flex-start",
-    marginBottom: 16,
-    gap: 20,
-  },
-  radioOption: {
-    flexDirection: "row",
-    alignItems: "center",
-  },
-  radioCircle: {
-    height: 20,
-    width: 20,
-    borderRadius: 10,
-    borderWidth: 2,
-    borderColor: "#777",
-    alignItems: "center",
-    justifyContent: "center",
-    marginRight: 6,
-  },
-  selectedDot: {
-    height: 10,
-    width: 10,
-    borderRadius: 5,
-    backgroundColor: "#011F82",
-  },
-  radioLabel: {
-    fontSize: 14,
-    color: "#333",
-  },
-  ccqtRow: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-    gap: 10,
-    marginBottom: 16,
-  },
-  ccqtPicker: {
-    flex: 1.2,
-  },
-  ccqtInput: {
-    flex: 1,
-  },
-  placeholderBox: {
-    backgroundColor: "#eee",
-    padding: 10,
-    borderRadius: 8,
-    borderWidth: 1,
-    borderColor: "#ccc",
-  },
-  placeholderText: {
-    color: "#888",
-    fontStyle: "italic",
-  },
-  sectionText: {
-    fontSize: 16,
-    fontWeight: "700",
-    color: "#011F82",
-    marginTop: 26,
-    marginBottom: 12,
-  },
-  sectionTitle: {
-    fontSize: 14,
-    fontWeight: "600",
-    color: "#34495E",
-    marginBottom: 10,
-  },
-  button: {
-    backgroundColor: "#011F82",
-    paddingVertical: 14,
-    borderRadius: 10,
-    alignItems: "center",
-    marginTop: 32,
-    marginBottom: 40,
-    shadowColor: "#000",
-    shadowOpacity: 0.1,
-    shadowOffset: { width: 0, height: 2 },
-    shadowRadius: 4,
-    elevation: 3,
-  },
-  buttonText: {
-    color: "#FFFFFF",
-    fontSize: 16,
-    fontWeight: "bold",
-    textTransform: "uppercase",
-  },
-  result: {
-    backgroundColor: "#E6F0FF",
-    padding: 18,
-    borderRadius: 12,
-    marginTop: 10,
-  },
+  // inputGroup: {
+  //   marginBottom: 18,
+  // },
+  // label: {
+  //   fontSize: 14,
+  //   fontWeight: "600",
+  //   marginBottom: 8,
+  //   color: "#2C3E50",
+  // },
+  // input: {
+  //   borderWidth: 1,
+  //   borderColor: "#B9D6F3",
+  //   paddingVertical: 12,
+  //   paddingHorizontal: 14,
+  //   borderRadius: 10,
+  //   backgroundColor: "#FFFFFF",
+  //   fontSize: 14,
+  // },
+  // pickerContainer: {
+  //   borderWidth: 1,
+  //   borderColor: "#B9D6F3",
+  //   borderRadius: 10,
+  //   backgroundColor: "#FFFFFF",
+  //   overflow: "hidden",
+  // },
+  // radioGroup: {
+  //   flexDirection: "row",
+  //   alignItems: "center",
+  //   justifyContent: "flex-start",
+  //   marginBottom: 16,
+  //   gap: 20,
+  // },
+  // radioOption: {
+  //   flexDirection: "row",
+  //   alignItems: "center",
+  // },
+  // radioCircle: {
+  //   height: 20,
+  //   width: 20,
+  //   borderRadius: 10,
+  //   borderWidth: 2,
+  //   borderColor: "#777",
+  //   alignItems: "center",
+  //   justifyContent: "center",
+  //   marginRight: 6,
+  // },
+  // selectedDot: {
+  //   height: 10,
+  //   width: 10,
+  //   borderRadius: 5,
+  //   backgroundColor: "#011F82",
+  // },
+  // radioLabel: {
+  //   fontSize: 14,
+  //   color: "#333",
+  // },
+  // ccqtRow: {
+  //   flexDirection: "row",
+  //   alignItems: "center",
+  //   justifyContent: "space-between",
+  //   gap: 10,
+  //   marginBottom: 16,
+  // },
+  // ccqtPicker: {
+  //   flex: 1.2,
+  // },
+  // ccqtInput: {
+  //   flex: 1,
+  // // },
+  // placeholderBox: {
+  //   backgroundColor: "#eee",
+  //   padding: 10,
+  //   borderRadius: 8,
+  //   borderWidth: 1,
+  //   borderColor: "#ccc",
+  // },
+  // placeholderText: {
+  //   color: "#888",
+  //   fontStyle: "italic",
+  // },
+  // sectionText: {
+  //   fontSize: 16,
+  //   fontWeight: "700",
+  //   color: "#011F82",
+  //   marginTop: 26,
+  //   marginBottom: 12,
+  // },
+  // sectionTitle: {
+  //   fontSize: 14,
+  //   fontWeight: "600",
+  //   color: "#34495E",
+  //   marginBottom: 10,
+  // },
+  // button: {
+  //   backgroundColor: "#011F82",
+  //   paddingVertical: 14,
+  //   borderRadius: 10,
+  //   alignItems: "center",
+  //   marginTop: 32,
+  //   marginBottom: 40,
+  //   shadowColor: "#000",
+  //   shadowOpacity: 0.1,
+  //   shadowOffset: { width: 0, height: 2 },
+  //   shadowRadius: 4,
+  //   elevation: 3,
+  // },
+  // buttonText: {
+  //   color: "#FFFFFF",
+  //   fontSize: 16,
+  //   fontWeight: "bold",
+  //   textTransform: "uppercase",
+  // },
+  // result: {
+  //   backgroundColor: "#E6F0FF",
+  //   padding: 18,
+  //   borderRadius: 12,
+  //   marginTop: 10,
+  // },
 });

@@ -3,7 +3,7 @@ import { View, Text, TextInput, StyleSheet } from 'react-native';
 
 const InputField = ({ label, value, onChangeText, keyboardType = 'numeric' }) => {
   return (
-    <View style={styles.inputContainer}>
+    <View style={styles.inputGroup}>
       <Text style={styles.label}>{label}</Text>
       <TextInput
         style={styles.input}
@@ -16,15 +16,25 @@ const InputField = ({ label, value, onChangeText, keyboardType = 'numeric' }) =>
 };
 
 const styles = StyleSheet.create({
-  inputContainer: { marginVertical: 5 },
-  label: { fontSize: 16, marginBottom: 3 },
+  inputGroup: {
+    paddingHorizontal:10,
+    marginBottom: 18,
+  },
+  label: {
+    fontSize: 12,
+    fontWeight: "600",
+    marginBottom: 8,
+    color: "#2C3E50",
+  },
   input: {
     borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 6,
-    padding: 8,
-    fontSize: 16
-  }
+    borderColor: "#B9D6F3",
+    paddingVertical: 12,
+    paddingHorizontal: 14,
+    borderRadius: 10,
+    backgroundColor: "#FFFFFF",
+    fontSize: 14,
+  },
 });
 
 export default InputField;
