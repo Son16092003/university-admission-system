@@ -8,38 +8,38 @@ import {
 } from "react-native";
 import { Picker } from "@react-native-picker/picker";
 
-const CCTAInput = ({ form, handleChange, dsCCTA }) => {
+const DiemCCQTComponent = ({ form, handleChange, dsCCQT }) => {
   return (
     <View>
-      <Text style={styles.sectionTitle}>Chứng chỉ tiếng Anh</Text>
+      <Text style={styles.sectionTitle}>Chứng chỉ quốc tế</Text>
 
       {/* Radio chọn Có / Không */}
       {
-      ["1", "2", "3", "4"].includes(form.doiTuong) && 
+      ["3", "5"].includes(form.doiTuong) && 
       (
         <View style={styles.radioGroup}>
           <TouchableOpacity
             style={styles.radioOption}
-            onPress={() => handleChange("CCTA", "chungChi", "co")}
+            onPress={() => handleChange("CCQT", "chungChi", "co")}
           >
             <View style={styles.radioCircle}>
-              {form.CCTA.chungChi === "co" && (
+              {form.CCQT.chungChi === "co" && (
                 <View style={styles.selectedDot} />
               )}
             </View>
-            <Text style={styles.radioLabel}>Có CCTA</Text>
+            <Text style={styles.radioLabel}>Có CCQT</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
             style={styles.radioOption}
-            onPress={() => handleChange("CCTA", "chungChi", "khong")}
+            onPress={() => handleChange("CCQT", "chungChi", "khong")}
           >
             <View style={styles.radioCircle}>
-              {form.CCTA.chungChi === "khong" && (
+              {form.CCQT.chungChi === "khong" && (
                 <View style={styles.selectedDot} />
               )}
             </View>
-            <Text style={styles.radioLabel}>Không có CCTA</Text>
+            <Text style={styles.radioLabel}>Không có CCQT</Text>
           </TouchableOpacity>
         </View>
       )}
@@ -47,19 +47,19 @@ const CCTAInput = ({ form, handleChange, dsCCTA }) => {
       {/* Chỉ hiển thị nếu chọn "Có" */}
       {
         // Hoặc là để điều kiện như hiện tại,
-        // hoặc là làm theo kiểu trường hợp 5,6,7,8 mặc định form.CCTA.chungChi = "co"
-        // làm cách 2 thì logic tốt hơn, và lúc đó chỉ cần 1 điều kiện form.CCTA.chungChi === "co"
-       (!["1", "2", "3", "4"].includes(form.doiTuong) ||
-        form.CCTA.chungChi === "co") && 
+        // hoặc là làm theo kiểu trường hợp 4,7,8 mặc định form.CCQT.chungChi = "co"
+        // làm cách 2 thì logic tốt hơn, và lúc đó chỉ cần 1 điều kiện form.CCQT.chungChi === "co"
+       (!["3", "5"].includes(form.doiTuong) ||
+        form.CCQT.chungChi === "co") && 
         (
         <View style={styles.ccqtRow}>
           <View style={[styles.pickerContainer, styles.ccqtPicker]}>
             <Picker
-              selectedValue={form.CCTA.loai}
-              onValueChange={(value) => handleChange("CCTA", "loai", value)}
+              selectedValue={form.CCQT.loai}
+              onValueChange={(value) => handleChange("CCQT", "loai", value)}
             >
-              {dsCCTA &&
-                dsCCTA.map((item, index) => (
+              {dsCCQT &&
+                dsCCQT.map((item, index) => (
                   <Picker.Item key={index} label={item} value={item} />
                 ))}
             </Picker>
@@ -68,9 +68,9 @@ const CCTAInput = ({ form, handleChange, dsCCTA }) => {
           <TextInput
             style={[styles.input, styles.ccqtInput]}
             keyboardType="numeric"
-            placeholder="Điểm CCTA tương ứng"
-            value={form.CCTA.diem}
-            onChangeText={(value) => handleChange("CCTA", "diem", value)}
+            placeholder="Điểm CCQT tương ứng"
+            value={form.CCQT.diem}
+            onChangeText={(value) => handleChange("CCQT", "diem", value)}
           />
         </View>
       )}
@@ -78,7 +78,7 @@ const CCTAInput = ({ form, handleChange, dsCCTA }) => {
   );
 };
 
-export default CCTAInput;
+export default DiemCCQTComponent;
 
 const styles = StyleSheet.create({
   pickerContainer: {

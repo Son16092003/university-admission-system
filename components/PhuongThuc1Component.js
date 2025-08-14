@@ -50,6 +50,14 @@ const PhuongThuc1Component = ({
         value={form.diemDGNL.toan}
         onChangeText={(value) => handleChange("diemDGNL", "toan", value)}
       />
+
+      <Text style={styles.sectionTitle}>Điểm TNTHPT (3 môn tổ hợp):</Text>
+      {renderInput("TB10 môn 1", "tb10_1", "numeric")}
+      {renderInput("TB10 môn 2", "tb10_2", "numeric")}
+      {renderInput("TB10 môn 3", "tb10_3", "numeric")}
+      {renderInput("TB10 môn 4", "tb10_4", "numeric")}
+      {renderInput("TB10 môn 5", "tb10_5", "numeric")}
+
       <Button title="Tính điểm" onPress={onTinhDiem} />
     </View>
   );
